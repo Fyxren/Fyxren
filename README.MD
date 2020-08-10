@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="DieGoedeMan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan.png" />
+<img align="left" alt="DieGoedeMan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan" />
 
 
 [vsc]: https://code.visualstudio.com/
