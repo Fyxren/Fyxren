@@ -25,7 +25,7 @@
 ---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DieGoedeMan)
-<img align="left" alt="DieGoedeMan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+<img align="left" alt="DieGoedeMan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan" />
 
 
 
