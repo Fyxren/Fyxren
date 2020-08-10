@@ -28,7 +28,7 @@
 ---
 
 <img align="left" alt="DieGoedeMan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DieGoedeMan&show_icons=true&hide_border=true" />
-<img align="left" alt="DieGoedeMans's Top Languages" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)" />
+<img align="left" alt="DieGoedeMans's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan&layout=compact" />
 
 [vsc]: https://code.visualstudio.com/
 [website]: https://github.com/DieGoedeMan
