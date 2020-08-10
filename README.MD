@@ -31,7 +31,7 @@
 
 <img align="left" alt="DieGoedeMan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [vsc]: https://code.visualstudio.com/
