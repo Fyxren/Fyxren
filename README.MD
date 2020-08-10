@@ -27,8 +27,8 @@
 
 ---
 
-<img align="left" alt="DieGOedeMan's Github Stats" src="https://github-readme-stats .vercel.app/api?username=DieGoedeMan&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)](https://github.com/DieGoedeMan/github-readme-stats)
+<img align="left" alt="DieGoedeMan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DieGoedeMan&show_icons=true&hide_border=true" />
+<img align="left" alt="DieGoedeMans's Top Languages" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)](https://github.com/DieGoedeMan/github-readme-stats)" />
 
 [vsc]: https://code.visualstudio.com/
 [website]: https://github.com/DieGoedeMan
