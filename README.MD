@@ -26,7 +26,7 @@
 
 <img align="left" alt="DieGoedeMan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DieGoedeMan&show_icons=true&hide_border=true" />
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DieGoedeMan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
