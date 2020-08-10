@@ -28,7 +28,6 @@
 
 ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=DieGoedeMan)
 
-
 [vsc]: https://code.visualstudio.com/
 [website]: https://github.com/DieGoedeMan
 [twitter]: https://twitter.com/DieGoedeMan
