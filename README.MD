@@ -1,4 +1,4 @@
-# Hi there, I'm Ben - aka [DieGoedeMan][website] 👋
+## Hi there, I'm Ben - aka [DieGoedeMan][website] 👋
 
 ### I'm a random 16 y/o guy who likes to make Discord bots!!
 - 🤖 I'm mainly focusing on Discord bots!
@@ -25,7 +25,7 @@
 ---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DieGoedeMan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [vsc]: https://code.visualstudio.com/
