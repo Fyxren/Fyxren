@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="DieGOedeMan's Github Stats" src="https://github-readme-stats.diegoedeman.vercel.app/api?username=DieGoedeMan&show_icons=true&hide_border=true" />
+<img align="left" alt="DieGOedeMan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DieGoedeMan&show_icons=true&hide_border=true" />
 
 [vsc]: https://code.visualstudio.com/
 [website]: https://github.com/DieGoedeMan
