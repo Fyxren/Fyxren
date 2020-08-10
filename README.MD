@@ -25,7 +25,6 @@
 ---
 
 ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=DieGoedeMan)
-![Ben's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan)
 
 
 [vsc]: https://code.visualstudio.com/
