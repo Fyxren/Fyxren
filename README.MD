@@ -2,7 +2,9 @@
 
 ### I'm a random 16 y/o guy who likes to make Discord bots!!
 - 🤖 I'm mainly focusing on Discord bots!
-- 🥅 2020 Goals: Contribute to other public repo's and try to make a website!
+- 🥅 2020 Goals:
+    - Contribute to other public repo's!
+    - Trying to make a website!
 - ⚡ Fun fact: I love to play the piano! 🎶
 
 ### Connect with me:
