@@ -5,6 +5,7 @@
 - 🥅 2020 Goals:
     - Contribute to other public repo's!
     - Trying to make a website!
+    - Try to learn React!
 - ⚡ Fun fact: I love to play the piano! 🎶
 
 ### Connect with me:
