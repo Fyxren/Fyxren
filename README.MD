@@ -26,7 +26,7 @@
 <br />
 
 ---
-![Stats](https://metrics.lecoq.io/Mafia-boss-lvl-420?base.repositories=0&languages=1&isocalendar=1&followup=1)
+![Stats](https://metrics.lecoq.io/DieGoedeMan?base.repositories=0&languages=1&isocalendar=1&followup=1)
 ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=DieGoedeMan)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DieGoedeMan&show_icons=true&count_private=true)
 
