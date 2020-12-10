@@ -26,7 +26,11 @@
 <br />
 
 ---
-![Stats](https://metrics.lecoq.io/DieGoedeMan?base.repositories=0&languages=1&isocalendar=1&followup=1)
+<div align="center">
+    <a href="https://youtu.be/dQw4w9WgXcQ">
+        <img src="https://metrics.lecoq.io/DieGoedeMan?base.repositories=0&languages=1&isocalendar=1&followup=1">
+  </a>
+</div>
 
 [vsc]: https://code.visualstudio.com/
 [website]: https://github.com/DieGoedeMan
