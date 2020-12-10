@@ -2,7 +2,7 @@
 
 ### I'm a random 16 y/o guy who likes to make Discord bots!
 - 🤖 I'm mainly focusing on Discord bots!
-- 🥅 2020 Goals:
+- 🥅 2021 Goals:
     - Contribute to other public repo's!
     - Trying to make a website!
     - Try to learn React!
