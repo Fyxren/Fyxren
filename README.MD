@@ -27,7 +27,7 @@
 
 ---
 <div align="center">
-###### You can click on this image, want to try?
+    <b>You can click on this image, want to try?</b>
 </div>
 <div align="center">
     <a href="https://youtu.be/dQw4w9WgXcQ">
