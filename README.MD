@@ -2,6 +2,7 @@
 
 ### I'm a random 16 y/o guy who likes to make Discord bots!
 - 🤖 I'm mainly focusing on Discord bots!
+- 🔔 My first Discord bot is open, [check it out](https://discord.com/api/oauth2/authorize?client_id=792824373894840361&permissions=8&scope=bot)!
 - 🥅 2021 Goals:
     - Contribute to other public repo's!
     - Trying to make a website!
