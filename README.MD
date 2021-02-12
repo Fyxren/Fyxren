@@ -1,4 +1,4 @@
-## Hi there, I'm Ben - aka [DieGoedeMan][website] 👋
+## Hi there, I'm Ben - aka [Exstare][website] 👋
 
 ### I'm a random 16 y/o guy who likes to make Discord bots!
 - 🤖 I'm mainly focusing on Discord bots!
