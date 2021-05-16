@@ -15,13 +15,23 @@
 
 ### Connect with me:
 
-![]
+<a href="https://github.com/Exstare"><img src="assets/social/github.png" alt="github" width="45"/></a>
+<a href="https://instagram.com/B_vd_W"><img src="assets/social/instagram.png" alt="instagram" width="45"/></a>
+<a href="https://twitter.com/Exstare_"><img src="assets/social/twitter.png" alt="twitter" width="45"/></a>
+<a href="https://www.youtube.com/channel/UCRwjM_d-oqKHf99FXpFIv-A"><img src="assets/social/youtube.png" alt="youtube" width="45"/></a>
 
 <br />
 
 ### Languages and Tools:
 
-hi
+<a href=""><img src="assets/tools/vsc.png" alt="vsc" width="45" /></a>
+<a href=""><img src="assets/tools/node-js.webp" alt="nodeJS" width="45" /></a>
+<a href=""><img src="assets/tools/js.webp" alt="js" width="45" /></a>
+<a href=""><img src="assets/tools/mysql.png" alt="MySQL" width="45" /></a>
+<a href=""><img src="assets/tools/heidi.png" alt="heidi" width="45" /></a>
+<a href=""><img src="assets/tools/react.webp" alt="react" width="45" /></a>
+<a href=""><img src="assets/tools/npm.png" alt="npm" width="45" /></a>
+<a href=""><img src="assets/tools/git.png" alt="git" width="45" /></a>
 
 <br />
 <br />
@@ -35,9 +45,3 @@ hi
         <img src="https://metrics.lecoq.io/Exstare?base.repositories=0&languages=1&isocalendar=1&followup=1">
   </a>
 </div>
-
-[vsc]: https://code.visualstudio.com/
-[website]: https://github.com/Exstare
-[twitter]: https://twitter.com/Exstare_
-[instagram]: https://instagram.com/B_vd_W
-[nothing]: .
