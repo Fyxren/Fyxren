@@ -1,4 +1,4 @@
-## Hi there, I'm Ben - aka [Exstare][website] 👋
+## Hi there, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
 
 ### I'm a random 16 y/o guy who likes to make Discord bots!
 - 🤖 I'm mainly focusing on Discord bots!
@@ -8,9 +8,9 @@
     - [KahootSpammer](https://github.com/Exstare/KahootSpammer) - Spam Kahoots full of users with this little CLI tool.
 - 🥅 2021 Goals:
     - Contribute to other public repo's.
-    - [*] Making an open-source free to use public 
-    - [*] Try to make a website.
-    - [*] Try to learn React.
+    - Making an open-source free to use public 
+    - Try to make a website.
+    - Try to learn React.
 - ⚡ Fun fact: I love to play the piano! 🎶
 
 ### Connect with me:
