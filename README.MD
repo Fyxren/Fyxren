@@ -1,6 +1,6 @@
 ## Hi there, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
 
-### I'm a random 16 y/o guy who likes to make Discord bots!
+### I'm a random 17 y/o guy who likes to make Discord bots!
 - 🤖 I'm mainly focusing on Discord bots!
 - 🔔 Projects!
     - [McData](https://discord.ly/mcdata) - Minecraft info in a Discord bot.
