@@ -1,4 +1,4 @@
-## Hi there, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
+## Sup, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
 
 ### I'm a random 17 y/o guy who likes to make Discord bots!
 - 🤖 I'm mainly focusing on Discord bots!
