@@ -7,7 +7,7 @@
     - [Exstare.eu](https://exstare.eu) - My own personal website, which sucks so much and isn't finished yet.
     - _Secret_:
         - A Discord bot, which will be secret for now.. _(ETA: 1 june 2021)_
-        - It includes an API, which I make myself. Will be free to use and opensource too (ETA: When I finish it, if I finish it..)
+        - It includes an API, which I make myself. Will be free to use and opensource too _(ETA: When I finish it, if I finish it..)_
 - 🔔 Projects!
     - [McData](https://discord.ly/mcdata) - Minecraft info in a Discord bot.
     - [RandomReddit](https://discord.ly/randomreddit) - Random images from reddit in a Discord bot (NSFW-filtered).
