@@ -9,8 +9,8 @@
         - A Discord bot, which will be secret for now.. _(ETA: 1 june 2021)_
         - It includes an API, which I make myself. Will be free to use and opensource too _(ETA: When I finish it, if I finish it..)_
 - 🔔 Projects!
-    - [McData](https://discord.ly/mcdata) - Minecraft info in a Discord bot.
-    - [RandomReddit](https://discord.ly/randomreddit) - Random images from reddit in a Discord bot (NSFW-filtered).
+    - [McData](https://discord-botlist.eu/bots/792824373894840361) - Minecraft info in a Discord bot.
+    - [RandomReddit](https://discord-botlist.eu/bots/829989265097752618) - Random images from reddit in a Discord bot (NSFW-filtered).
     - [KahootSpammer](https://github.com/Exstare/KahootSpammer) - Spam Kahoots full of users with this little CLI tool.
 - 🥅 2021 Goals:
     - Contribute to other public repo's.
