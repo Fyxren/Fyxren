@@ -6,7 +6,7 @@
     - McDataAPI - An API full of Minecraft data, will be free to use and opensource.
     - [Exstare.eu](https://exstare.eu) - My own personal website, which sucks so much and isn't finished yet.
     - _Secret_:
-        - A Discord bot, which will be secret for now.. _(ETA: 1 june 2021)_
+        - A Discord bot, which will be secret for now.. _(ETA: 1 june 2021 >> 1 juli now lol I'm bad at this)_
         - It includes an API, which I make myself. Will be free to use and opensource too _(ETA: When I finish it, if I finish it..)_
 - 🔔 Projects!
     - [McData](https://discord-botlist.eu/bots/792824373894840361) - Minecraft info in a Discord bot.
