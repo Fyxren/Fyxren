@@ -14,7 +14,7 @@
     - [KahootSpammer](https://github.com/Exstare/KahootSpammer) - Spam Kahoots full of users with this little CLI tool.
 - 🥅 2021 Goals:
     - Contribute to other public repo's.
-    - Making an open-source free to use public 
+    - Making an open-source free to use public API.
     - Try to make a website.
     - Try to learn React.
 - ⚡ Fun fact: I love to play the piano! 🎶
