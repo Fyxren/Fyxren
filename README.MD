@@ -42,6 +42,7 @@
 <a href="https://www.mysql.com/"><img src="assets/tools/mysql.png" alt="MySQL" width="45" /></a>
 <a href="https://www.heidisql.com/"><img src="assets/tools/heidi.png" alt="heidi" width="45" /></a>
 <a href="https://reactjs.org/"><img src="assets/tools/react.webp" alt="react" width="45" /></a>
+<a href="https://yarnpkg.com/"><img src="assets/tools/yarn.png" alt="yarn" width="45" /></a>
 <a href="http://npmjs.com/"><img src="assets/tools/npm.png" alt="npm" width="45" /></a>
 <a href="https://git-scm.com/"><img src="assets/tools/git.png" alt="git" width="45" /></a>
 
