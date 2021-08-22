@@ -1,7 +1,7 @@
 ## Sup, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
 
-### I'm a random 17 y/o guy who likes to make Discord bots!
-- 💻 I'm mainly focusing on Discord bots and learning frontend/backend webdevelopment!
+### I'm a random 17 y/o guy who likes to code!
+- 💻 I'm currently mainly focusing on learning frontend/backend webdevelopment!
 - ⚙ Currently working on:
     - McDataAPI - An API full of Minecraft data, will be free to use and opensource.
     - [Exstare.eu](https://exstare.eu) - My own personal website, which sucks so much and isn't finished yet.
