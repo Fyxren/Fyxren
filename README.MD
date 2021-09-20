@@ -14,16 +14,19 @@
     - [KahootSpammer](https://github.com/Exstare/KahootSpammer) - Spam Kahoots full of users with this little CLI tool.
 - 📃 Gists:
     - [Hypixel Gametypes](https://gist.github.com/Exstare/1b63a7d011eae11ab15fddcfef14c18d) - Gametypes used in the Hypixel API. Present as array and objects
-    - [Discord.js Events Cheetsheet](https://gist.github.com/Exstare/7687ff99a7e19da98f68cf0613de560b) - An (updated) cheetsheet from [this](https://gist.github.com/koad/316b265a91d933fd1b62dddfcc3ff584) one. Newer and clearer.
+    - [Discord.js Events Cheetsheet](https://gist.github.com/Exstare/7687ff99a7e19da98f68cf0613de560b) - An (updated) cheetsheet from [this](https://gist.github.com/koad/316b265a91d933fd1b62dddfcc3ff584) one. Newer and clearer. _(Not updated for discord.js v13 YET!)_
 - 🌱Currently learning:
-    - React
-    - Tailwind
-    - Webdevelopment (frontend/backend)
+    - Webdevelopment
+        - Frontend: React, Tailwind
+        - Backend: Express
+    - UI/UX design _(Woha, I'm terrible)_
+    - App development _(React Native)_
 - 🥅 2021 Goals:
     - Contribute to other public repo's.
     - Making an open-source free to use public API.
-    - Making an app using Flutter
-- ⚡ Fun fact: I love to play the piano! 🎶
+    - Making a _(simple)_ app using React Native.
+    - Discovering the meaning of life.
+- ⚡ Fun fact: I love to play the [piano](https://www.youtube.com/playlist?list=PLOT6alYbTjQQ-tlYPUODnaKjDrzT-Fy2C)! 🎶
 
 ### Connect with me:
 
