@@ -1,7 +1,7 @@
 ## Sup, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
 
 ### I'm a random 17 y/o guy who likes to code!
-- 💻 I'm currently mainly focusing on learning frontend/backend webdevelopment!
+- 💻 I'm currently mainly focusing on learning frontend/backend webdevelopment and web/app design!
 - ⚙ Currently working on:
     - McDataAPI - An API full of Minecraft data, will be free to use and opensource.
     - [Exstare.eu](https://exstare.eu) - My own personal website, which sucks so much and isn't finished yet.
@@ -45,6 +45,7 @@
 <a href="https://yarnpkg.com/"><img src="assets/tools/yarn.png" alt="yarn" width="45" /></a>
 <a href="http://npmjs.com/"><img src="assets/tools/npm.png" alt="npm" width="45" /></a>
 <a href="https://git-scm.com/"><img src="assets/tools/git.png" alt="git" width="45" /></a>
+<a href="https://www.adobe.com/products/xd.html"><img src="assets/tools/xd.png" alt="xd" width="45" /></a>
 
 <br />
 <br />
