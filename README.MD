@@ -37,16 +37,22 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Frameworks:
 
-<a href="https://code.visualstudio.com/"><img src="assets/tools/vsc.png" alt="vsc" width="45" /></a>
+
 <a href="https://nodejs.org/en/"><img src="assets/tools/node-js.webp" alt="nodeJS" width="45" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="assets/tools/js.webp" alt="js" width="45" /></a>
 <a href="https://www.mysql.com/"><img src="assets/tools/mysql.png" alt="MySQL" width="45" /></a>
-<a href="https://www.heidisql.com/"><img src="assets/tools/heidi.png" alt="heidi" width="45" /></a>
 <a href="https://reactjs.org/"><img src="assets/tools/react.webp" alt="react" width="45" /></a>
-<a href="https://yarnpkg.com/"><img src="assets/tools/yarn.png" alt="yarn" width="45" /></a>
+<a href="https://tailwindcss.com/"><img src="assets/tools/tailwind.png" alt="tailwindcss" width="45" /></a>
+
+
+
+# Tools
+<a href="https://code.visualstudio.com/"><img src="assets/tools/vsc.png" alt="vsc" width="45" /></a>
+<a href="https://www.heidisql.com/"><img src="assets/tools/heidi.png" alt="heidi" width="45" /></a>
 <a href="http://npmjs.com/"><img src="assets/tools/npm.png" alt="npm" width="45" /></a>
+<a href="https://yarnpkg.com/"><img src="assets/tools/yarn.png" alt="yarn" width="45" /></a>
 <a href="https://git-scm.com/"><img src="assets/tools/git.png" alt="git" width="45" /></a>
 <a href="https://www.adobe.com/products/xd.html"><img src="assets/tools/xd.png" alt="xd" width="45" /></a>
 
