@@ -1,14 +1,15 @@
 ##  Sup, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
 
-- 💻 I'm currently mainly focusing on learning frontend/backend webdevelopment and web/app design!
+- 💻 I'm currently mainly focusing on learning frontend/backend webdevelopment!
 
 - ⚙️ Currently working on wayyy to many projects
 
 - 🥅 2022 Goals:
     - Contribute to other public repo's
+    - Revisit Discord bots // rewriting McData
     - Making an open-source free to use public API
     - Making a app using React Native
-    - Discovering the meaning of life
+    - Wondering what I'm doing on earth
     - Get good at Valorant/CS:GO/Rocket League
 
 ## Languages
