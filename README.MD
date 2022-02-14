@@ -26,4 +26,4 @@
 
 ## Projects
 
-[![](https://img.shields.io/badge/-👤%20Me.exstare.eu-000)](https://me.exstare.eu)  [![](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000)](https://github.com/Exstare/KahootSpammer) [![](https://img.shields.io/badge/-🏅%20WIP%20•%20MyRanks-000)](https://github.com/Exstare/KahootSpammer)
+[![](https://img.shields.io/badge/-👤%20Me.exstare.eu-000)](https://me.exstare.eu)  [![](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000)](https://github.com/Exstare/KahootSpammer) [![](https://img.shields.io/badge/-🏅%20WIP%20•%20MyRanks-000)](https://myranks.netlify.app)
