@@ -1,15 +1,15 @@
-##  Sup, I'm Ben - aka [Exstare](https://github.com/Exstare) 👋
-_Professional idiot, codes a bit, plays some games, still goes to secondary/high school btw_
+##  Sup, I'm Ben - aka [Fyxren](https://github.com/Fyxren) 👋
+_Professional idiot, codes a bit, plays some games, still goes to secondary/high school, previously known as **Exstare**_.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://github.com/Exstare) [![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/Exstare) [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/462914535351779328)  [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRwjM_d-oqKHf99FXpFIv-A) [![Insta](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/exstare) [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/exstare_) 
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://github.com/Fyxren) [![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/Fyxren) [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/462914535351779328)  [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRwjM_d-oqKHf99FXpFIv-A) [![Insta](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/Fyxren) [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/Fyxren) 
 
 
 ## Info
 
 ```js
-const Exstare = {
+const Fyxren = {
     name: 'Ben',
-    nicknames: ['Exstare', 'Ex'],
+    nicknames: ['Fyxren', 'Fy'],
     pronouns: 'He/him',
     age: 18,
     workingOn: [
@@ -25,8 +25,7 @@ const Exstare = {
     ],
     funFacts: [
         'I love cats 🥰',
-        'I love to play the piano 🎹',
-        '"Gets all Discord kittens" - Sophie 🥲'
+        'I love to play the piano 🎹'
     ]
 }
 ```
@@ -42,7 +41,7 @@ const Exstare = {
 ![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=spotify)
 
 ##  Projects
-[![](https://img.shields.io/badge/-👤%20Me.exstare.eu-000)](https://me.exstare.eu) [![](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000)](https://github.com/Exstare/KahootSpammer) [![](https://img.shields.io/badge/-McData-000?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAf1JREFUOE9tkk1ME1EUhc9jSqF0hlJKOwUSMoKNMQbigkQXLIxhows2sBBlxdKlMd2jC4mJG2NcEKMbf6IhBFc1MYgLjdjIhtY/KihQ0t9JIx2llMoj98EbLPo2M2/e/c49575h+M8au3d+7qf/z6l0JoNerfPtleGpvsNlTH4I3+/fTlbyjqCuw/mbodzAEQoYSCwvIdTZhfmlGPxld+XG6MtaYgR4bXKAr5bycJdqofjrAQ6EdANv4lEEAwHaIujwQmv24NnEDGYffGMCHH9xgadyaSiNdWA7gIIaNLs8yG4VYOZN+Fp8+DyTQrlUhrPeicjthT3w0tlu7hrVwCscvcd6hK2jLR0CfD+9KNIwMGiaCjOSRTSR3gPvXD7H331JioLu8AnEbn4ECa1HLWwUi2hUVWxYFowVFZa1iefRfauR6xcpBh7OxgTc7nVjvfBLvCfWcmj1qkgVLJzpMfB1LX8AhgdPC/DvRSCpq6qr6kk1dkcJbmMHXboPq5mC0Hi98MPuIkVJ6NGr2EFGeVD0MJxsaBK2qaOw3t6ED/GksFzVkaYqs3XoXqS2NtFntAm4zqXAzFkCoJwE21af3h1ZzsXNI3KyNBzOgE/fs3AoNXZOgo8PhW6NhyNX7V9OWqWroYzUmYRIJOlsw+MnU1W1/4BSgAYmR3944rTfBS6r3g9GXYhOAAAAAElFTkSuQmCC)](https://dbleu.org/b/792824373894840361)
+![](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000)](https://github.com/Exstare/KahootSpammer) [![](https://img.shields.io/badge/-McData-000?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAf1JREFUOE9tkk1ME1EUhc9jSqF0hlJKOwUSMoKNMQbigkQXLIxhows2sBBlxdKlMd2jC4mJG2NcEKMbf6IhBFc1MYgLjdjIhtY/KihQ0t9JIx2llMoj98EbLPo2M2/e/c49575h+M8au3d+7qf/z6l0JoNerfPtleGpvsNlTH4I3+/fTlbyjqCuw/mbodzAEQoYSCwvIdTZhfmlGPxld+XG6MtaYgR4bXKAr5bycJdqofjrAQ6EdANv4lEEAwHaIujwQmv24NnEDGYffGMCHH9xgadyaSiNdWA7gIIaNLs8yG4VYOZN+Fp8+DyTQrlUhrPeicjthT3w0tlu7hrVwCscvcd6hK2jLR0CfD+9KNIwMGiaCjOSRTSR3gPvXD7H331JioLu8AnEbn4ECa1HLWwUi2hUVWxYFowVFZa1iefRfauR6xcpBh7OxgTc7nVjvfBLvCfWcmj1qkgVLJzpMfB1LX8AhgdPC/DvRSCpq6qr6kk1dkcJbmMHXboPq5mC0Hi98MPuIkVJ6NGr2EFGeVD0MJxsaBK2qaOw3t6ED/GksFzVkaYqs3XoXqS2NtFntAm4zqXAzFkCoJwE21af3h1ZzsXNI3KyNBzOgE/fs3AoNXZOgo8PhW6NhyNX7V9OWqWroYzUmYRIJOlsw+MnU1W1/4BSgAYmR3944rTfBS6r3g9GXYhOAAAAAElFTkSuQmCC)](https://dbleu.org/b/792824373894840361)
 
 ## Wanting to learn
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js) ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript) ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
