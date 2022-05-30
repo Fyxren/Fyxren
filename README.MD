@@ -1,7 +1,9 @@
 ##  Sup, I'm Ben - aka [Fyxren](https://github.com/Fyxren) 👋
 _Professional idiot, codes a bit, plays some games, still goes to secondary/high school, previously known as **Exstare**_.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://github.com/Fyxren) [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/Fyxren) [![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/Fyxren) [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/462914535351779328)  [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRwjM_d-oqKHf99FXpFIv-A) [![Insta](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/Fyxren)
+> _**Gray** = Inactive on this social media platform due to personal reasons_
+
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://github.com/Fyxren) [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/Fyxren) [![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/Fyxren) [![Spotify](https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/wzan62emxdu2sm4vr1bt06dcb) [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRwjM_d-oqKHf99FXpFIv-A) [![Discord](https://img.shields.io/badge/-Discord-444?style=for-the-badge&logo=discord)](https://discord.com/users/462914535351779328) [![Insta](https://img.shields.io/badge/-Instagram-444?style=for-the-badge&logo=instagram)](https://instagram.com/Fyxren)
 
 
 ## Info
@@ -46,4 +48,4 @@ const Fyxren = {
 ## Wanting to learn
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
-> **Black** = _Using_ • **Gray** = _Learning / Trying to use_
+> _**Black** = Using • **Gray** = Learning / Trying to use_
