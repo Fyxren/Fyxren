@@ -1,5 +1,5 @@
 ##  Sup, I'm Ben - aka [Fyxren](https://github.com/Fyxren) 👋
-_Professional idiot, codes a bit, plays some games, still goes to secondary/high school, previously known as **Exstare**_.
+_Professional idiot, codes a bit, ~~plays some games~~, still goes to secondary/high school, previously known as **Exstare**_.
 
 > _**Gray** = Inactive on this social media platform due to personal reasons_
 
