@@ -1,24 +1,37 @@
-##  Sup, I'm Ben - aka [Fyxren](https://github.com/Fyxren) 👋
-_Professional idiot, codes a bit, ~~plays some games~~, still goes to secondary/high school._
+<h1 align="center"> Greetings, I'm Ben - aka Fyxren 👋 </h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fyxren&color=000000&style=for-the-badge)](https://fyxren.site)
+<p align="center"><i>Professional idiot, codes a bit, plays some games. Still goes to secondary/high school.</i></p>
 
-> _**Gray** = Inactive on this social media platform due to personal reasons_
-
-
-[![Paypal](https://img.shields.io/badge/-Paypal-000?style=for-the-badge&logo=paypal)](https://socials.fyxren.com/paypal) [![KoFi](https://img.shields.io/badge/-KoFi-000?style=for-the-badge&logo=kofi)](https://socials.fyxren.com/kofi)
-
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://socials.fyxren.com/twitter) [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://socials.fyxren.com/youtube) [![Discord](https://img.shields.io/badge/-Discord-444?style=for-the-badge&logo=discord)](https://socials.fyxren.com/discord) [![Insta](https://img.shields.io/badge/-Instagram-444?style=for-the-badge&logo=instagram)](https://socials.fyxren.com/instagram)
-
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://socials.fyxren.com/github) [![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)](https://socials.fyxren.com/gitlab) [![Spotify](https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify)](https://socials.fyxren.com/spotify) [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)](https://socials.fyxren.com/medium) [![Notion](https://img.shields.io/badge/-Notion%20Public%20Hub-000?style=for-the-badge&logo=notion)](https://socials.fyxren.com/notion) 
+<p align="center"><a href="https://fyxren.site"><img src="https://komarev.com/ghpvc/?username=fyxren&color=000000&style=for-the-badge"></a></p>
 
 
-## Info
+<p align="center">
+    <a href="https://socials.fyxren.com/paypal"><img src="https://img.shields.io/badge/-paypal-000?style=for-the-badge&logo=paypal"></a>
+    <a href="https://socials.fyxren.com/kofi"><img src="https://img.shields.io/badge/-kofi-000?style=for-the-badge&logo=kofi"></a>
+</p>
+
+<p align="center">
+    <a href="https://socials.fyxren.com/github"><img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github"></a>
+    <a href="https://socials.fyxren.com/gitlab"><img src="https://img.shields.io/badge/-gitlab-000?style=for-the-badge&logo=gitlab"></a>
+    <a href="https://socials.fyxren.com/medium"><img src="https://img.shields.io/badge/-medium-000?style=for-the-badge&logo=medium"></a>
+    <a href="https://socials.fyxren.com/notion"><img src="https://img.shields.io/badge/-notion%20public%20hub-000?style=for-the-badge&logo=notion"></a>
+</p>
+
+<p align="center">
+    <a href="https://socials.fyxren.com/discord"><img src="https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord"></a>
+    <a href="https://socials.fyxren.com/instagram"><img src="https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram"></a>
+    <a href="https://socials.fyxren.com/twitter"><img src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter"></a>
+    <a href="https://socials.fyxren.com/youtube"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube"></a>
+    <a href="https://socials.fyxren.com/spotify"><img src="https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify"></a>
+    <a href="https://socials.fyxren.com/steam"><img src="https://img.shields.io/badge/-steam-000?style=for-the-badge&logo=steam"></a>
+</p>
+
+## Info 😊
 
 ```js
 const Fyxren = {
     name: 'Ben',
-    nicknames: ['Fyxren', 'Fy'],
+    nicknames: ['Fyxren', 'Fy', 'Benny ( ... why ;-; )'],
     pronouns: 'He/him',
     age: 18,
     workingOn: [
@@ -29,30 +42,59 @@ const Fyxren = {
     yearGoals: [
         { goal: 'Contribute to other public repo\'s', difficulty: 'Easy' },
         { goal: 'Making an app using Flutter or React Native', difficulty: 'Medium' },
-        { goal: 'Get good at Valorant/CS:GO/Rocket League)', difficulty: 'Extraordinarily hard' },
-        { goal: 'Figuring out what I\'m doing on earth', difficulty: 'Mission impossible' }
+        { goal: 'Get good at games', difficulty: 'Mission impossible' }
     ],
     funFacts: [
         'I love cats 🥰',
-        'I love to play the piano 🎹'
+        'Plays the piano 🎹',
+        'Owner of a whopping 2 braincells 😐',
+        'TooManyIdeas,RarelyFinishesThem™️'
     ]
 }
 ```
 
-## Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![Typescript](https://img.shields.io/badge/-Typescript-444?&logo=typescript) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-## Technologies
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-444?&logo=next.js)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
-##  Tools
-![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudiocode) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma) ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitLab) ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion) ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=insomnia) ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAWlJREFUOE9jZCATMKLry9ns8B+bWVN8D6CohXOM+hj+m8s5MIhqYnfC6+sQ8ekhEAPgGnVbGP5LmzAwGAo54HT821sMDLNikDRqVDH8lzRgYGiwXAPW9P//fwZGRgxfMDQcD2F4foGB4UYbA0RWuYDhv7gWA0OryxoGR6UQhv33UGlxSTGGFUenMVTvCWF4eY2B4e4EqEb5VIb/omoMDJ1+axic1UMY9t7EpEEWlG8KYXh9i4Hh4WyoxiXrlv4PdA9gYGNjY2BlZWX4/fs3nAZpAInp6OgwnDx5kmH9zg0MMUHREKfOXzn/f4BbAAMXFxcDOzs7w8+fP+E0ExMTWOOPHz8Yvn//zrBh1waGxPBEiMbZS2b/93XxZeDn58cbOB8/fmTYvGczQ2pMKiLops2f9t/byRtvOtq6bytDVmIWajxOnDURnGI8HTyxat5+YDtYPD8tH1UjTHXvtF6sSa44qxh7kiM1rQMAlop/D632sN4AAAAASUVORK5CYII=)
-![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=spotify)
-
-##  Projects
-[![](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000)](https://github.com/Fyxren/KahootSpammer) [![](https://img.shields.io/badge/-McData-000?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAf1JREFUOE9tkk1ME1EUhc9jSqF0hlJKOwUSMoKNMQbigkQXLIxhows2sBBlxdKlMd2jC4mJG2NcEKMbf6IhBFc1MYgLjdjIhtY/KihQ0t9JIx2llMoj98EbLPo2M2/e/c49575h+M8au3d+7qf/z6l0JoNerfPtleGpvsNlTH4I3+/fTlbyjqCuw/mbodzAEQoYSCwvIdTZhfmlGPxld+XG6MtaYgR4bXKAr5bycJdqofjrAQ6EdANv4lEEAwHaIujwQmv24NnEDGYffGMCHH9xgadyaSiNdWA7gIIaNLs8yG4VYOZN+Fp8+DyTQrlUhrPeicjthT3w0tlu7hrVwCscvcd6hK2jLR0CfD+9KNIwMGiaCjOSRTSR3gPvXD7H331JioLu8AnEbn4ECa1HLWwUi2hUVWxYFowVFZa1iefRfauR6xcpBh7OxgTc7nVjvfBLvCfWcmj1qkgVLJzpMfB1LX8AhgdPC/DvRSCpq6qr6kk1dkcJbmMHXboPq5mC0Hi98MPuIkVJ6NGr2EFGeVD0MJxsaBK2qaOw3t6ED/GksFzVkaYqs3XoXqS2NtFntAm4zqXAzFkCoJwE21af3h1ZzsXNI3KyNBzOgE/fs3AoNXZOgo8PhW6NhyNX7V9OWqWroYzUmYRIJOlsw+MnU1W1/4BSgAYmR3944rTfBS6r3g9GXYhOAAAAAElFTkSuQmCC)](https://dbleu.org/b/792824373894840361)
-
-## Wanting to learn
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)![Electron](https://img.shields.io/badge/-Electron-000?&logo=electron)
-
+## Stack 💻 
 > _**Black** = Using • **Gray** = Learning / Trying to use_
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
+![MD](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Typescript](https://img.shields.io/badge/-Typescript-222?style=for-the-badge&logo=typescript)
+
+#### Technologies
+![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-222?style=for-the-badge&logo=next.js)
+
+![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn)
+![Npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222?style=for-the-badge&logo=mongodb)
+
+#### Tools
+![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitLab)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAWlJREFUOE9jZCATMKLry9ns8B+bWVN8D6CohXOM+hj+m8s5MIhqYnfC6+sQ8ekhEAPgGnVbGP5LmzAwGAo54HT821sMDLNikDRqVDH8lzRgYGiwXAPW9P//fwZGRgxfMDQcD2F4foGB4UYbA0RWuYDhv7gWA0OryxoGR6UQhv33UGlxSTGGFUenMVTvCWF4eY2B4e4EqEb5VIb/omoMDJ1+axic1UMY9t7EpEEWlG8KYXh9i4Hh4WyoxiXrlv4PdA9gYGNjY2BlZWX4/fs3nAZpAInp6OgwnDx5kmH9zg0MMUHREKfOXzn/f4BbAAMXFxcDOzs7w8+fP+E0ExMTWOOPHz8Yvn//zrBh1waGxPBEiMbZS2b/93XxZeDn58cbOB8/fmTYvGczQ2pMKiLops2f9t/byRtvOtq6bytDVmIWajxOnDURnGI8HTyxat5+YDtYPD8tH1UjTHXvtF6sSa44qxh7kiM1rQMAlop/D632sN4AAAAASUVORK5CYII=)
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
+![Spotify](https://img.shields.io/badge/-Spotify%20😊-000?style=for-the-badge&logo=spotify)
+
+#### Projects
+[![Kahoot Spammer](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000?style=for-the-badge)](https://github.com/Fyxren/KahootSpammer)
+[![McData](https://img.shields.io/badge/-McData-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAf1JREFUOE9tkk1ME1EUhc9jSqF0hlJKOwUSMoKNMQbigkQXLIxhows2sBBlxdKlMd2jC4mJG2NcEKMbf6IhBFc1MYgLjdjIhtY/KihQ0t9JIx2llMoj98EbLPo2M2/e/c49575h+M8au3d+7qf/z6l0JoNerfPtleGpvsNlTH4I3+/fTlbyjqCuw/mbodzAEQoYSCwvIdTZhfmlGPxld+XG6MtaYgR4bXKAr5bycJdqofjrAQ6EdANv4lEEAwHaIujwQmv24NnEDGYffGMCHH9xgadyaSiNdWA7gIIaNLs8yG4VYOZN+Fp8+DyTQrlUhrPeicjthT3w0tlu7hrVwCscvcd6hK2jLR0CfD+9KNIwMGiaCjOSRTSR3gPvXD7H331JioLu8AnEbn4ECa1HLWwUi2hUVWxYFowVFZa1iefRfauR6xcpBh7OxgTc7nVjvfBLvCfWcmj1qkgVLJzpMfB1LX8AhgdPC/DvRSCpq6qr6kk1dkcJbmMHXboPq5mC0Hi98MPuIkVJ6NGr2EFGeVD0MJxsaBK2qaOw3t6ED/GksFzVkaYqs3XoXqS2NtFntAm4zqXAzFkCoJwE21af3h1ZzsXNI3KyNBzOgE/fs3AoNXZOgo8PhW6NhyNX7V9OWqWroYzUmYRIJOlsw+MnU1W1/4BSgAYmR3944rTfBS6r3g9GXYhOAAAAAElFTkSuQmCC)](https://dbleu.org/b/792824373894840361)
+
+#### Wanting to learn / try
+![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=Unity)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
+![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
