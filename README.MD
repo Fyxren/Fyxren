@@ -85,9 +85,10 @@ const Fyxren = {
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
 ![Spotify](https://img.shields.io/badge/-Spotify%20😊-000?style=for-the-badge&logo=spotify)
 
-#### Projects
+<!-- EASTEREGG! Nope, not quite. This doesn't count as a stack and I couldn't be bothered since I want to change it in some way later sooo :) -->
+<!-- #### Projects
 [![Kahoot Spammer](https://img.shields.io/badge/-📝%20Kahoot%20Spammer-000?style=for-the-badge)](https://github.com/Fyxren/KahootSpammer)
-[![McData](https://img.shields.io/badge/-McData-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAf1JREFUOE9tkk1ME1EUhc9jSqF0hlJKOwUSMoKNMQbigkQXLIxhows2sBBlxdKlMd2jC4mJG2NcEKMbf6IhBFc1MYgLjdjIhtY/KihQ0t9JIx2llMoj98EbLPo2M2/e/c49575h+M8au3d+7qf/z6l0JoNerfPtleGpvsNlTH4I3+/fTlbyjqCuw/mbodzAEQoYSCwvIdTZhfmlGPxld+XG6MtaYgR4bXKAr5bycJdqofjrAQ6EdANv4lEEAwHaIujwQmv24NnEDGYffGMCHH9xgadyaSiNdWA7gIIaNLs8yG4VYOZN+Fp8+DyTQrlUhrPeicjthT3w0tlu7hrVwCscvcd6hK2jLR0CfD+9KNIwMGiaCjOSRTSR3gPvXD7H331JioLu8AnEbn4ECa1HLWwUi2hUVWxYFowVFZa1iefRfauR6xcpBh7OxgTc7nVjvfBLvCfWcmj1qkgVLJzpMfB1LX8AhgdPC/DvRSCpq6qr6kk1dkcJbmMHXboPq5mC0Hi98MPuIkVJ6NGr2EFGeVD0MJxsaBK2qaOw3t6ED/GksFzVkaYqs3XoXqS2NtFntAm4zqXAzFkCoJwE21af3h1ZzsXNI3KyNBzOgE/fs3AoNXZOgo8PhW6NhyNX7V9OWqWroYzUmYRIJOlsw+MnU1W1/4BSgAYmR3944rTfBS6r3g9GXYhOAAAAAElFTkSuQmCC)](https://dbleu.org/b/792824373894840361)
+[![McData](https://img.shields.io/badge/-McData-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAf1JREFUOE9tkk1ME1EUhc9jSqF0hlJKOwUSMoKNMQbigkQXLIxhows2sBBlxdKlMd2jC4mJG2NcEKMbf6IhBFc1MYgLjdjIhtY/KihQ0t9JIx2llMoj98EbLPo2M2/e/c49575h+M8au3d+7qf/z6l0JoNerfPtleGpvsNlTH4I3+/fTlbyjqCuw/mbodzAEQoYSCwvIdTZhfmlGPxld+XG6MtaYgR4bXKAr5bycJdqofjrAQ6EdANv4lEEAwHaIujwQmv24NnEDGYffGMCHH9xgadyaSiNdWA7gIIaNLs8yG4VYOZN+Fp8+DyTQrlUhrPeicjthT3w0tlu7hrVwCscvcd6hK2jLR0CfD+9KNIwMGiaCjOSRTSR3gPvXD7H331JioLu8AnEbn4ECa1HLWwUi2hUVWxYFowVFZa1iefRfauR6xcpBh7OxgTc7nVjvfBLvCfWcmj1qkgVLJzpMfB1LX8AhgdPC/DvRSCpq6qr6kk1dkcJbmMHXboPq5mC0Hi98MPuIkVJ6NGr2EFGeVD0MJxsaBK2qaOw3t6ED/GksFzVkaYqs3XoXqS2NtFntAm4zqXAzFkCoJwE21af3h1ZzsXNI3KyNBzOgE/fs3AoNXZOgo8PhW6NhyNX7V9OWqWroYzUmYRIJOlsw+MnU1W1/4BSgAYmR3944rTfBS6r3g9GXYhOAAAAAElFTkSuQmCC)](https://dbleu.org/b/792824373894840361) -->
 
 #### Wanting to learn / try
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=Unity)
