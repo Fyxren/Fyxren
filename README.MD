@@ -42,13 +42,14 @@ const Fyxren = {
     yearGoals: [
         { goal: 'Contribute to other public repo\'s', difficulty: 'Easy' },
         { goal: 'Making an app using Flutter or React Native', difficulty: 'Medium' },
+        { goal: 'Finally finishing McData V3..', difficulty: 'Mission might-be-impossible' }
         { goal: 'Get good at games', difficulty: 'Mission impossible' }
     ],
     funFacts: [
         'I love cats 🥰',
         'Plays the piano 🎹',
         'Owner of a whopping 2 braincells 😐',
-        'TooManyIdeas,RarelyFinishesThem™️'
+        'Too Many Ideas, Rarely Finishes Them™️'
     ]
 }
 ```
