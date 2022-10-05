@@ -60,7 +60,7 @@ const Fyxren = {
 ```
 
 ## Stack 💻 
-> _**Black** = Using • **Gray** = Learning / Trying to use_
+> _**Black** = Using • **Gray** = Learning / Trying to use / Sometimes_
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
@@ -71,8 +71,8 @@ const Fyxren = {
 #### Technologies
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![Next.js](https://img.shields.io/badge/-Next.js-222?style=for-the-badge&logo=next.js)
 
 ![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn)
 ![Npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
