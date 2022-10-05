@@ -11,20 +11,25 @@
 </p>
 
 <p align="center">
+    <a href="https://socials.fyxren.com/discord"><img src="https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord"></a>
+    <a href="https://socials.fyxren.com/steam"><img src="https://img.shields.io/badge/-steam-000?style=for-the-badge&logo=steam"></a>
+        <a href="https://socials.fyxren.com/osu"><img src="https://img.shields.io/badge/-osu-000?style=for-the-badge&logo=osu"></a>
+</p>
+
+<p align="center">
+    <a href="https://socials.fyxren.com/instagram"><img src="https://img.shields.io/badge/-insta-000?style=for-the-badge&logo=instagram"></a>
+    <a href="https://socials.fyxren.com/twitter"><img src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter"></a>
+    <a href="https://socials.fyxren.com/youtube"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube"></a>
+    <a href="https://socials.fyxren.com/spotify"><img src="https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify"></a>
+</p>
+
+<p align="center">
     <a href="https://socials.fyxren.com/github"><img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github"></a>
     <a href="https://socials.fyxren.com/gitlab"><img src="https://img.shields.io/badge/-gitlab-000?style=for-the-badge&logo=gitlab"></a>
     <a href="https://socials.fyxren.com/medium"><img src="https://img.shields.io/badge/-medium-000?style=for-the-badge&logo=medium"></a>
     <a href="https://socials.fyxren.com/notion"><img src="https://img.shields.io/badge/-notion%20public%20hub-000?style=for-the-badge&logo=notion"></a>
 </p>
 
-<p align="center">
-    <a href="https://socials.fyxren.com/discord"><img src="https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord"></a>
-    <a href="https://socials.fyxren.com/instagram"><img src="https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram"></a>
-    <a href="https://socials.fyxren.com/twitter"><img src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter"></a>
-    <a href="https://socials.fyxren.com/youtube"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube"></a>
-    <a href="https://socials.fyxren.com/spotify"><img src="https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify"></a>
-    <a href="https://socials.fyxren.com/steam"><img src="https://img.shields.io/badge/-steam-000?style=for-the-badge&logo=steam"></a>
-</p>
 
 ## Info 😊
 
