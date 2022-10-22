@@ -118,6 +118,7 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (23:27, 22 October 2022)
 -   📺 Completed [Kokoro Connect](https://anilist.co/anime/11887) (22:36, 22 October 2022)
 -   📺 Watched episode 12 of [Kokoro Connect](https://anilist.co/anime/11887) (21:30, 21 October 2022)
 -   📺 Plans to watch [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (08:12, 21 October 2022)
@@ -127,7 +128,6 @@ const Fyxren = {
 -   📺 Completed [Call of the Night](https://anilist.co/anime/141391) (22:03, 18 October 2022)
 -   📺 Watched episode 9 - 10 of [Call of the Night](https://anilist.co/anime/141391) (22:03, 18 October 2022)
 -   📺 Watched episode 4 - 8 of [Call of the Night](https://anilist.co/anime/141391) (21:58, 17 October 2022)
--   📺 Watched episode 1 - 3 of [Call of the Night](https://anilist.co/anime/141391) (22:07, 16 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
