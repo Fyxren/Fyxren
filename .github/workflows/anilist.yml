@@ -7,7 +7,7 @@ on:
 
 jobs:
     update-readme-with-anilist:
-        name: `Auto` Updated this repo's README with latest AniList activites
+        name: \`Updated\` this repo's README with latest AniList activites
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
