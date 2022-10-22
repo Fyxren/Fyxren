@@ -116,8 +116,8 @@ const Fyxren = {
 <details>
     <summary>🌸 Recent AniList activity</summary>
 
-    <!-- ANILIST_ACTIVITY:start -->
+<!-- ANILIST_ACTIVITY:start -->
 
-    <!-- ANILIST_ACTIVITY:end -->
+<!-- ANILIST_ACTIVITY:end -->
 
 </details>
