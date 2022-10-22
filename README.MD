@@ -30,8 +30,10 @@
     <a href="https://socials.fyxren.com/notion"><img src="https://img.shields.io/badge/-notion%20public%20hub-000?style=for-the-badge&logo=notion"></a>
 </p>
 
+---
 
-## Info 😊
+<details>
+    <summary>✨ About</summary>
 
 ```js
 const Fyxren = {
@@ -59,7 +61,11 @@ const Fyxren = {
 }
 ```
 
-## Stack 💻 
+</details>
+
+<details>
+    <summary>💻 Stack</summary>
+
 > _**Black** = Using • **Gray** = Learning / Trying to use / Sometimes_
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
@@ -105,3 +111,13 @@ const Fyxren = {
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+</details>
+
+<details>
+    <summary>🌸 Recent AniList activity</summary>
+
+    <!-- ANILIST_ACTIVITY:start -->
+
+    <!-- ANILIST_ACTIVITY:end -->
+
+</details>
