@@ -118,16 +118,16 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (11:54, 24 October 2022)
+-   📺 Plans to watch [Orange](https://anilist.co/anime/21647) (11:48, 24 October 2022)
+-   📺 Plans to watch [Yamada and the Seven Witches](https://anilist.co/anime/20966) (11:47, 24 October 2022)
+-   📺 Plans to watch [DARLING in the FRANXX](https://anilist.co/anime/99423) (11:45, 24 October 2022)
 -   📺 Plans to watch [My Dress-Up Darling](https://anilist.co/anime/132405) (05:38, 24 October 2022)
 -   📺 Watched episode 3 - 4 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (21:43, 23 October 2022)
 -   📺 Watched episode 1 - 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (23:27, 22 October 2022)
 -   📺 Completed [Kokoro Connect](https://anilist.co/anime/11887) (22:36, 22 October 2022)
 -   📺 Watched episode 12 of [Kokoro Connect](https://anilist.co/anime/11887) (21:30, 21 October 2022)
 -   📺 Plans to watch [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (08:12, 21 October 2022)
--   📺 Plans to watch [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (08:11, 21 October 2022)
--   📺 Watched episode 7 - 11 of [Kokoro Connect](https://anilist.co/anime/11887) (21:29, 20 October 2022)
--   📺 Watched episode 1 - 6 of [Kokoro Connect](https://anilist.co/anime/11887) (22:52, 19 October 2022)
--   📺 Completed [Call of the Night](https://anilist.co/anime/141391) (22:03, 18 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
