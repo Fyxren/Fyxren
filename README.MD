@@ -14,7 +14,6 @@
     <a href="https://socials.fyxren.com/discord"><img src="https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord"></a>
     <a href="https://socials.fyxren.com/steam"><img src="https://img.shields.io/badge/-steam-000?style=for-the-badge&logo=steam"></a>
     <a href="https://socials.fyxren.com/osu"><img src="https://img.shields.io/badge/-osu-000?style=for-the-badge&logo=osu"></a>
-    <a href="https://socials.fyxren.com/anilist"><img src="https://img.shields.io/badge/-anilist-000?style=for-the-badge&logo=osu"></a>
 </p>
 
 <p align="center">
@@ -29,6 +28,7 @@
     <a href="https://socials.fyxren.com/twitter"><img src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter"></a>
     <a href="https://socials.fyxren.com/youtube"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube"></a>
     <a href="https://socials.fyxren.com/spotify"><img src="https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify"></a>
+    <a href="https://socials.fyxren.com/anilist"><img src="https://img.shields.io/badge/-anilist-000?style=for-the-badge&logo=osu"></a>
 </p>
 
 
