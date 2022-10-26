@@ -120,6 +120,8 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [My Dress-Up Darling](https://anilist.co/anime/132405) (21:38, 26 October 2022)
+-   📺 Watched episode 1 - 2 of [My Dress-Up Darling](https://anilist.co/anime/132405) (21:38, 26 October 2022)
 -   📺 Plans to watch [Sono Bisque Doll wa Koi wo Suru (Zoku-hen)](https://anilist.co/anime/154768) (20:10, 26 October 2022)
 -   📺 Plans to watch [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (22:28, 25 October 2022)
 -   📺 Completed [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (22:04, 25 October 2022)
@@ -128,8 +130,6 @@ const Fyxren = {
 -   📺 Plans to watch [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (11:54, 24 October 2022)
 -   📺 Plans to watch [Orange](https://anilist.co/anime/21647) (11:48, 24 October 2022)
 -   📺 Plans to watch [Yamada and the Seven Witches](https://anilist.co/anime/20966) (11:47, 24 October 2022)
--   📺 Plans to watch [DARLING in the FRANXX](https://anilist.co/anime/99423) (11:45, 24 October 2022)
--   📺 Plans to watch [My Dress-Up Darling](https://anilist.co/anime/132405) (05:38, 24 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
