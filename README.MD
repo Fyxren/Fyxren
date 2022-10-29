@@ -125,11 +125,6 @@ const Fyxren = {
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (22:12, 27 October 2022)
 -   📺 Watched episode 8 - 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (22:12, 27 October 2022)
 -   📺 Watched episode 1 - 7 of [My Dress-Up Darling](https://anilist.co/anime/132405) (22:45, 26 October 2022)
--   📺 Watched episode 1 - 3 of [My Dress-Up Darling](https://anilist.co/anime/132405) (21:38, 26 October 2022)
--   📺 Plans to watch [Sono Bisque Doll wa Koi wo Suru (Zoku-hen)](https://anilist.co/anime/154768) (20:10, 26 October 2022)
--   📺 Plans to watch [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (22:28, 25 October 2022)
--   📺 Completed [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (22:04, 25 October 2022)
--   📺 Watched episode 9 - 11 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (22:04, 25 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
