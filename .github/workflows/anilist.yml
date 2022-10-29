@@ -16,4 +16,4 @@ jobs:
 
               with:
                   user_id: 5862046
-                  max_post_count: 10
+                  max_post_count: 5
