@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Rent-a-Girlfriend](https://anilist.co/anime/113813) (23:23 29 October 2022)
+-   📺 Watched episode 6 - 11 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (23:23 29 October 2022)
 -   📺 Watched episode 1 - 5 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (22:41 28 October 2022)
 -   📺 Plans to watch [The Girl Who Leapt Through Time](https://anilist.co/anime/2236) (15:17 28 October 2022)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (22:12 27 October 2022)
--   📺 Watched episode 8 - 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (22:12 27 October 2022)
--   📺 Watched episode 1 - 7 of [My Dress-Up Darling](https://anilist.co/anime/132405) (22:45 26 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
