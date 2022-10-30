@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (22:54 30 October 2022)
+-   📺 Watched episode 1 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (22:45 30 October 2022)
 -   📺 Plans to watch [Summer Time Rendering](https://anilist.co/anime/129201) (10:58 30 October 2022)
 -   📺 Completed [Rent-a-Girlfriend](https://anilist.co/anime/113813) (23:23 29 October 2022)
 -   📺 Watched episode 6 - 11 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (23:23 29 October 2022)
--   📺 Watched episode 1 - 5 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (22:41 28 October 2022)
--   📺 Plans to watch [The Girl Who Leapt Through Time](https://anilist.co/anime/2236) (15:17 28 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
