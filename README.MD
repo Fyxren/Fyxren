@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Nisekoi](https://anilist.co/anime/18897) (22:55 01 November 2022)
 -   📺 Watched episode 6 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (21:22 01 November 2022)
 -   📺 Watched episode 2 - 5 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (22:37 31 October 2022)
 -   📺 Plans to watch [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:33 30 October 2022)
 -   📺 Plans to watch [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (22:54 30 October 2022)
--   📺 Watched episode 1 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (22:45 30 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
