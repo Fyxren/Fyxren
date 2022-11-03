@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Ao-chan Can't Study!](https://anilist.co/anime/105989) (17:37 03 November 2022)
 -   📺 Plans to watch [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (23:23 02 November 2022)
 -   📺 Completed [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (23:23 02 November 2022)
 -   📺 Watched episode 7 - 11 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (23:22 02 November 2022)
 -   📺 Plans to watch [Nisekoi](https://anilist.co/anime/18897) (22:55 01 November 2022)
--   📺 Watched episode 6 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (21:22 01 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
