@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Sweetness & Lightning](https://anilist.co/anime/21659) (23:11 04 November 2022)
+-   📺 Plans to watch [Kurenai](https://anilist.co/anime/3358) (23:10 04 November 2022)
+-   📺 Watched episode 5 - 8 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:07 04 November 2022)
 -   📺 Watched episode 1 - 4 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (22:46 03 November 2022)
 -   📺 Plans to watch [Golden Time](https://anilist.co/anime/17895) (19:05 03 November 2022)
--   📺 Plans to watch [Ao-chan Can't Study!](https://anilist.co/anime/105989) (17:37 03 November 2022)
--   📺 Plans to watch [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745) (23:23 02 November 2022)
--   📺 Completed [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (23:23 02 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
