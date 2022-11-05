@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (14:49 05 November 2022)
+-   📺 Plans to watch [Fruits Basket (2019)](https://anilist.co/anime/105334) (14:48 05 November 2022)
 -   📺 Plans to watch [Sweetness & Lightning](https://anilist.co/anime/21659) (23:11 04 November 2022)
 -   📺 Plans to watch [Kurenai](https://anilist.co/anime/3358) (23:10 04 November 2022)
 -   📺 Watched episode 5 - 8 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:07 04 November 2022)
--   📺 Watched episode 1 - 4 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (22:46 03 November 2022)
--   📺 Plans to watch [Golden Time](https://anilist.co/anime/17895) (19:05 03 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
