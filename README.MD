@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (22:56 07 November 2022)
 -   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (19:22 07 November 2022)
 -   📺 Plans to watch [Remake Our Life!](https://anilist.co/anime/114065) (19:15 07 November 2022)
 -   📺 Plans to watch [Girls Beyond the Wasteland](https://anilist.co/anime/21444) (18:28 07 November 2022)
 -   📺 Plans to watch [BLEND-S](https://anilist.co/anime/97994) (18:13 07 November 2022)
--   📺 Plans to watch [Her Blue Sky](https://anilist.co/anime/108577) (23:49 06 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
