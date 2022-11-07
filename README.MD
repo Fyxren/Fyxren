@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [BLEND-S](https://anilist.co/anime/97994) (18:13 07 November 2022)
 -   📺 Plans to watch [Her Blue Sky](https://anilist.co/anime/108577) (23:49 06 November 2022)
 -   📺 Completed [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (23:21 06 November 2022)
 -   📺 Watched episode 10 - 12 of [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (23:21 06 November 2022)
 -   📺 Watched episode 1 - 9 of [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (02:31 06 November 2022)
--   📺 Completed [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:11 05 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
