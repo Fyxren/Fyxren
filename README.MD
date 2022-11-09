@@ -120,7 +120,7 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 9 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (22:51 08 November 2022)
+-   📺 Watched episode 5 - 10 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (06:49 09 November 2022)
 -   📺 Watched episode 1 - 4 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (22:56 07 November 2022)
 -   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (19:22 07 November 2022)
 -   📺 Plans to watch [Remake Our Life!](https://anilist.co/anime/114065) (19:15 07 November 2022)
