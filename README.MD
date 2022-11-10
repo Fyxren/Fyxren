@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Charlotte](https://anilist.co/anime/20997) (23:10 10 November 2022)
 -   📺 Plans to watch [Clannad](https://anilist.co/anime/2167) (16:14 10 November 2022)
 -   📺 Plans to watch [Hyouka](https://anilist.co/anime/12189) (09:12 10 November 2022)
 -   📺 Plans to watch [Chihayafuru](https://anilist.co/anime/10800) (09:10 10 November 2022)
 -   📺 Plans to watch [Nodame Cantabile](https://anilist.co/anime/1698) (09:08 10 November 2022)
--   📺 Dropped [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (09:01 10 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
