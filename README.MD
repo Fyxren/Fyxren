@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Hyouka](https://anilist.co/anime/12189) (09:12 10 November 2022)
+-   📺 Plans to watch [Chihayafuru](https://anilist.co/anime/10800) (09:10 10 November 2022)
+-   📺 Plans to watch [Nodame Cantabile](https://anilist.co/anime/1698) (09:08 10 November 2022)
+-   📺 Dropped [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (09:01 10 November 2022)
 -   📺 Plans to watch [You and Me.](https://anilist.co/anime/10460) (07:44 10 November 2022)
--   📺 Plans to watch [Charlotte](https://anilist.co/anime/20997) (06:32 10 November 2022)
--   📺 Completed [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (23:11 09 November 2022)
--   📺 Watched episode 11 - 12 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (23:10 09 November 2022)
--   📺 Watched episode 5 - 10 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (06:49 09 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
