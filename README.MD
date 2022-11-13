@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Asobi Asobase - workshop of fun -](https://anilist.co/anime/101001) (08:36 13 November 2022)
 -   📺 Plans to watch [Charlotte: Strong People](https://anilist.co/anime/21339) (23:51 12 November 2022)
 -   📺 Completed [Charlotte](https://anilist.co/anime/20997) (23:49 12 November 2022)
 -   📺 Watched episode 9 - 12 of [Charlotte](https://anilist.co/anime/20997) (23:49 12 November 2022)
 -   📺 Watched episode 3 - 8 of [Charlotte](https://anilist.co/anime/20997) (23:40 11 November 2022)
--   📺 Plans to watch [Little Busters!](https://anilist.co/anime/13655) (09:03 11 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
