@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Charlotte: Strong People](https://anilist.co/anime/21339) (23:51 12 November 2022)
+-   📺 Completed [Charlotte](https://anilist.co/anime/20997) (23:49 12 November 2022)
+-   📺 Watched episode 9 - 12 of [Charlotte](https://anilist.co/anime/20997) (23:49 12 November 2022)
 -   📺 Watched episode 3 - 8 of [Charlotte](https://anilist.co/anime/20997) (23:40 11 November 2022)
 -   📺 Plans to watch [Little Busters!](https://anilist.co/anime/13655) (09:03 11 November 2022)
--   📺 Plans to watch [Classroom of the Elite](https://anilist.co/anime/98659) (09:01 11 November 2022)
--   📺 Plans to watch [Saekano: How to Raise a Boring Girlfriend](https://anilist.co/anime/20657) (23:30 10 November 2022)
--   📺 Watched episode 1 - 2 of [Charlotte](https://anilist.co/anime/20997) (23:10 10 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
