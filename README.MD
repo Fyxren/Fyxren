@@ -120,11 +120,11 @@ const Fyxren = {
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (07:57 14 November 2022)
 -   📺 Completed [Charlotte: Strong People](https://anilist.co/anime/21339) (21:39 13 November 2022)
 -   📺 Plans to watch [The aquatope on white sand](https://anilist.co/anime/128545) (21:37 13 November 2022)
 -   📺 Plans to watch [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355) (14:57 13 November 2022)
 -   📺 Plans to watch [Asobi Asobase - workshop of fun -](https://anilist.co/anime/101001) (08:36 13 November 2022)
--   📺 Plans to watch [Charlotte: Strong People](https://anilist.co/anime/21339) (23:51 12 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
