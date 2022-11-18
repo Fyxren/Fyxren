@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 - 23 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (22:44 14 November 2022)
--   📺 Completed [Welcome to the N-H-K](https://anilist.co/anime/1210) (22:43 14 November 2022)
--   📺 Plans to watch [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (10:02 14 November 2022)
--   📺 Plans to watch [Smile Down the Runway](https://anilist.co/anime/111501) (10:01 14 November 2022)
--   📺 Watched episode 1 - 5 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (07:57 14 November 2022)
+-   📺 Completed [The aquatope on white sand](https://anilist.co/anime/128545) (23:21 17 November 2022)
+-   📺 Watched episode 8 - 23 of [The aquatope on white sand](https://anilist.co/anime/128545) (23:21 17 November 2022)
+-   📺 Plans to watch [Kakushigoto](https://anilist.co/anime/113311) (13:53 17 November 2022)
+-   📺 Watched episode 1 - 7 of [The aquatope on white sand](https://anilist.co/anime/128545) (23:46 16 November 2022)
+-   📺 Completed [Sweetness & Lightning](https://anilist.co/anime/21659) (20:48 16 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
