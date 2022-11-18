@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Laid-Back Camp](https://anilist.co/anime/98444) (21:03 18 November 2022)
 -   📺 Plans to watch [A Place Further Than the Universe](https://anilist.co/anime/99426) (17:44 18 November 2022)
 -   📺 Completed [The aquatope on white sand](https://anilist.co/anime/128545) (23:21 17 November 2022)
 -   📺 Watched episode 8 - 23 of [The aquatope on white sand](https://anilist.co/anime/128545) (23:21 17 November 2022)
 -   📺 Plans to watch [Kakushigoto](https://anilist.co/anime/113311) (13:53 17 November 2022)
--   📺 Watched episode 1 - 7 of [The aquatope on white sand](https://anilist.co/anime/128545) (23:46 16 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
