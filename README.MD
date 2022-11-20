@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [A Silent Voice](https://anilist.co/manga/85135) (01:18 20 November 2022)
+-   📺 Completed [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:56 20 November 2022)
+-   📺 Watched episode 6 - 12 of [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:56 20 November 2022)
 -   📺 Watched episode 1 - 5 of [A Place Further Than the Universe](https://anilist.co/anime/99426) (23:01 18 November 2022)
 -   📺 Plans to watch [Laid-Back Camp](https://anilist.co/anime/98444) (21:03 18 November 2022)
--   📺 Plans to watch [A Place Further Than the Universe](https://anilist.co/anime/99426) (17:44 18 November 2022)
--   📺 Completed [The aquatope on white sand](https://anilist.co/anime/128545) (23:21 17 November 2022)
--   📺 Watched episode 8 - 23 of [The aquatope on white sand](https://anilist.co/anime/128545) (23:21 17 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
