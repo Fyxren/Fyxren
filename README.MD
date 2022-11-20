@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [A Silent Voice](https://anilist.co/manga/85135) (01:18 20 November 2022)
--   📺 Completed [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:56 20 November 2022)
--   📺 Watched episode 6 - 12 of [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:56 20 November 2022)
--   📺 Watched episode 1 - 5 of [A Place Further Than the Universe](https://anilist.co/anime/99426) (23:01 18 November 2022)
--   📺 Plans to watch [Laid-Back Camp](https://anilist.co/anime/98444) (21:03 18 November 2022)
+-   📺 Plans to watch [Ojou to Banken-kun](https://anilist.co/anime/155527) (08:52 20 November 2022)
+-   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (08:47 20 November 2022)
+-   📺 Plans to watch [Domestic Girlfriend](https://anilist.co/anime/103139) (08:27 20 November 2022)
+-   📖 Plans to read [Three Days of Happiness](https://anilist.co/manga/98361) (08:24 20 November 2022)
+-   📖 Plans to read [Bloom Into You](https://anilist.co/manga/86218) (08:22 20 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
