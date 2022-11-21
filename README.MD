@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (00:05 21 November 2022)
+-   📺 Watched episode 1 - 4 of [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (23:28 20 November 2022)
 -   📺 Plans to watch [Ojou to Banken-kun](https://anilist.co/anime/155527) (08:52 20 November 2022)
 -   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (08:47 20 November 2022)
 -   📺 Plans to watch [Domestic Girlfriend](https://anilist.co/anime/103139) (08:27 20 November 2022)
--   📖 Plans to read [Three Days of Happiness](https://anilist.co/manga/98361) (08:24 20 November 2022)
--   📖 Plans to read [Bloom Into You](https://anilist.co/manga/86218) (08:22 20 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
