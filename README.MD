@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (22:45 21 November 2022)
 -   📺 Plans to watch [SPY x FAMILY](https://anilist.co/anime/140960) (13:44 21 November 2022)
 -   📖 Plans to read [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (00:05 21 November 2022)
 -   📺 Watched episode 1 - 4 of [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (23:28 20 November 2022)
 -   📺 Plans to watch [Ojou to Banken-kun](https://anilist.co/anime/155527) (08:52 20 November 2022)
--   📖 Plans to read [A Girl & Her Guard Dog](https://anilist.co/manga/106315) (08:47 20 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
