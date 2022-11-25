@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 24 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (17:29 25 November 2022)
 -   📺 Watched episode 1 - 9 of [SPY x FAMILY](https://anilist.co/anime/140960) (00:27 25 November 2022)
 -   📺 Plans to watch [Steins;Gate](https://anilist.co/anime/9253) (07:07 23 November 2022)
 -   📺 Plans to watch [ERASED](https://anilist.co/anime/21234) (07:01 23 November 2022)
 -   📺 Completed [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (23:05 22 November 2022)
--   📺 Watched episode 9 - 12 of [IRODUKU: The World in Colors](https://anilist.co/anime/101316) (23:05 22 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
