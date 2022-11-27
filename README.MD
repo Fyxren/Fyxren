@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (19:10 27 November 2022)
 -   📺 Watched episode 1 - 6 of [Non Non Biyori](https://anilist.co/anime/17549) (00:43 27 November 2022)
 -   📺 Completed [SPY x FAMILY](https://anilist.co/anime/140960) (23:04 25 November 2022)
 -   📺 Watched episode 10 - 11 of [SPY x FAMILY](https://anilist.co/anime/140960) (23:04 25 November 2022)
 -   📺 Plans to watch [One Week Friends](https://anilist.co/anime/20527) (21:36 25 November 2022)
--   📺 Watched episode 24 of [Welcome to the N-H-K](https://anilist.co/anime/1210) (17:29 25 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
