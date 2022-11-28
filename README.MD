@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Oreshura](https://anilist.co/anime/14749) (18:17 28 November 2022)
 -   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697) (13:34 28 November 2022)
 -   📺 Plans to watch [Absolute Duo](https://anilist.co/anime/20785) (13:33 28 November 2022)
 -   📺 Plans to watch [Nichijou - My Ordinary Life](https://anilist.co/anime/10165) (13:30 28 November 2022)
 -   📺 Watched episode 7 - 9 of [Non Non Biyori](https://anilist.co/anime/17549) (23:12 27 November 2022)
--   📖 Plans to read [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (19:10 27 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
