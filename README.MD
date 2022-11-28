@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched [Charlotte: Strong People](https://anilist.co/anime/21339) (23:09 28 November 2022)
+-   📺 Rewatched episode 1 of [Charlotte: Strong People](https://anilist.co/anime/21339) (23:09 28 November 2022)
+-   📺 Completed [Non Non Biyori](https://anilist.co/anime/17549) (22:42 28 November 2022)
+-   📺 Watched episode 10 - 11 of [Non Non Biyori](https://anilist.co/anime/17549) (22:42 28 November 2022)
 -   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:21 28 November 2022)
--   📺 Plans to watch [Oreshura](https://anilist.co/anime/14749) (18:17 28 November 2022)
--   📺 Plans to watch [DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697) (13:34 28 November 2022)
--   📺 Plans to watch [Absolute Duo](https://anilist.co/anime/20785) (13:33 28 November 2022)
--   📺 Plans to watch [Nichijou - My Ordinary Life](https://anilist.co/anime/10165) (13:30 28 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
