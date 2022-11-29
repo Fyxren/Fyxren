@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Say "I love you".](https://anilist.co/anime/14289) (23:24 28 November 2022)
 -   📺 Rewatched [Charlotte: Strong People](https://anilist.co/anime/21339) (23:09 28 November 2022)
 -   📺 Rewatched episode 1 of [Charlotte: Strong People](https://anilist.co/anime/21339) (23:09 28 November 2022)
 -   📺 Completed [Non Non Biyori](https://anilist.co/anime/17549) (22:42 28 November 2022)
 -   📺 Watched episode 10 - 11 of [Non Non Biyori](https://anilist.co/anime/17549) (22:42 28 November 2022)
--   📺 Plans to watch [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (19:21 28 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
