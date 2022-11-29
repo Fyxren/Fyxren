@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [IDOLiSH7](https://anilist.co/anime/87495) (16:40 29 November 2022)
+-   📺 Plans to watch [Carole & Tuesday](https://anilist.co/anime/101281) (16:38 29 November 2022)
+-   📺 Plans to watch [K-ON! Season 2](https://anilist.co/anime/7791) (16:37 29 November 2022)
 -   📺 Plans to watch [WONDER EGG PRIORITY](https://anilist.co/anime/124845) (14:27 29 November 2022)
 -   📖 Plans to read [Horimiya](https://anilist.co/manga/72451) (14:23 29 November 2022)
--   📺 Plans to watch [Say "I love you".](https://anilist.co/anime/14289) (23:24 28 November 2022)
--   📺 Rewatched [Charlotte: Strong People](https://anilist.co/anime/21339) (23:09 28 November 2022)
--   📺 Rewatched episode 1 of [Charlotte: Strong People](https://anilist.co/anime/21339) (23:09 28 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
