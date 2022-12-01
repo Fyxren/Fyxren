@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Love is Like a Cocktail](https://anilist.co/anime/98657) (20:53 01 December 2022)
+-   📺 Watched episode 1 - 12 of [Love is Like a Cocktail](https://anilist.co/anime/98657) (20:53 01 December 2022)
 -   📺 Plans to watch [Love is Like a Cocktail](https://anilist.co/anime/98657) (17:55 01 December 2022)
 -   📺 Plans to watch [ItaKiss](https://anilist.co/anime/3731) (17:51 01 December 2022)
 -   📖 Read chapter 1 - 9 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (14:02 01 December 2022)
--   📖 Plans to read [Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway](https://anilist.co/manga/105791) (00:01 01 December 2022)
--   📺 Completed [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (23:44 30 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
