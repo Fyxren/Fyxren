@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (09:13 01 December 2022)
 -   📖 Plans to read [Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway](https://anilist.co/manga/105791) (00:01 01 December 2022)
 -   📺 Completed [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (23:44 30 November 2022)
 -   📺 Watched episode 5 - 12 of [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (23:44 30 November 2022)
 -   📺 Watched episode 1 - 4 of [Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://anilist.co/anime/114232) (23:25 29 November 2022)
--   📺 Plans to watch [IDOLiSH7](https://anilist.co/anime/87495) (16:40 29 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
