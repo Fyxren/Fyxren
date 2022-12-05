@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:45 05 December 2022)
+-   📺 Watched episode 21 - 24 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:45 05 December 2022)
 -   📖 Read chapter 1 - 28 of [Horimiya](https://anilist.co/manga/72451) (19:51 05 December 2022)
 -   📺 Watched episode 18 - 20 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:26 04 December 2022)
 -   📖 Read chapter 34 - 117 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (17:34 04 December 2022)
--   📺 Watched episode 11 - 17 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (00:16 04 December 2022)
--   📖 Read chapter 24 - 33 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (23:29 02 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
