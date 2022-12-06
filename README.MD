@@ -101,7 +101,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 39 of [Horimiya](https://anilist.co/manga/72451) (10:03 06 December 2022)
+-   📖 Read chapter 1 - 42 of [Horimiya](https://anilist.co/manga/72451) (12:59 06 December 2022)
 -   📺 Completed [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:45 05 December 2022)
 -   📺 Watched episode 21 - 24 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:45 05 December 2022)
 -   📺 Watched episode 18 - 20 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:26 04 December 2022)
