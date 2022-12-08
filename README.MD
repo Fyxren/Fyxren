@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Ancient Magus' Bride](https://anilist.co/anime/98436) (17:32 08 December 2022)
+-   📖 Plans to read [The Ancient Magus' Bride](https://anilist.co/manga/85435) (17:32 08 December 2022)
 -   📖 Read chapter 1 - 90 of [Horimiya](https://anilist.co/manga/72451) (14:05 08 December 2022)
 -   📺 Watched episode 8 - 9 of [Fruits Basket Season 2](https://anilist.co/anime/111762) (23:18 07 December 2022)
 -   📺 Watched episode 1 - 7 of [Fruits Basket Season 2](https://anilist.co/anime/111762) (22:17 06 December 2022)
--   📖 Plans to read [The Yakuza's Guide to Babysitting](https://anilist.co/manga/107896) (19:32 06 December 2022)
--   📺 Completed [Fruits Basket (2019)](https://anilist.co/anime/105334) (22:45 05 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
