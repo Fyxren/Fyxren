@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338) (07:10 09 December 2022)
+-   📺 Plans to watch [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (07:09 09 December 2022)
 -   📖 Read chapter 1 - 100 of [Horimiya](https://anilist.co/manga/72451) (00:20 09 December 2022)
 -   📺 Watched episode 10 - 11 of [Fruits Basket Season 2](https://anilist.co/anime/111762) (22:54 08 December 2022)
 -   📖 Read chapter 118 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (22:10 08 December 2022)
--   📺 Plans to watch [The Ancient Magus' Bride](https://anilist.co/anime/98436) (17:32 08 December 2022)
--   📖 Plans to read [The Ancient Magus' Bride](https://anilist.co/manga/85435) (17:32 08 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
