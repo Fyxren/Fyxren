@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 - 106 of [Horimiya](https://anilist.co/manga/72451) (23:27 09 December 2022)
 -   📺 Watched episode 12 - 14 of [Fruits Basket Season 2](https://anilist.co/anime/111762) (23:03 09 December 2022)
 -   📖 Read chapter 1 - 102 of [Horimiya](https://anilist.co/manga/72451) (09:15 09 December 2022)
 -   📺 Plans to watch [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338) (07:10 09 December 2022)
 -   📺 Plans to watch [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (07:09 09 December 2022)
--   📺 Watched episode 10 - 11 of [Fruits Basket Season 2](https://anilist.co/anime/111762) (22:54 08 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
