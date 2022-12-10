@@ -101,7 +101,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 103 - 111 of [Horimiya](https://anilist.co/manga/72451) (09:52 10 December 2022)
+-   📖 Read chapter 103 - 116 of [Horimiya](https://anilist.co/manga/72451) (12:43 10 December 2022)
 -   📺 Watched episode 12 - 14 of [Fruits Basket Season 2](https://anilist.co/anime/111762) (23:03 09 December 2022)
 -   📖 Read chapter 1 - 102 of [Horimiya](https://anilist.co/manga/72451) (09:15 09 December 2022)
 -   📺 Plans to watch [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338) (07:10 09 December 2022)
