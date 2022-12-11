@@ -101,11 +101,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Prima Doll](https://anilist.co/anime/144509) (14:06 11 December 2022)
 -   📖 Read chapter 1 - 4 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (10:23 11 December 2022)
 -   📖 Plans to read [Sweetness and Lightning](https://anilist.co/manga/86044) (23:46 10 December 2022)
 -   📖 Plans to read [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (23:45 10 December 2022)
 -   📖 Completed [Horimiya](https://anilist.co/manga/72451) (23:39 10 December 2022)
--   📖 Read chapter 103 - 141 of [Horimiya](https://anilist.co/manga/72451) (23:39 10 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
