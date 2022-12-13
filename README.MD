@@ -7,9 +7,9 @@ _404 • Life not found_
 <details>
     <summary>✨ About</summary>
 
-Greetings, I'm **Ben // Fyxren**. I'm a guy, **18** years old, and still go to highschool.
+Greetings, I'm **Ben // Fyxren**. I'm a guy, **18** years old, and still go to highschool. I **code** a bit, **game** a bit, **play the piano**, watch **anime** and read **manga**.
 
-I start whatever I want and rarely finish something 👍. Mostly **buggy websites**, like the V2 of my new website [beta.fyxren.com](https://beta.fyxren.com).
+I start whatever I want and rarely finish something 👍. Mostly **buggy websites**, like the v2 of my new website [beta.fyxren.com ↗](https://beta.fyxren.com). Currently also working on McData [`(github ↗)`](https://github.com/McData-Development) again, a Discord bot with the goal to provide Minecraft information to Discord. You can invite it [here ↗](https://go.fyxren.com/invite-mcdata). 
 
 _That's about it, my life isn't too interesting to be honest. Besides, if I've forgotten it, it wasn't too important..., right?_
 
@@ -29,6 +29,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 
 ![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn)
 ![Npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
@@ -47,7 +48,6 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 #### Wanting to learn / try
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=Unity)
-![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 ![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
@@ -56,11 +56,10 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 
 #### Learning / Tried / Stopped using
-![Blender](https://img.shields.io/badge/-Blender-000?style=for-the-badge&logo=blender)
-
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitLab)
+![Blender](https://img.shields.io/badge/-Blender-000?style=for-the-badge&logo=blender)
 
 </details>
 
@@ -83,7 +82,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
     <a href="https://socials.fyxren.com/github"><img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github"></a>
     <a href="https://socials.fyxren.com/gitlab"><img src="https://img.shields.io/badge/-gitlab-000?style=for-the-badge&logo=gitlab"></a>
     <a href="https://socials.fyxren.com/medium"><img src="https://img.shields.io/badge/-medium-000?style=for-the-badge&logo=medium"></a>
-    <a href="https://socials.fyxren.com/notion"><img src="https://img.shields.io/badge/-0notion-000?style=for-the-badge&logo=notion"></a>
+    <a href="https://socials.fyxren.com/notion"><img src="https://img.shields.io/badge/-notion-000?style=for-the-badge&logo=notion"></a>
 </p>
 
 <p>
@@ -101,11 +100,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched 12 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:40 12 December 2022)
--   📺 Rewatched episode 1 - 11 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:40 12 December 2022)
--   📺 Plans to watch [Fruits Basket The Final Season](https://anilist.co/anime/124194) (10:00 12 December 2022)
--   📖 Completed [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (08:13 12 December 2022)
--   📖 Read chapter 5 - 9 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (08:13 12 December 2022)
+
 
 <!-- ANILIST_ACTIVITY:end -->
 
