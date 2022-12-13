@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (16:52 13 December 2022)
 -   📺 Rewatched 12 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:40 12 December 2022)
 -   📺 Rewatched episode 1 - 11 of [The Yakuza's Guide to Babysitting](https://anilist.co/anime/138882) (23:40 12 December 2022)
 -   📺 Plans to watch [Fruits Basket The Final Season](https://anilist.co/anime/124194) (10:00 12 December 2022)
 -   📖 Completed [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (08:13 12 December 2022)
--   📖 Read chapter 5 - 9 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (08:13 12 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
