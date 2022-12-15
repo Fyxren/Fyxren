@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Bloom Into You](https://anilist.co/manga/86218) (23:33 14 December 2022)
+-   📖 Read chapter 2 - 51 of [Bloom Into You](https://anilist.co/manga/86218) (23:33 14 December 2022)
 -   📖 Plans to read [Citrus](https://anilist.co/manga/80145) (23:12 14 December 2022)
--   📖 Read chapter 2 - 26 of [Bloom Into You](https://anilist.co/manga/86218) (21:34 14 December 2022)
 -   📖 Read chapter 1 of [Bloom Into You](https://anilist.co/manga/86218) (09:13 14 December 2022)
 -   📖 Completed [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (23:29 13 December 2022)
--   📖 Read chapter 1 - 10 of [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (23:29 13 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
