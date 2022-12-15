@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Wotakoi: Love Is Hard for Otaku](https://anilist.co/manga/86717) (07:10 15 December 2022)
+-   📖 Plans to read [I Had That Same Dream Again](https://anilist.co/manga/105747) (06:42 15 December 2022)
+-   📖 Plans to read [Domestic Girlfriend](https://anilist.co/manga/85802) (06:33 15 December 2022)
+-   📖 Plans to read [Wotakoi: Love Is Hard for Otaku](https://anilist.co/manga/86717) (06:32 15 December 2022)
 -   📖 Completed [Bloom Into You](https://anilist.co/manga/86218) (23:33 14 December 2022)
--   📖 Read chapter 2 - 51 of [Bloom Into You](https://anilist.co/manga/86218) (23:33 14 December 2022)
--   📖 Plans to read [Citrus](https://anilist.co/manga/80145) (23:12 14 December 2022)
--   📖 Read chapter 1 of [Bloom Into You](https://anilist.co/manga/86218) (09:13 14 December 2022)
--   📖 Completed [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (23:29 13 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
