@@ -100,7 +100,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Domestic Girlfriend](https://anilist.co/manga/85802) (12:10 16 December 2022)
+-   📖 Read chapter 1 - 60 of [Domestic Girlfriend](https://anilist.co/manga/85802) (00:00 17 December 2022)
 -   📖 Completed [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (18:52 15 December 2022)
 -   📖 Read chapter 1 - 17 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (18:52 15 December 2022)
 -   📖 Read chapter 1 - 2 of [Wotakoi: Love Is Hard for Otaku](https://anilist.co/manga/86717) (09:03 15 December 2022)
