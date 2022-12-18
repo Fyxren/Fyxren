@@ -100,7 +100,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Bloom Into You](https://anilist.co/anime/101573) (17:41 17 December 2022)
+-   📺 Watched episode 2 - 8 of [Bloom Into You](https://anilist.co/anime/101573) (00:21 18 December 2022)
 -   📖 Read chapter 1 of [Orange](https://anilist.co/manga/65573) (12:16 17 December 2022)
 -   📖 Plans to read [Orange](https://anilist.co/manga/65573) (06:19 17 December 2022)
 -   📖 Plans to read [Perfect World](https://anilist.co/manga/93433) (06:17 17 December 2022)
