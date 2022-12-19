@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Say "I Love You".](https://anilist.co/manga/41767) (20:38 19 December 2022)
 -   📺 Plans to watch [ReLIFE](https://anilist.co/anime/21049) (18:16 19 December 2022)
 -   📺 Plans to watch [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (18:14 19 December 2022)
 -   📺 Plans to watch [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (18:14 19 December 2022)
 -   📺 Plans to watch [Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.](https://anilist.co/anime/154459) (18:12 19 December 2022)
--   📺 Plans to watch [Romantic Killer](https://anilist.co/anime/153930) (18:10 19 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
