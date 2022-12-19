@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 141 of [Domestic Girlfriend](https://anilist.co/manga/85802) (00:14 19 December 2022)
+-   📺 Completed [Bloom Into You](https://anilist.co/anime/101573) (23:29 18 December 2022)
+-   📺 Watched episode 9 - 12 of [Bloom Into You](https://anilist.co/anime/101573) (23:29 18 December 2022)
 -   📖 Plans to read [Miageru to Kimi wa](https://anilist.co/manga/105304) (19:46 18 December 2022)
 -   📖 Plans to read [Real Girl](https://anilist.co/manga/80767) (19:45 18 December 2022)
--   📖 Read chapter 61 - 134 of [Domestic Girlfriend](https://anilist.co/manga/85802) (17:57 18 December 2022)
--   📖 Plans to read [K-On!](https://anilist.co/manga/43001) (11:59 18 December 2022)
--   📖 Plans to read [Bocchi the Rock!](https://anilist.co/manga/111258) (11:59 18 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
