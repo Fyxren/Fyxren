@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Sensei, Suki desu.](https://anilist.co/manga/102865) (18:58 20 December 2022)
+-   📺 Watched episode 1 of [Kakushigoto](https://anilist.co/anime/113311) (18:21 20 December 2022)
 -   📺 Watched episode 4 - 6 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (17:51 20 December 2022)
 -   📺 Watched episode 1 - 3 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (21:46 19 December 2022)
 -   📖 Plans to read [Say "I Love You".](https://anilist.co/manga/41767) (20:38 19 December 2022)
--   📺 Plans to watch [ReLIFE](https://anilist.co/anime/21049) (18:16 19 December 2022)
--   📺 Plans to watch [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (18:14 19 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
