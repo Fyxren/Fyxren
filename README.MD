@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 177 - 180 of [Domestic Girlfriend](https://anilist.co/manga/85802) (16:10 21 December 2022)
 -   📺 Watched episode 1 - 4 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (21:40 20 December 2022)
 -   📖 Read chapter 165 - 176 of [Domestic Girlfriend](https://anilist.co/manga/85802) (20:05 20 December 2022)
 -   📖 Plans to read [Sensei, Suki desu.](https://anilist.co/manga/102865) (18:58 20 December 2022)
 -   📺 Watched episode 1 of [Kakushigoto](https://anilist.co/anime/113311) (18:21 20 December 2022)
--   📺 Watched episode 4 - 6 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (17:51 20 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
