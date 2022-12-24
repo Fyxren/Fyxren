@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 of [Sweetness and Lightning](https://anilist.co/manga/86044) (09:48 24 December 2022)
 -   📖 Plans to read [Romantic Killer](https://anilist.co/manga/113531) (06:15 24 December 2022)
 -   📺 Watched episode 9 - 10 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (22:06 23 December 2022)
 -   📖 Plans to read [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (22:27 22 December 2022)
 -   📖 Completed [Domestic Girlfriend](https://anilist.co/manga/85802) (21:26 22 December 2022)
--   📖 Read chapter 208 - 298 of [Domestic Girlfriend](https://anilist.co/manga/85802) (21:26 22 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
