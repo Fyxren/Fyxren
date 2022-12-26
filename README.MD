@@ -100,7 +100,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 85 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (01:09 26 December 2022)
+-   📖 Read chapter 1 - 135 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (08:39 26 December 2022)
 -   📖 Read chapter 14 - 33 of [Sweetness and Lightning](https://anilist.co/manga/86044) (14:28 25 December 2022)
 -   📺 Completed [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (23:09 24 December 2022)
 -   📺 Watched episode 11 - 12 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (23:09 24 December 2022)
