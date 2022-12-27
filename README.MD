@@ -100,7 +100,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 - 44 of [One Room of Happiness](https://anilist.co/manga/100557) (16:30 27 December 2022)
+-   📖 Read chapter 28 - 53 of [One Room of Happiness](https://anilist.co/manga/100557) (17:52 27 December 2022)
 -   📺 Plans to watch [My Sweet Tyrant](https://anilist.co/anime/100645) (13:02 27 December 2022)
 -   📖 Read chapter 1 - 27 of [One Room of Happiness](https://anilist.co/manga/100557) (01:14 27 December 2022)
 -   📖 Read chapter 1 - 13 of [One Room of Happiness](https://anilist.co/manga/100557) (01:14 27 December 2022)
