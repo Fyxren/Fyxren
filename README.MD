@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [One Room of Happiness](https://anilist.co/manga/100557) (01:14 27 December 2022)
+-   📖 Read chapter 1 - 13 of [One Room of Happiness](https://anilist.co/manga/100557) (01:14 27 December 2022)
 -   📖 Paused reading [Wotakoi: Love Is Hard for Otaku](https://anilist.co/manga/86717) (23:12 26 December 2022)
 -   📖 Paused reading [Orange](https://anilist.co/manga/65573) (23:12 26 December 2022)
 -   📖 Dropped [Orange](https://anilist.co/manga/65573) (23:12 26 December 2022)
--   📖 Dropped [Wotakoi: Love Is Hard for Otaku](https://anilist.co/manga/86717) (23:12 26 December 2022)
--   📖 Read chapter 136 - 145 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (22:59 26 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
