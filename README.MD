@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Boy's Abyss](https://anilist.co/manga/116186) (11:27 28 December 2022)
 -   📖 Plans to read [After the Rain](https://anilist.co/manga/86639) (10:48 28 December 2022)
 -   📖 Plans to read [Musume no Tomodachi](https://anilist.co/manga/111444) (10:47 28 December 2022)
 -   📖 Plans to read [My Boy](https://anilist.co/manga/98858) (10:42 28 December 2022)
 -   📖 Plans to read [Rental Onii-chan](https://anilist.co/manga/101561) (10:40 28 December 2022)
--   📖 Read chapter 28 - 62 of [One Room of Happiness](https://anilist.co/manga/100557) (00:30 28 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
