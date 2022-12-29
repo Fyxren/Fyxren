@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Rental Onii-chan](https://anilist.co/manga/101561) (01:15 29 December 2022)
--   📖 Read chapter 1 - 19 of [Rental Onii-chan](https://anilist.co/manga/101561) (01:15 29 December 2022)
--   📖 Read chapter 146 - 151 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (23:33 28 December 2022)
--   📺 Watched episode 1 - 4 of [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (23:21 28 December 2022)
--   📖 Plans to read [Boy's Abyss](https://anilist.co/manga/116186) (11:27 28 December 2022)
+-   📖 Plans to read [Octave](https://anilist.co/manga/40846) (12:20 29 December 2022)
+-   📖 Plans to read [Blue Hearts](https://anilist.co/manga/105281) (12:15 29 December 2022)
+-   📖 Plans to read [The Flowers of Evil](https://anilist.co/manga/54705) (12:10 29 December 2022)
+-   📖 Plans to read [A Condition Called Love](https://anilist.co/manga/101700) (12:09 29 December 2022)
+-   📖 Plans to read [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (12:07 29 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
