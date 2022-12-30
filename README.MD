@@ -100,7 +100,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 12 of [Citrus](https://anilist.co/manga/80145) (01:28 30 December 2022)
+-   📖 Read chapter 1 - 24 of [Citrus](https://anilist.co/manga/80145) (09:23 30 December 2022)
 -   📖 Paused reading [Haven't You Heard? I'm Sakamoto](https://anilist.co/manga/78649) (23:36 29 December 2022)
 -   📖 Read chapter 1 - 4 of [Haven't You Heard? I'm Sakamoto](https://anilist.co/manga/78649) (23:35 29 December 2022)
 -   📖 Plans to read [One Week Friends](https://anilist.co/manga/73967) (23:12 29 December 2022)
