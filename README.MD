@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Haven't You Heard? I'm Sakamoto](https://anilist.co/manga/78649) (23:36 29 December 2022)
+-   📖 Read chapter 1 - 4 of [Haven't You Heard? I'm Sakamoto](https://anilist.co/manga/78649) (23:35 29 December 2022)
 -   📖 Plans to read [One Week Friends](https://anilist.co/manga/73967) (23:12 29 December 2022)
 -   📖 Plans to read [Haven't You Heard? I'm Sakamoto](https://anilist.co/manga/78649) (23:09 29 December 2022)
 -   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/94970) (23:09 29 December 2022)
--   📺 Watched episode 5 - 7 of [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (15:22 29 December 2022)
--   📖 Plans to read [Octave](https://anilist.co/manga/40846) (12:20 29 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 
