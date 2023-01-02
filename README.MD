@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Ya Boy Kongming!](https://anilist.co/anime/141774) (22:39 01 January 2023)
--   📖 Plans to read [Classroom of the Elite](https://anilist.co/manga/96798) (19:42 01 January 2023)
--   📖 Read chapter 29 - 36 of [Citrus](https://anilist.co/manga/80145) (01:22 01 January 2023)
--   📖 Plans to read [My Monster Secret: "Actually, I am..."](https://anilist.co/manga/85139) (16:08 31 December 2022)
--   📖 Plans to read [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:49 31 December 2022)
+-   📺 Plans to watch [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (00:10 02 January 2023)
+-   📖 Read chapter 40 - 43 of [Sweetness and Lightning](https://anilist.co/manga/86044) (00:04 02 January 2023)
+-   📖 Completed [Citrus](https://anilist.co/manga/80145) (23:18 01 January 2023)
+-   📖 Read chapter 37 - 49 of [Citrus](https://anilist.co/manga/80145) (23:18 01 January 2023)
+-   📖 Read chapter 37 - 42 of [Citrus](https://anilist.co/manga/80145) (23:18 01 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
