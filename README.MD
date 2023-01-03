@@ -100,11 +100,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Scum's Wish](https://anilist.co/manga/74929) (00:07 03 January 2023)
--   📺 Watched episode 8 - 10 of [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (23:55 02 January 2023)
--   📖 Completed [Sweetness and Lightning](https://anilist.co/manga/86044) (15:14 02 January 2023)
--   📖 Read chapter 44 - 63 of [Sweetness and Lightning](https://anilist.co/manga/86044) (15:14 02 January 2023)
--   📺 Plans to watch [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (00:10 02 January 2023)
+-   📺 Plans to watch [Eromanga Sensei](https://anilist.co/anime/21685) (08:14 03 January 2023)
+-   📺 Plans to watch [NANA](https://anilist.co/anime/877) (08:13 03 January 2023)
+-   📖 Plans to read [Our Wonderful Days](https://anilist.co/manga/103081) (08:07 03 January 2023)
+-   📖 Plans to read [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (08:05 03 January 2023)
+-   📖 Plans to read [Don't XXX With Teachers!](https://anilist.co/manga/116808) (08:02 03 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
