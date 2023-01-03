@@ -49,6 +49,8 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 #### Wanting to learn / try
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=Unity)
 ![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
+![Siemens Logo](https://img.shields.io/badge/-Siemens%20Logo-000?style=for-the-badge&logo=siemens)
+![Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=React)
