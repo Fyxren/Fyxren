@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (23:05 03 January 2023)
+-   📺 Watched episode 11 - 12 of [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (23:05 03 January 2023)
 -   📺 Plans to watch [Eromanga Sensei](https://anilist.co/anime/21685) (08:14 03 January 2023)
 -   📺 Plans to watch [NANA](https://anilist.co/anime/877) (08:13 03 January 2023)
 -   📖 Plans to read [Our Wonderful Days](https://anilist.co/manga/103081) (08:07 03 January 2023)
--   📖 Plans to read [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (08:05 03 January 2023)
--   📖 Plans to read [Don't XXX With Teachers!](https://anilist.co/manga/116808) (08:02 03 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
