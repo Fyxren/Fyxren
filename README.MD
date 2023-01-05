@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (22:59 05 January 2023)
 -   📖 Read chapter 119 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (08:21 05 January 2023)
 -   📖 Completed [Our Wonderful Days](https://anilist.co/manga/103081) (01:04 05 January 2023)
 -   📖 Read chapter 11 - 20 of [Our Wonderful Days](https://anilist.co/manga/103081) (01:04 05 January 2023)
 -   📺 Watched episode 1 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (00:24 05 January 2023)
--   📖 Plans to read [prism](https://anilist.co/manga/56479) (10:58 04 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
