@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 - 39 of [Scum's Wish](https://anilist.co/manga/74929) (18:35 06 January 2023)
+-   📖 Completed [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
+-   📖 Read chapter 13 - 52 of [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
+-   📖 Read chapter 13 - 49 of [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
+-   📖 Read chapter 13 - 48 of [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
 -   📖 Read chapter 1 - 12 of [Scum's Wish](https://anilist.co/manga/74929) (00:17 06 January 2023)
--   📺 Watched episode 2 - 3 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (22:59 05 January 2023)
--   📖 Read chapter 119 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (08:21 05 January 2023)
--   📖 Completed [Our Wonderful Days](https://anilist.co/manga/103081) (01:04 05 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
