@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Quintessential Quintuplets](https://anilist.co/manga/100230) (14:50 07 January 2023)
 -   📖 Plans to read [Boarding School Juliet](https://anilist.co/manga/86279) (07:20 07 January 2023)
 -   📖 Completed [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
 -   📖 Read chapter 13 - 52 of [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
 -   📖 Read chapter 13 - 49 of [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
--   📖 Read chapter 13 - 48 of [Scum's Wish](https://anilist.co/manga/74929) (23:14 06 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
