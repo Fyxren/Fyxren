@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Mishiranu Joshikousei ni Kankinsareta Mangaka no Hanashi](https://anilist.co/manga/138648) (21:36 08 January 2023)
+-   📖 Plans to read [JK Shachiku wo Kau](https://anilist.co/manga/110060) (21:35 08 January 2023)
 -   📖 Read chapter 14 - 58 of [Boarding School Juliet](https://anilist.co/manga/86279) (16:51 08 January 2023)
 -   📖 Read chapter 1 - 13 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:16 08 January 2023)
 -   📺 Watched episode 4 - 5 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (22:28 07 January 2023)
--   📖 Plans to read [The Quintessential Quintuplets](https://anilist.co/manga/100230) (14:50 07 January 2023)
--   📖 Plans to read [Boarding School Juliet](https://anilist.co/manga/86279) (07:20 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
