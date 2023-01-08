@@ -102,7 +102,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 35 of [Boarding School Juliet](https://anilist.co/manga/86279) (14:32 08 January 2023)
+-   📖 Read chapter 14 - 58 of [Boarding School Juliet](https://anilist.co/manga/86279) (16:51 08 January 2023)
 -   📖 Read chapter 1 - 13 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:16 08 January 2023)
 -   📺 Watched episode 4 - 5 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (22:28 07 January 2023)
 -   📖 Plans to read [The Quintessential Quintuplets](https://anilist.co/manga/100230) (14:50 07 January 2023)
