@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (22:30 10 January 2023)
+-   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (22:30 10 January 2023)
 -   📺 Plans to watch [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (21:05 10 January 2023)
 -   📖 Plans to read [Hitoribocchi no Marumaru Seikatsu](https://anilist.co/manga/86206) (21:03 10 January 2023)
 -   📖 Plans to read [Senryuu Shoujo](https://anilist.co/manga/99183) (21:02 10 January 2023)
--   📖 Plans to read [Komi Can't Communicate](https://anilist.co/manga/97852) (20:50 10 January 2023)
--   📖 Read chapter 1 - 20 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (20:01 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
