@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Boarding School Juliet](https://anilist.co/manga/86279) (17:26 10 January 2023)
+-   📖 Read chapter 106 - 120 of [Boarding School Juliet](https://anilist.co/manga/86279) (17:26 10 January 2023)
 -   📖 Read chapter 66 - 105 of [Boarding School Juliet](https://anilist.co/manga/86279) (19:04 09 January 2023)
 -   📖 Read chapter 66 - 82 of [Boarding School Juliet](https://anilist.co/manga/86279) (19:04 09 January 2023)
 -   📺 Plans to watch [Seitokai Yakuindomo](https://anilist.co/anime/8675) (07:12 09 January 2023)
--   📖 Read chapter 14 - 65 of [Boarding School Juliet](https://anilist.co/manga/86279) (23:16 08 January 2023)
--   📺 Watched episode 6 - 7 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (22:35 08 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
