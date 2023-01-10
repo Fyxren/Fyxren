@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (20:01 10 January 2023)
+-   📖 Read chapter 9 - 11 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (20:01 10 January 2023)
+-   📖 Read chapter 6 - 15 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (20:01 10 January 2023)
 -   📖 Completed [Boarding School Juliet](https://anilist.co/manga/86279) (17:26 10 January 2023)
 -   📖 Read chapter 106 - 120 of [Boarding School Juliet](https://anilist.co/manga/86279) (17:26 10 January 2023)
--   📖 Read chapter 66 - 105 of [Boarding School Juliet](https://anilist.co/manga/86279) (19:04 09 January 2023)
--   📖 Read chapter 66 - 82 of [Boarding School Juliet](https://anilist.co/manga/86279) (19:04 09 January 2023)
--   📺 Plans to watch [Seitokai Yakuindomo](https://anilist.co/anime/8675) (07:12 09 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
