@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (20:24 11 January 2023)
+-   📺 Watched episode 8 - 11 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (20:23 11 January 2023)
 -   📖 Read chapter 1 - 4 of [Hitoribocchi no Marumaru Seikatsu](https://anilist.co/manga/86206) (16:46 11 January 2023)
 -   📖 Plans to read [Kase-san and...](https://anilist.co/manga/68105) (06:21 11 January 2023)
 -   📖 Completed [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (22:30 10 January 2023)
--   📖 Read chapter 1 - 31 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (22:30 10 January 2023)
--   📺 Plans to watch [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (21:05 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
