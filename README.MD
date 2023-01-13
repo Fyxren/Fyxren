@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 of [We Never Learn](https://anilist.co/manga/98235) (09:12 13 January 2023)
 -   📖 Read chapter 1 - 75 of [We Never Learn](https://anilist.co/manga/98235) (20:49 12 January 2023)
 -   📖 Read chapter 1 - 15 of [Hitoribocchi no Marumaru Seikatsu](https://anilist.co/manga/86206) (22:37 11 January 2023)
 -   📺 Completed [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (20:24 11 January 2023)
 -   📺 Watched episode 8 - 11 of [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (20:23 11 January 2023)
--   📖 Plans to read [Kase-san and...](https://anilist.co/manga/68105) (06:21 11 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
