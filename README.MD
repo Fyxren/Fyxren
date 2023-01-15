@@ -102,11 +102,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 135 - 168 of [We Never Learn](https://anilist.co/manga/98235) (16:24 15 January 2023)
+-   📖 Completed [We Never Learn](https://anilist.co/manga/98235) (18:06 15 January 2023)
+-   📖 Read chapter 135 - 186 of [We Never Learn](https://anilist.co/manga/98235) (18:06 15 January 2023)
 -   📖 Read chapter 120 - 134 of [We Never Learn](https://anilist.co/manga/98235) (00:06 15 January 2023)
 -   📺 Watched episode 4 - 6 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (23:08 14 January 2023)
 -   📖 Read chapter 76 - 119 of [We Never Learn](https://anilist.co/manga/98235) (22:38 13 January 2023)
--   📖 Paused reading [One Room of Happiness](https://anilist.co/manga/100557) (21:58 13 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
