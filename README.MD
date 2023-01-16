@@ -102,7 +102,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Kase-san and...](https://anilist.co/manga/68105) (23:03 15 January 2023)
+-   📖 Read chapter 1 - 21 of [Kase-san and...](https://anilist.co/manga/68105) (08:23 16 January 2023)
 -   📺 Plans to watch [Kase-san and Morning Glories](https://anilist.co/anime/99916) (19:09 15 January 2023)
 -   📖 Completed [We Never Learn](https://anilist.co/manga/98235) (18:06 15 January 2023)
 -   📖 Read chapter 135 - 186 of [We Never Learn](https://anilist.co/manga/98235) (18:06 15 January 2023)
