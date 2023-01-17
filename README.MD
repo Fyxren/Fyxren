@@ -9,7 +9,9 @@ _404 • Life not found_
 
 Greetings, I'm **Ben // Fyxren**. I'm a guy, **18** years old, and still go to highschool. I **code** a bit, **game** a bit, **play the piano**, watch **anime** and read **manga**.
 
-I start whatever I want and rarely finish something 👍. Mostly **buggy websites**, like the v2 of my new website [beta.fyxren.com ↗](https://beta.fyxren.com). Currently also working on McData [`(github ↗)`](https://github.com/McData-Development) again, a Discord bot with the goal to provide Minecraft information to Discord. You can invite it [here ↗](https://go.fyxren.com/invite-mcdata). 
+I start whatever I want and rarely finish something 👍. Mostly **buggy websites**, like my website [fyxren.com ↗](https://fyxren.com).
+
+Currently also working on McData [`(github ↗)`](https://github.com/McData-Development) again, a Discord bot with the goal to provide Minecraft information to Discord. You can invite it [here ↗](https://go.fyxren.com/invite-mcdata). 
 
 _That's about it, my life isn't too interesting to be honest. Besides, if I've forgotten it, it wasn't too important..., right?_
 
