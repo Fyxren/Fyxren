@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 40 of [Say "I Love You".](https://anilist.co/manga/41767) (19:20 17 January 2023)
+-   📖 Read chapter 27 - 46 of [Say "I Love You".](https://anilist.co/manga/41767) (23:12 17 January 2023)
 -   📖 Read chapter 1 - 26 of [Say "I Love You".](https://anilist.co/manga/41767) (23:45 16 January 2023)
 -   📖 Completed [Kase-san and...](https://anilist.co/manga/68105) (11:20 16 January 2023)
 -   📖 Read chapter 1 - 24 of [Kase-san and...](https://anilist.co/manga/68105) (11:16 16 January 2023)
