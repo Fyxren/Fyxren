@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Say "I Love You".](https://anilist.co/manga/41767) (00:39 19 January 2023)
+-   📖 Read chapter 47 - 72 of [Say "I Love You".](https://anilist.co/manga/41767) (00:39 19 January 2023)
 -   📺 Watched episode 7 - 8 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (21:28 18 January 2023)
--   📖 Read chapter 47 - 56 of [Say "I Love You".](https://anilist.co/manga/41767) (20:45 18 January 2023)
 -   📖 Read chapter 47 - 49 of [Say "I Love You".](https://anilist.co/manga/41767) (19:00 18 January 2023)
 -   📖 Read chapter 27 - 46 of [Say "I Love You".](https://anilist.co/manga/41767) (23:12 17 January 2023)
--   📖 Read chapter 1 - 26 of [Say "I Love You".](https://anilist.co/manga/41767) (23:45 16 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
