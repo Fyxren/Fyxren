@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of [Our Teachers are Dating!](https://anilist.co/manga/105977) (15:13 20 January 2023)
 -   📖 Plans to read [Days of Love at Seagull Villa](https://anilist.co/manga/107365) (07:03 20 January 2023)
 -   📖 Plans to read [Our Teachers are Dating!](https://anilist.co/manga/105977) (07:02 20 January 2023)
 -   📖 Plans to read [Prunus Girl](https://anilist.co/manga/44115) (06:59 20 January 2023)
 -   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (06:54 20 January 2023)
--   📖 Plans to read [I Can't Believe I Slept With You!](https://anilist.co/manga/110530) (06:53 20 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
