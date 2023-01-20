@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [If I Could Reach You](https://anilist.co/manga/99703) (21:06 19 January 2023)
--   📖 Read chapter 2 - 42 of [If I Could Reach You](https://anilist.co/manga/99703) (21:06 19 January 2023)
--   📖 Read chapter 1 of [If I Could Reach You](https://anilist.co/manga/99703) (07:49 19 January 2023)
--   📖 Completed [Say "I Love You".](https://anilist.co/manga/41767) (00:39 19 January 2023)
--   📖 Read chapter 47 - 72 of [Say "I Love You".](https://anilist.co/manga/41767) (00:39 19 January 2023)
+-   📖 Plans to read [Days of Love at Seagull Villa](https://anilist.co/manga/107365) (07:03 20 January 2023)
+-   📖 Plans to read [Our Teachers are Dating!](https://anilist.co/manga/105977) (07:02 20 January 2023)
+-   📖 Plans to read [Prunus Girl](https://anilist.co/manga/44115) (06:59 20 January 2023)
+-   📖 Plans to read [Sora & Haena](https://anilist.co/manga/126769) (06:54 20 January 2023)
+-   📖 Plans to read [I Can't Believe I Slept With You!](https://anilist.co/manga/110530) (06:53 20 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
