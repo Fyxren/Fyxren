@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [My Monster Secret: "Actually, I am..."](https://anilist.co/manga/85139) (12:32 21 January 2023)
 -   📖 Plans to read [Akarui Kioku Soushitsu](https://anilist.co/manga/98188) (18:31 20 January 2023)
 -   📖 Plans to read [Joshi Daisei ga Goukon de Onee-san ni Mochikaerareru Hanashi](https://anilist.co/manga/105667) (18:30 20 January 2023)
 -   📖 Completed [Our Teachers are Dating!](https://anilist.co/manga/105977) (18:24 20 January 2023)
 -   📖 Read chapter 1 - 24 of [Our Teachers are Dating!](https://anilist.co/manga/105977) (18:24 20 January 2023)
--   📖 Read chapter 1 - 16 of [Our Teachers are Dating!](https://anilist.co/manga/105977) (18:24 20 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
