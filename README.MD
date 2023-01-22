@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [I Can't Believe I Slept With You!](https://anilist.co/manga/110530) (23:09 22 January 2023)
+-   📖 Read chapter 1 - 19 of [I Can't Believe I Slept With You!](https://anilist.co/manga/110530) (23:09 22 January 2023)
 -   📖 Read chapter 1 - 63 of [My Monster Secret: "Actually, I am..."](https://anilist.co/manga/85139) (21:51 22 January 2023)
 -   📖 Read chapter 1 - 47 of [My Monster Secret: "Actually, I am..."](https://anilist.co/manga/85139) (11:37 22 January 2023)
 -   📖 Plans to read [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (23:12 21 January 2023)
--   📖 Plans to read [Yamada-kun and the Seven Witches](https://anilist.co/manga/65003) (23:10 21 January 2023)
--   📖 Plans to read [Akarui Kioku Soushitsu](https://anilist.co/manga/98188) (18:31 20 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
