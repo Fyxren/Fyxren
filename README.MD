@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 16 of [NTR: Netsuzou Trap](https://anilist.co/manga/86008) (09:41 23 January 2023)
--   📖 Plans to read [NTR: Netsuzou Trap](https://anilist.co/manga/86008) (08:20 23 January 2023)
--   📖 Plans to read [After Hours](https://anilist.co/manga/86292) (08:18 23 January 2023)
--   📖 Plans to read [Secret of the Princess](https://anilist.co/manga/85895) (08:17 23 January 2023)
--   📖 Plans to read [2DK, G Pen, Mezamashi Tokei.](https://anilist.co/manga/87449) (08:16 23 January 2023)
+-   📖 Plans to read [Fu-fu](https://anilist.co/manga/49224) (17:10 23 January 2023)
+-   📖 Plans to read [Finder Goshi no Ano Ko](https://anilist.co/manga/130799) (17:06 23 January 2023)
+-   📖 Plans to read [Ikemen Girl to Hakoiri Musume](https://anilist.co/manga/111168) (16:35 23 January 2023)
+-   📖 Plans to read [Tadokoro-san](https://anilist.co/manga/106890) (16:35 23 January 2023)
+-   📖 Plans to read [Failed Princesses](https://anilist.co/manga/103845) (16:32 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
