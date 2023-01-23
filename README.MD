@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [NTR: Netsuzou Trap](https://anilist.co/manga/86008) (08:20 23 January 2023)
 -   📖 Plans to read [After Hours](https://anilist.co/manga/86292) (08:18 23 January 2023)
 -   📖 Plans to read [Secret of the Princess](https://anilist.co/manga/85895) (08:17 23 January 2023)
 -   📖 Plans to read [2DK, G Pen, Mezamashi Tokei.](https://anilist.co/manga/87449) (08:16 23 January 2023)
 -   📖 Completed [Days of Love at Seagull Villa](https://anilist.co/manga/107365) (07:54 23 January 2023)
--   📖 Read chapter 1 - 18 of [Days of Love at Seagull Villa](https://anilist.co/manga/107365) (07:53 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
