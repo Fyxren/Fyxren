@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 22 of [Failed Princesses](https://anilist.co/manga/103845) (20:48 24 January 2023)
 -   📖 Read chapter 1 - 15 of [Failed Princesses](https://anilist.co/manga/103845) (20:23 23 January 2023)
 -   📖 Plans to read [Fu-fu](https://anilist.co/manga/49224) (17:10 23 January 2023)
 -   📖 Plans to read [Finder Goshi no Ano Ko](https://anilist.co/manga/130799) (17:06 23 January 2023)
 -   📖 Plans to read [Ikemen Girl to Hakoiri Musume](https://anilist.co/manga/111168) (16:35 23 January 2023)
--   📖 Plans to read [Tadokoro-san](https://anilist.co/manga/106890) (16:35 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
