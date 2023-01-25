@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Haru to Midori](https://anilist.co/manga/105166) (22:11 25 January 2023)
+-   📖 Read chapter 1 - 16 of [Haru to Midori](https://anilist.co/manga/105166) (22:11 25 January 2023)
 -   📖 Plans to read [Haru to Midori](https://anilist.co/manga/105166) (18:13 25 January 2023)
 -   📖 Completed [Dekisokonai no Himegimi-tachi, Mishuuroku Sakuhinshuu](https://anilist.co/manga/146881) (07:00 25 January 2023)
 -   📖 Read chapter 1 - 5 of [Dekisokonai no Himegimi-tachi, Mishuuroku Sakuhinshuu](https://anilist.co/manga/146881) (07:00 25 January 2023)
--   📖 Completed [Failed Princesses](https://anilist.co/manga/103845) (06:47 25 January 2023)
--   📖 Read chapter 16 - 40 of [Failed Princesses](https://anilist.co/manga/103845) (06:46 25 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
