@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Secret of the Princess](https://anilist.co/manga/85895) (09:11 26 January 2023)
+-   📖 Read chapter 1 - 6 of [Secret of the Princess](https://anilist.co/manga/85895) (17:13 26 January 2023)
 -   📖 Completed [Haru to Midori](https://anilist.co/manga/105166) (22:11 25 January 2023)
 -   📖 Read chapter 1 - 16 of [Haru to Midori](https://anilist.co/manga/105166) (22:11 25 January 2023)
 -   📖 Plans to read [Haru to Midori](https://anilist.co/manga/105166) (18:13 25 January 2023)
