@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 11 of [After Hours](https://anilist.co/manga/86292) (06:32 28 January 2023)
+-   📖 Read chapter 8 - 14 of [After Hours](https://anilist.co/manga/86292) (07:16 28 January 2023)
 -   📖 Read chapter 7 of [After Hours](https://anilist.co/manga/86292) (09:17 27 January 2023)
 -   📖 Read chapter 1 - 6 of [After Hours](https://anilist.co/manga/86292) (19:26 26 January 2023)
 -   📖 Completed [Secret of the Princess](https://anilist.co/manga/85895) (17:13 26 January 2023)
