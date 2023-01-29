@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Still Sick](https://anilist.co/manga/106232) (22:10 29 January 2023)
 -   📖 Plans to read [Still Sick](https://anilist.co/manga/106232) (16:54 29 January 2023)
 -   📖 Plans to read [Strawberry Fields Once Again](https://anilist.co/manga/99318) (16:25 29 January 2023)
 -   📖 Completed [Tsukarekitta Onna ga Shinuhodo Iyasareru Tame ni](https://anilist.co/manga/109582) (16:24 29 January 2023)
 -   📖 Read chapter 1 - 15 of [Tsukarekitta Onna ga Shinuhodo Iyasareru Tame ni](https://anilist.co/manga/109582) (16:24 29 January 2023)
--   📖 Plans to read [Tsukarekitta Onna ga Shinuhodo Iyasareru Tame ni](https://anilist.co/manga/109582) (16:05 29 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
