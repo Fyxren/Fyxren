@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 12 of [2DK, G Pen, Mezamashi Tokei.](https://anilist.co/manga/87449) (06:50 29 January 2023)
 -   📖 Read chapter 1 - 6 of [2DK, G Pen, Mezamashi Tokei.](https://anilist.co/manga/87449) (15:48 28 January 2023)
 -   📖 Completed [After Hours](https://anilist.co/manga/86292) (14:27 28 January 2023)
 -   📖 Read chapter 8 - 16 of [After Hours](https://anilist.co/manga/86292) (14:27 28 January 2023)
 -   📖 Read chapter 7 of [After Hours](https://anilist.co/manga/86292) (09:17 27 January 2023)
--   📖 Read chapter 1 - 6 of [After Hours](https://anilist.co/manga/86292) (19:26 26 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
