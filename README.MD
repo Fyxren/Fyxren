@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (20:48 30 January 2023)
+-   📖 Plans to read [Sayuri-san no Imouto wa Tenshi](https://anilist.co/manga/87074) (20:42 30 January 2023)
+-   📖 Plans to read [Mr. Right Turned Out To Be A Younger Woman!?](https://anilist.co/manga/134878) (20:40 30 January 2023)
+-   📖 Read chapter 152 - 162 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (20:30 30 January 2023)
 -   📖 Completed [Strawberry Fields Once Again](https://anilist.co/manga/99318) (20:09 30 January 2023)
--   📖 Read chapter 1 - 21 of [Strawberry Fields Once Again](https://anilist.co/manga/99318) (20:09 30 January 2023)
--   📖 Completed [prism](https://anilist.co/manga/56479) (17:53 30 January 2023)
--   📖 Read chapter 1 - 9 of [prism](https://anilist.co/manga/56479) (17:53 30 January 2023)
--   📖 Completed [Still Sick](https://anilist.co/manga/106232) (17:08 30 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
