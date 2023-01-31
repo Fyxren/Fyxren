@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 11 of [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (17:00 31 January 2023)
 -   📖 Read chapter 1 - 7 of [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (21:32 30 January 2023)
 -   📖 Plans to read [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (20:48 30 January 2023)
 -   📖 Plans to read [Sayuri-san no Imouto wa Tenshi](https://anilist.co/manga/87074) (20:42 30 January 2023)
 -   📖 Plans to read [Mr. Right Turned Out To Be A Younger Woman!?](https://anilist.co/manga/134878) (20:40 30 January 2023)
--   📖 Read chapter 152 - 162 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (20:30 30 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
