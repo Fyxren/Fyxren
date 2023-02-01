@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Ookami Shounen wa Kyou mo Uso wo Kasaneru](https://anilist.co/manga/85887) (18:12 01 February 2023)
+-   📖 Plans to read [Ookami Shounen wa Kyou mo Uso wo Kasaneru](https://anilist.co/manga/85887) (17:36 01 February 2023)
 -   📖 Completed [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (23:06 31 January 2023)
 -   📖 Read chapter 8 - 19 of [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (23:06 31 January 2023)
 -   📖 Read chapter 1 - 7 of [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (21:32 30 January 2023)
--   📖 Plans to read [Doughnuts Under a Crescent Moon](https://anilist.co/manga/108919) (20:48 30 January 2023)
--   📖 Plans to read [Sayuri-san no Imouto wa Tenshi](https://anilist.co/manga/87074) (20:42 30 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
