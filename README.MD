@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Prunus Girl](https://anilist.co/manga/44115) (12:33 04 February 2023)
+-   📖 Read chapter 1 - 7 of [Prunus Girl](https://anilist.co/manga/44115) (14:46 04 February 2023)
 -   📖 Completed [Fu-fu](https://anilist.co/manga/49224) (17:30 03 February 2023)
 -   📖 Read chapter 1 - 17 of [Fu-fu](https://anilist.co/manga/49224) (17:30 03 February 2023)
 -   📖 Completed [Fu-fu no Hon](https://anilist.co/manga/58019) (16:45 03 February 2023)
