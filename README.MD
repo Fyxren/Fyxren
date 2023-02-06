@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Octave](https://anilist.co/manga/40846) (17:39 06 February 2023)
 -   📖 Read chapter 1 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (21:19 05 February 2023)
 -   📖 Completed [Prunus Girl](https://anilist.co/manga/44115) (11:17 05 February 2023)
 -   📖 Read chapter 1 - 42 of [Prunus Girl](https://anilist.co/manga/44115) (11:17 05 February 2023)
 -   📖 Read chapter 1 - 41 of [Prunus Girl](https://anilist.co/manga/44115) (11:17 05 February 2023)
--   📖 Completed [Fu-fu](https://anilist.co/manga/49224) (17:30 03 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
