@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 - 18 of [One Week Friends](https://anilist.co/manga/73967) (11:53 07 February 2023)
+-   📖 Read chapter 17 - 19 of [One Week Friends](https://anilist.co/manga/73967) (13:20 07 February 2023)
 -   📖 Read chapter 1 - 16 of [One Week Friends](https://anilist.co/manga/73967) (21:29 06 February 2023)
 -   📖 Read chapter 1 - 6 of [Octave](https://anilist.co/manga/40846) (17:39 06 February 2023)
 -   📖 Read chapter 1 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (21:19 05 February 2023)
