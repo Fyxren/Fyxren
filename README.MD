@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [Tadokoro-san](https://anilist.co/manga/106890) (06:56 09 February 2023)
+-   📖 Read chapter 1 - 11 of [Tadokoro-san](https://anilist.co/manga/106890) (07:14 09 February 2023)
 -   📖 Completed [One Week Friends](https://anilist.co/manga/73967) (22:21 08 February 2023)
 -   📖 Read chapter 25 - 40 of [One Week Friends](https://anilist.co/manga/73967) (22:20 08 February 2023)
 -   📖 Read chapter 25 - 39 of [One Week Friends](https://anilist.co/manga/73967) (22:20 08 February 2023)
