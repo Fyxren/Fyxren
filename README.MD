@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Renai Manga](https://anilist.co/manga/59513) (22:13 10 February 2023)
 -   📖 Plans to read [Renai Manga](https://anilist.co/manga/59513) (16:38 10 February 2023)
 -   📖 Dropped [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (13:50 10 February 2023)
 -   📖 Dropped [Hitoribocchi no Marumaru Seikatsu](https://anilist.co/manga/86206) (13:49 10 February 2023)
 -   📖 Dropped [My Monster Secret: "Actually, I am..."](https://anilist.co/manga/85139) (13:49 10 February 2023)
--   📖 Dropped [Octave](https://anilist.co/manga/40846) (13:49 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
