@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [A Tropical Fish Yearns for Snow](https://anilist.co/manga/100187) (12:42 11 February 2023)
+-   📖 Read chapter 1 - 3 of [A Tropical Fish Yearns for Snow](https://anilist.co/manga/100187) (14:31 11 February 2023)
 -   📖 Plans to read [A Tropical Fish Yearns for Snow](https://anilist.co/manga/100187) (12:28 11 February 2023)
 -   📖 Completed [Renai Manga](https://anilist.co/manga/59513) (12:25 11 February 2023)
 -   📖 Read chapter 1 - 7 of [Renai Manga](https://anilist.co/manga/59513) (12:25 11 February 2023)
