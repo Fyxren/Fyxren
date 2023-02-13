@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 16 of [Sayuri-san no Imouto wa Tenshi](https://anilist.co/manga/87074) (23:05 12 February 2023)
--   📖 Plans to read [You Xun Ran Shi Youxi Fei Zenmeban](https://anilist.co/manga/101842) (11:05 12 February 2023)
--   📖 Plans to read [Ikenai Hito](https://anilist.co/manga/112458) (11:04 12 February 2023)
--   📖 Completed [A Tropical Fish Yearns for Snow](https://anilist.co/manga/100187) (10:54 12 February 2023)
--   📖 Read chapter 1 - 33 of [A Tropical Fish Yearns for Snow](https://anilist.co/manga/100187) (10:53 12 February 2023)
+-   📖 Plans to read [Bottom-tier Character Tomozaki](https://anilist.co/manga/100807) (22:09 13 February 2023)
+-   📖 Plans to read [Ao-chan Can't Study!](https://anilist.co/manga/105990) (22:07 13 February 2023)
+-   📖 Plans to read [GIRL FRIENDS](https://anilist.co/manga/33102) (22:06 13 February 2023)
+-   📖 Completed [Sayuri-san no Imouto wa Tenshi](https://anilist.co/manga/87074) (22:03 13 February 2023)
+-   📖 Read chapter 17 - 20 of [Sayuri-san no Imouto wa Tenshi](https://anilist.co/manga/87074) (22:03 13 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
