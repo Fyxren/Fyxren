@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Perfect World](https://anilist.co/manga/93433) (17:45 14 February 2023)
+-   📖 Read chapter 1 - 4 of [Perfect World](https://anilist.co/manga/93433) (19:00 14 February 2023)
 -   📖 Plans to read [Bottom-tier Character Tomozaki](https://anilist.co/manga/100807) (22:09 13 February 2023)
 -   📖 Plans to read [Ao-chan Can't Study!](https://anilist.co/manga/105990) (22:07 13 February 2023)
 -   📖 Plans to read [GIRL FRIENDS](https://anilist.co/manga/33102) (22:06 13 February 2023)
