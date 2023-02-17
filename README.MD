@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [You Xun Ran Shi Youxi Fei Zenmeban](https://anilist.co/manga/101842) (22:12 17 February 2023)
+-   📖 Completed [Perfect World](https://anilist.co/manga/93433) (21:49 17 February 2023)
+-   📖 Read chapter 44 - 58 of [Perfect World](https://anilist.co/manga/93433) (21:49 17 February 2023)
 -   📖 Plans to read [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (06:40 17 February 2023)
 -   📖 Read chapter 11 - 43 of [Perfect World](https://anilist.co/manga/93433) (22:30 16 February 2023)
--   📖 Read chapter 1 - 10 of [Perfect World](https://anilist.co/manga/93433) (09:10 15 February 2023)
--   📖 Plans to read [Bottom-tier Character Tomozaki](https://anilist.co/manga/100807) (22:09 13 February 2023)
--   📖 Plans to read [Ao-chan Can't Study!](https://anilist.co/manga/105990) (22:07 13 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
