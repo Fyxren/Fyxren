@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Yoru to Umi](https://anilist.co/manga/109406) (12:40 18 February 2023)
+-   📖 Read chapter 1 - 7 of [Yoru to Umi](https://anilist.co/manga/109406) (14:46 18 February 2023)
 -   📖 Read chapter 1 - 4 of [Yoru to Umi](https://anilist.co/manga/109406) (12:40 18 February 2023)
 -   📖 Completed [You Xun Ran Shi Youxi Fei Zenmeban](https://anilist.co/manga/101842) (07:04 18 February 2023)
 -   📖 Read chapter 1 - 12 of [You Xun Ran Shi Youxi Fei Zenmeban](https://anilist.co/manga/101842) (07:04 18 February 2023)
