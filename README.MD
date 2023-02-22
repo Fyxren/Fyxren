@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (17:19 22 February 2023)
 -   📖 Completed [Yoru to Umi](https://anilist.co/manga/109406) (22:52 20 February 2023)
 -   📖 Read chapter 13 - 18 of [Yoru to Umi](https://anilist.co/manga/109406) (22:52 20 February 2023)
 -   📖 Read chapter 1 - 12 of [Yoru to Umi](https://anilist.co/manga/109406) (23:13 18 February 2023)
 -   📖 Read chapter 1 - 4 of [Yoru to Umi](https://anilist.co/manga/109406) (12:40 18 February 2023)
--   📖 Completed [You Xun Ran Shi Youxi Fei Zenmeban](https://anilist.co/manga/101842) (07:04 18 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
