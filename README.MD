@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Summertime Rendering](https://anilist.co/manga/102989) (07:03 05 March 2023)
 -   📺 Watched episode 1 - 4 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (22:46 04 March 2023)
 -   📖 Read chapter 3 - 5 of [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (09:06 26 February 2023)
 -   📖 Read chapter 2 of [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (12:32 25 February 2023)
 -   📖 Read chapter 1 of [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (17:19 22 February 2023)
--   📖 Completed [Yoru to Umi](https://anilist.co/manga/109406) (22:52 20 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
