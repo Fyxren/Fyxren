@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Seitokai Yakuindomo](https://anilist.co/anime/8675) (23:52 07 March 2023)
+-   📺 Paused watching [The Ancient Magus' Bride](https://anilist.co/anime/98436) (23:52 07 March 2023)
+-   📺 Paused watching [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (23:52 07 March 2023)
 -   📺 Watched episode 5 - 6 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (23:21 05 March 2023)
 -   📖 Read chapter 6 of [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (23:21 05 March 2023)
--   📖 Plans to read [Summertime Rendering](https://anilist.co/manga/102989) (07:03 05 March 2023)
--   📺 Watched episode 1 - 4 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (22:46 04 March 2023)
--   📖 Read chapter 3 - 5 of [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (09:06 26 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
