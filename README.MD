@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Ya Boy Kongming!](https://anilist.co/anime/141774) (00:33 12 March 2023)
+-   📺 Watched episode 7 - 11 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (00:33 12 March 2023)
 -   📖 Read chapter 1 - 11 of [Real Girl](https://anilist.co/manga/80767) (23:21 10 March 2023)
 -   📖 Completed [I Had That Same Dream Again](https://anilist.co/manga/105747) (19:39 08 March 2023)
 -   📖 Read chapter 1 - 11 of [I Had That Same Dream Again](https://anilist.co/manga/105747) (19:39 08 March 2023)
--   📺 Paused watching [Seitokai Yakuindomo](https://anilist.co/anime/8675) (23:52 07 March 2023)
--   📺 Paused watching [The Ancient Magus' Bride](https://anilist.co/anime/98436) (23:52 07 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
