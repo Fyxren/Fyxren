@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Real Girl](https://anilist.co/manga/80767) (22:01 14 March 2023)
+-   📖 Read chapter 12 - 22 of [Real Girl](https://anilist.co/manga/80767) (22:01 14 March 2023)
 -   📺 Completed [Ya Boy Kongming!](https://anilist.co/anime/141774) (00:33 12 March 2023)
 -   📺 Watched episode 7 - 11 of [Ya Boy Kongming!](https://anilist.co/anime/141774) (00:33 12 March 2023)
 -   📖 Read chapter 1 - 11 of [Real Girl](https://anilist.co/manga/80767) (23:21 10 March 2023)
--   📖 Completed [I Had That Same Dream Again](https://anilist.co/manga/105747) (19:39 08 March 2023)
--   📖 Read chapter 1 - 11 of [I Had That Same Dream Again](https://anilist.co/manga/105747) (19:39 08 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
