@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Attack on Titan](https://anilist.co/anime/16498) (21:42 28 March 2023)
 -   📖 Dropped [Blue Hearts](https://anilist.co/manga/105281) (12:22 25 March 2023)
 -   📖 Read chapter 1 - 7 of [Blue Hearts](https://anilist.co/manga/105281) (12:22 25 March 2023)
 -   📖 Dropped [Summertime Rendering](https://anilist.co/manga/102989) (22:29 14 March 2023)
 -   📖 Read chapter 1 - 7 of [Summertime Rendering](https://anilist.co/manga/102989) (22:29 14 March 2023)
--   📖 Dropped [Real Girl](https://anilist.co/manga/80767) (22:01 14 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
