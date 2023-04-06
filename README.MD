@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (22:04 06 April 2023)
 -   📺 Watched episode 1 - 2 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (21:08 30 March 2023)
 -   📺 Plans to watch [Sweet Blue Flowers](https://anilist.co/anime/6164) (12:55 30 March 2023)
 -   📺 Watched episode 1 of [Attack on Titan](https://anilist.co/anime/16498) (21:42 28 March 2023)
 -   📖 Dropped [Blue Hearts](https://anilist.co/manga/105281) (12:22 25 March 2023)
--   📖 Read chapter 1 - 7 of [Blue Hearts](https://anilist.co/manga/105281) (12:22 25 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
