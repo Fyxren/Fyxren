@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (11:32 08 April 2023)
+-   📖 Read chapter 1 - 7 of [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (13:45 08 April 2023)
 -   📺 Watched episode 5 - 6 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (21:16 07 April 2023)
 -   📺 Watched episode 3 - 4 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (22:04 06 April 2023)
 -   📺 Watched episode 1 - 2 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (21:08 30 March 2023)
