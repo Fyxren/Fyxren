@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 9 of [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (11:16 09 April 2023)
 -   📺 Dropped [Kase-san and Morning Glories](https://anilist.co/anime/99916) (09:16 09 April 2023)
 -   📺 Plans to watch [Your Light: Kase-san and Morning Glories](https://anilist.co/anime/98511) (08:58 09 April 2023)
 -   📺 Plans to watch [Gimai Seikatsu](https://anilist.co/anime/152681) (08:52 09 April 2023)
 -   📺 Completed [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (08:50 09 April 2023)
--   📺 Watched episode 7 - 11 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (08:50 09 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
