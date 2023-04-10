@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (07:18 10 April 2023)
--   📖 Read chapter 8 - 9 of [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (11:16 09 April 2023)
--   📺 Dropped [Kase-san and Morning Glories](https://anilist.co/anime/99916) (09:16 09 April 2023)
--   📺 Plans to watch [Your Light: Kase-san and Morning Glories](https://anilist.co/anime/98511) (08:58 09 April 2023)
--   📺 Plans to watch [Gimai Seikatsu](https://anilist.co/anime/152681) (08:52 09 April 2023)
+-   📖 Read chapter 1 - 2 of [My Boy](https://anilist.co/manga/98858) (22:11 10 April 2023)
+-   📖 Dropped 0 of [Don't XXX With Teachers!](https://anilist.co/manga/116808) (21:50 10 April 2023)
+-   📖 Read chapter 1 of [Don't XXX With Teachers!](https://anilist.co/manga/116808) (21:50 10 April 2023)
+-   📖 Dropped [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (21:35 10 April 2023)
+-   📺 Watched episode 7 - 8 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (21:33 10 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
