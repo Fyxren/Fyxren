@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [My Boy](https://anilist.co/manga/98858) (22:11 10 April 2023)
+-   📖 Read chapter 1 - 4 of [My Boy](https://anilist.co/manga/98858) (05:38 11 April 2023)
 -   📖 Dropped 0 of [Don't XXX With Teachers!](https://anilist.co/manga/116808) (21:50 10 April 2023)
 -   📖 Read chapter 1 of [Don't XXX With Teachers!](https://anilist.co/manga/116808) (21:50 10 April 2023)
 -   📖 Dropped [Tonari no Kimi ga Ichiban Kawaii](https://anilist.co/manga/129023) (21:35 10 April 2023)
