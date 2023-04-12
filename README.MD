@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Kaoru Hana wa Rin to Saku](https://anilist.co/manga/140475) (15:37 12 April 2023)
 -   📺 Plans to watch [Suzume](https://anilist.co/anime/142770) (15:06 12 April 2023)
 -   📖 Read chapter 5 - 13 of [My Boy](https://anilist.co/manga/98858) (08:12 12 April 2023)
 -   📺 Watched episode 9 - 10 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (21:29 11 April 2023)
 -   📖 Plans to read [Aioi Wakaba to Ita Hitotsuki Nitsuite](https://anilist.co/manga/156232) (16:35 11 April 2023)
--   📖 Read chapter 1 - 4 of [My Boy](https://anilist.co/manga/98858) (05:38 11 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
