@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 30 of [My Boy](https://anilist.co/manga/98858) (07:05 14 April 2023)
+-   📖 Read chapter 26 - 32 of [My Boy](https://anilist.co/manga/98858) (08:12 14 April 2023)
 -   📺 Watched episode 1 - 3 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:10 13 April 2023)
 -   📖 Read chapter 14 - 25 of [My Boy](https://anilist.co/manga/98858) (15:04 13 April 2023)
 -   📺 Completed [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:07 12 April 2023)
