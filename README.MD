@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (11:43 15 April 2023)
+-   📖 Read chapter 1 - 6 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (13:44 15 April 2023)
 -   📖 Plans to read [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (11:42 15 April 2023)
 -   📖 Completed [My Boy](https://anilist.co/manga/98858) (11:29 15 April 2023)
 -   📖 Read chapter 34 - 42 of [My Boy](https://anilist.co/manga/98858) (11:29 15 April 2023)
