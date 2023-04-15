@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 38 of [My Boy](https://anilist.co/manga/98858) (05:51 15 April 2023)
+-   📖 Read chapter 34 - 40 of [My Boy](https://anilist.co/manga/98858) (08:37 15 April 2023)
 -   📺 Watched episode 4 - 5 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:36 14 April 2023)
 -   📖 Plans to read [Kowareta Bokura no Senryaku Renai](https://anilist.co/manga/152634) (14:26 14 April 2023)
 -   📖 Read chapter 26 - 33 of [My Boy](https://anilist.co/manga/98858) (11:13 14 April 2023)
