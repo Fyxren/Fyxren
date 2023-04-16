@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Attack on Titan](https://anilist.co/anime/16498) (20:24 16 April 2023)
 -   📖 Read chapter 11 - 40 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:49 16 April 2023)
 -   📺 Watched episode 6 - 8 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:57 15 April 2023)
 -   📖 Read chapter 1 - 10 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (17:24 15 April 2023)
 -   📖 Plans to read [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (11:42 15 April 2023)
--   📖 Completed [My Boy](https://anilist.co/manga/98858) (11:29 15 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
