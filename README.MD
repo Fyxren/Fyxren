@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 - 63 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (05:48 18 April 2023)
 -   📖 Read chapter 41 - 56 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (08:17 17 April 2023)
 -   📺 Watched episode 1 of [K-ON!](https://anilist.co/anime/5680) (22:17 16 April 2023)
 -   📺 Watched episode 1 of [Tsuredure Children](https://anilist.co/anime/98291) (21:49 16 April 2023)
 -   📺 Plans to watch [Tsuredure Children](https://anilist.co/anime/98291) (21:35 16 April 2023)
--   📺 Completed [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:31 16 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
