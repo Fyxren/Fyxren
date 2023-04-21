@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Science Fell in Love, So I Tried to Prove It](https://anilist.co/anime/107067) (10:59 21 April 2023)
 -   📖 Read chapter 57 - 118 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:31 19 April 2023)
 -   📖 Plans to read [Happy Sugar Life](https://anilist.co/manga/86655) (14:55 18 April 2023)
 -   📺 Plans to watch [Angels of Death](https://anilist.co/anime/99629) (14:54 18 April 2023)
 -   📖 Read chapter 41 - 56 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (08:17 17 April 2023)
--   📺 Watched episode 1 of [K-ON!](https://anilist.co/anime/5680) (22:17 16 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
