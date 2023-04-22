@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 3 of [Horimiya](https://anilist.co/anime/124080) (20:27 22 April 2023)
 -   📖 Read chapter 119 - 142 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (13:37 22 April 2023)
 -   📺 Plans to watch [Science Fell in Love, So I Tried to Prove It](https://anilist.co/anime/107067) (10:59 21 April 2023)
 -   📖 Read chapter 57 - 118 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (15:31 19 April 2023)
 -   📖 Plans to read [Happy Sugar Life](https://anilist.co/manga/86655) (14:55 18 April 2023)
--   📺 Plans to watch [Angels of Death](https://anilist.co/anime/99629) (14:54 18 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
