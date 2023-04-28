@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 50 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (08:35 28 April 2023)
 -   📖 Read chapter 1 - 2 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (07:41 25 April 2023)
 -   📖 Completed [Aioi Wakaba to Ita Hitotsuki Nitsuite](https://anilist.co/manga/156232) (07:34 25 April 2023)
 -   📖 Dropped [Goodbye, My Rose Garden](https://anilist.co/manga/111970) (21:24 24 April 2023)
 -   📖 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (21:24 24 April 2023)
--   📖 Read chapter 143 - 157 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (21:24 24 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
