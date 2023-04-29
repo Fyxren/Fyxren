@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 52 - 53 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (08:50 29 April 2023)
+-   📖 Read chapter 52 - 59 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:32 29 April 2023)
 -   📖 Read chapter 3 - 51 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:44 28 April 2023)
 -   📖 Read chapter 1 - 2 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (07:41 25 April 2023)
 -   📖 Completed [Aioi Wakaba to Ita Hitotsuki Nitsuite](https://anilist.co/manga/156232) (07:34 25 April 2023)
