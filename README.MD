@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Ikenai Hito](https://anilist.co/manga/112458) (21:29 01 May 2023)
+-   📖 Read chapter 1 of [Ikenai Hito](https://anilist.co/manga/112458) (21:29 01 May 2023)
 -   📖 Plans to read [Issho ni Kurashite Ii desu ka?](https://anilist.co/manga/159549) (07:19 30 April 2023)
 -   📖 Completed [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (23:47 29 April 2023)
 -   📖 Read chapter 60 - 77 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (23:47 29 April 2023)
--   📖 Read chapter 52 - 59 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:32 29 April 2023)
--   📖 Read chapter 3 - 51 of [I Belong to the Baddest Girl at School](https://anilist.co/manga/101754) (11:44 28 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
