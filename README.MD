@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Sing a Bit of Harmony](https://anilist.co/anime/123899) (15:56 11 May 2023)
 -   📖 Read chapter 3 - 7 of [Ao-chan Can't Study!](https://anilist.co/manga/105990) (19:52 08 May 2023)
 -   📖 Reread chapter 1 - 3 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (19:11 08 May 2023)
 -   📖 Read chapter 1 - 2 of [Ao-chan Can't Study!](https://anilist.co/manga/105990) (11:28 06 May 2023)
 -   📖 Completed [Musume no Tomodachi](https://anilist.co/manga/111444) (23:06 04 May 2023)
--   📖 Read chapter 40 - 61 of [Musume no Tomodachi](https://anilist.co/manga/111444) (23:05 04 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
