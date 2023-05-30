@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Yamada and the Seven Witches](https://anilist.co/anime/20966) (23:15 29 May 2023)
+-   📺 Watched episode 7 - 11 of [Yamada and the Seven Witches](https://anilist.co/anime/20966) (23:15 29 May 2023)
 -   📺 Watched episode 1 - 6 of [Yamada and the Seven Witches](https://anilist.co/anime/20966) (23:18 28 May 2023)
 -   📺 Dropped [K-ON!](https://anilist.co/anime/5680) (21:04 28 May 2023)
 -   📺 Dropped [Tsuredure Children](https://anilist.co/anime/98291) (21:03 28 May 2023)
--   📺 Plans to watch [Sing a Bit of Harmony](https://anilist.co/anime/123899) (15:56 11 May 2023)
--   📖 Read chapter 3 - 7 of [Ao-chan Can't Study!](https://anilist.co/manga/105990) (19:52 08 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
