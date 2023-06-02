@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (00:31 02 June 2023)
+-   📺 Watched episode 13 - 23 of [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (00:31 02 June 2023)
 -   📖 Reread 10 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (16:31 01 June 2023)
 -   📖 Reread chapter 4 - 9 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (16:31 01 June 2023)
 -   📺 Watched episode 1 - 12 of [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (00:36 31 May 2023)
--   📺 Plans to watch [Skip and Loafer](https://anilist.co/anime/141911) (20:00 30 May 2023)
--   📺 Completed [Yamada and the Seven Witches](https://anilist.co/anime/20966) (23:15 29 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
