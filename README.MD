@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (05:43 03 June 2023)
+-   📺 Dropped 1 of [Seitokai Yakuindomo](https://anilist.co/anime/8675) (05:43 03 June 2023)
+-   📺 Dropped [The Ancient Magus' Bride](https://anilist.co/anime/98436) (05:43 03 June 2023)
 -   📺 Watched episode 1 - 4 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (22:43 02 June 2023)
 -   📺 Completed [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (00:31 02 June 2023)
--   📺 Watched episode 13 - 23 of [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (00:31 02 June 2023)
--   📖 Reread 10 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (16:31 01 June 2023)
--   📖 Reread chapter 4 - 9 of [I Want to Eat Your Pancreas](https://anilist.co/manga/99609) (16:31 01 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
