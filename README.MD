@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [After the Rain](https://anilist.co/manga/86639) (11:52 03 June 2023)
+-   📖 Read chapter 1 - 5 of [After the Rain](https://anilist.co/manga/86639) (13:43 03 June 2023)
 -   📺 Plans to watch [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (08:43 03 June 2023)
 -   📺 Dropped [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (05:43 03 June 2023)
 -   📺 Dropped 1 of [Seitokai Yakuindomo](https://anilist.co/anime/8675) (05:43 03 June 2023)
