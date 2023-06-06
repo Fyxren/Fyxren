@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 - 9 of [Romantic Killer](https://anilist.co/anime/153930) (00:17 06 June 2023)
 -   📺 Watched episode 1 - 5 of [Romantic Killer](https://anilist.co/anime/153930) (00:11 05 June 2023)
 -   📺 Completed [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (22:10 04 June 2023)
 -   📺 Watched episode 10 - 11 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (22:10 04 June 2023)
 -   📺 Watched episode 5 - 9 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (23:04 03 June 2023)
--   📖 Read chapter 1 - 5 of [After the Rain](https://anilist.co/manga/86639) (13:43 03 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
