@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [365 Days to the Wedding](https://anilist.co/manga/116401) (10:43 07 June 2023)
 -   📺 Watched episode 1 - 3 of [Buddy Daddies](https://anilist.co/anime/155907) (01:00 07 June 2023)
 -   📺 Plans to watch [Senryu Girl](https://anilist.co/anime/106051) (23:52 06 June 2023)
 -   📺 Completed [Romantic Killer](https://anilist.co/anime/153930) (22:42 06 June 2023)
 -   📺 Watched episode 10 - 11 of [Romantic Killer](https://anilist.co/anime/153930) (22:42 06 June 2023)
--   📺 Plans to watch [AHO-GIRL](https://anilist.co/anime/98251) (08:04 06 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
