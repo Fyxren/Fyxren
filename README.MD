@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Haganai](https://anilist.co/anime/10719) (12:31 11 June 2023)
 -   📺 Watched episode 1 - 4 of [Bottom-Tier Character Tomozaki](https://anilist.co/anime/112443) (23:06 10 June 2023)
 -   📺 Plans to watch [Words Bubble Up Like Soda Pop](https://anilist.co/anime/107625) (21:28 10 June 2023)
 -   📺 Completed [Buddy Daddies](https://anilist.co/anime/155907) (22:42 09 June 2023)
 -   📺 Watched episode 4 - 11 of [Buddy Daddies](https://anilist.co/anime/155907) (22:42 09 June 2023)
--   📺 Plans to watch [Maid-Sama!](https://anilist.co/anime/7054) (00:23 09 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
