@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 9 of [Bottom-Tier Character Tomozaki](https://anilist.co/anime/112443) (21:53 12 June 2023)
 -   📖 Read chapter 6 of [After the Rain](https://anilist.co/manga/86639) (11:25 12 June 2023)
 -   📺 Plans to watch [The Dangers in My Heart](https://anilist.co/anime/153152) (05:24 12 June 2023)
 -   📺 Watched episode 5 - 6 of [Bottom-Tier Character Tomozaki](https://anilist.co/anime/112443) (22:00 11 June 2023)
 -   📺 Plans to watch [Haganai](https://anilist.co/anime/10719) (12:31 11 June 2023)
--   📺 Watched episode 1 - 4 of [Bottom-Tier Character Tomozaki](https://anilist.co/anime/112443) (23:06 10 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
