@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Senryu Girl](https://anilist.co/anime/106051) (21:58 16 June 2023)
+-   📺 Watched episode 8 - 11 of [Senryu Girl](https://anilist.co/anime/106051) (21:58 16 June 2023)
 -   📺 Watched episode 4 - 7 of [Senryu Girl](https://anilist.co/anime/106051) (22:32 15 June 2023)
 -   📺 Watched episode 1 - 3 of [Senryu Girl](https://anilist.co/anime/106051) (22:39 14 June 2023)
 -   📺 Plans to watch [A Galaxy Next Door](https://anilist.co/anime/148098) (00:14 14 June 2023)
--   📺 Completed [Bottom-Tier Character Tomozaki](https://anilist.co/anime/112443) (22:57 13 June 2023)
--   📺 Watched episode 10 - 11 of [Bottom-Tier Character Tomozaki](https://anilist.co/anime/112443) (22:57 13 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
