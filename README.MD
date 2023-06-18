@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Super Cub](https://anilist.co/anime/113418) (07:18 18 June 2023)
 -   📖 Read chapter 1 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:35 17 June 2023)
 -   📖 Dropped [Ao-chan Can't Study!](https://anilist.co/manga/105990) (11:13 17 June 2023)
 -   📖 Dropped [Cheerful Amnesia](https://anilist.co/manga/98188) (11:12 17 June 2023)
 -   📺 Completed [Senryu Girl](https://anilist.co/anime/106051) (21:58 16 June 2023)
--   📺 Watched episode 8 - 11 of [Senryu Girl](https://anilist.co/anime/106051) (21:58 16 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
