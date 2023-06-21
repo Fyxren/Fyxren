@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Haganai](https://anilist.co/anime/10719) (22:22 21 June 2023)
 -   📺 Watched episode 4 - 6 of [Haganai](https://anilist.co/anime/10719) (22:08 19 June 2023)
 -   📺 Watched episode 1 - 3 of [Haganai](https://anilist.co/anime/10719) (22:37 18 June 2023)
 -   📺 Plans to watch [Super Cub](https://anilist.co/anime/113418) (07:18 18 June 2023)
 -   📖 Read chapter 1 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:35 17 June 2023)
--   📖 Dropped [Ao-chan Can't Study!](https://anilist.co/manga/105990) (11:13 17 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
