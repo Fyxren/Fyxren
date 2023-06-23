@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Haganai](https://anilist.co/anime/10719) (22:06 23 June 2023)
+-   📺 Watched episode 11 of [Haganai](https://anilist.co/anime/10719) (22:06 23 June 2023)
 -   📺 Watched episode 9 - 10 of [Haganai](https://anilist.co/anime/10719) (22:25 22 June 2023)
 -   📺 Watched episode 7 - 8 of [Haganai](https://anilist.co/anime/10719) (22:22 21 June 2023)
 -   📺 Watched episode 4 - 6 of [Haganai](https://anilist.co/anime/10719) (22:08 19 June 2023)
--   📺 Watched episode 1 - 3 of [Haganai](https://anilist.co/anime/10719) (22:37 18 June 2023)
--   📺 Plans to watch [Super Cub](https://anilist.co/anime/113418) (07:18 18 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
