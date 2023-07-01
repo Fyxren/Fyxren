@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 22 of [365 Days to the Wedding](https://anilist.co/manga/116401) (08:29 01 July 2023)
 -   📖 Read chapter 12 - 19 of [365 Days to the Wedding](https://anilist.co/manga/116401) (12:58 30 June 2023)
 -   📺 Completed [A Galaxy Next Door](https://anilist.co/anime/148098) (21:25 29 June 2023)
 -   📺 Watched episode 10 - 11 of [A Galaxy Next Door](https://anilist.co/anime/148098) (21:25 29 June 2023)
 -   📺 Watched episode 8 - 9 of [A Galaxy Next Door](https://anilist.co/anime/148098) (21:13 28 June 2023)
--   📺 Watched episode 6 - 7 of [A Galaxy Next Door](https://anilist.co/anime/148098) (21:33 27 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
