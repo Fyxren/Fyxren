@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 51 - 52 of [365 Days to the Wedding](https://anilist.co/manga/116401) (08:16 04 July 2023)
+-   📖 Read chapter 51 - 62 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 04 July 2023)
 -   📖 Read chapter 33 - 50 of [365 Days to the Wedding](https://anilist.co/manga/116401) (13:23 03 July 2023)
 -   📖 Read chapter 33 - 44 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 03 July 2023)
 -   📖 Read chapter 33 - 39 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 03 July 2023)
