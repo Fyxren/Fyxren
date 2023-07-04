@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 - 52 of [365 Days to the Wedding](https://anilist.co/manga/116401) (08:16 04 July 2023)
 -   📖 Read chapter 33 - 50 of [365 Days to the Wedding](https://anilist.co/manga/116401) (13:23 03 July 2023)
 -   📖 Read chapter 33 - 44 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 03 July 2023)
 -   📖 Read chapter 33 - 39 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 03 July 2023)
 -   📺 Watched episode 1 - 2 of [Skip and Loafer](https://anilist.co/anime/141911) (22:24 01 July 2023)
--   📺 Plans to watch [A Sister's All You Need.](https://anilist.co/anime/98596) (21:34 01 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
