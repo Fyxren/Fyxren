@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Oreshura](https://anilist.co/anime/14749) (21:48 06 July 2023)
 -   📺 Plans to watch [A Certain Scientific Railgun](https://anilist.co/anime/6213) (08:54 06 July 2023)
 -   📺 Watched episode 3 of [Skip and Loafer](https://anilist.co/anime/141911) (21:39 04 July 2023)
 -   📖 Read chapter 51 - 62 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 04 July 2023)
 -   📖 Read chapter 33 - 50 of [365 Days to the Wedding](https://anilist.co/manga/116401) (13:23 03 July 2023)
--   📖 Read chapter 33 - 44 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:00 03 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
