@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Oreshura](https://anilist.co/anime/14749) (19:40 10 July 2023)
+-   📺 Dropped [Skip and Loafer](https://anilist.co/anime/141911) (19:39 10 July 2023)
+-   📖 Dropped [After the Rain](https://anilist.co/manga/86639) (19:37 10 July 2023)
 -   📺 Watched episode 2 - 4 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (22:29 09 July 2023)
 -   📖 Read chapter 63 - 71 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:27 08 July 2023)
--   📺 Plans to watch [Insomniacs after school](https://anilist.co/anime/143653) (13:04 07 July 2023)
--   📺 Watched episode 1 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (22:17 06 July 2023)
--   📺 Watched episode 1 of [Oreshura](https://anilist.co/anime/14749) (21:48 06 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
