@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Words Bubble Up Like Soda Pop](https://anilist.co/anime/107625) (22:44 13 July 2023)
 -   📺 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (23:58 12 July 2023)
 -   📺 Watched episode 8 - 11 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (23:58 12 July 2023)
 -   📺 Watched episode 7 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (23:08 11 July 2023)
 -   📖 Completed [A Silent Voice](https://anilist.co/manga/85135) (16:13 11 July 2023)
--   📺 Watched episode 5 - 6 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (22:34 10 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
