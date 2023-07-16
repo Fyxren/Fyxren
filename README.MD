@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ane no Yuujin ](https://anilist.co/manga/163253) (16:53 16 July 2023)
 -   📺 Plans to watch [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (11:11 15 July 2023)
 -   📺 Completed [Words Bubble Up Like Soda Pop](https://anilist.co/anime/107625) (22:44 13 July 2023)
 -   📺 Completed [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (23:58 12 July 2023)
 -   📺 Watched episode 8 - 11 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (23:58 12 July 2023)
--   📺 Watched episode 7 of [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (23:08 11 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
