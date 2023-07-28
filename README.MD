@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Dangers in My Heart](https://anilist.co/anime/153152) (21:05 28 July 2023)
 -   📺 Completed [The Girl Who Leapt Through Time](https://anilist.co/anime/2236) (10:29 21 July 2023)
 -   📺 Plans to watch [My Happy Marriage](https://anilist.co/anime/147103) (21:40 19 July 2023)
 -   📺 Completed [Her Blue Sky](https://anilist.co/anime/108577) (21:40 19 July 2023)
 -   📖 Plans to read [Ane no Yuujin ](https://anilist.co/manga/163253) (16:53 16 July 2023)
--   📺 Plans to watch [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (11:11 15 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
