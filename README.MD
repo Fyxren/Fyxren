@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 - 76 of [365 Days to the Wedding](https://anilist.co/manga/116401) (08:43 31 July 2023)
 -   📺 Plans to watch [The Dangers in My Heart Season 2](https://anilist.co/anime/166216) (21:26 30 July 2023)
 -   📺 Completed [The Dangers in My Heart](https://anilist.co/anime/153152) (21:26 30 July 2023)
 -   📺 Watched episode 10 - 11 of [The Dangers in My Heart](https://anilist.co/anime/153152) (21:26 30 July 2023)
 -   📺 Watched episode 8 - 9 of [The Dangers in My Heart](https://anilist.co/anime/153152) (21:29 29 July 2023)
--   📺 Watched episode 1 - 7 of [The Dangers in My Heart](https://anilist.co/anime/153152) (22:13 28 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
