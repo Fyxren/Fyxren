@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [March comes in like a lion](https://anilist.co/anime/21366) (21:31 03 August 2023)
 -   📺 Watched episode 3 - 5 of [March comes in like a lion](https://anilist.co/anime/21366) (22:17 01 August 2023)
 -   📺 Watched episode 1 - 2 of [March comes in like a lion](https://anilist.co/anime/21366) (21:26 31 July 2023)
 -   📖 Read chapter 72 - 88 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:40 31 July 2023)
 -   📖 Read chapter 72 - 83 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:40 31 July 2023)
--   📺 Plans to watch [The Dangers in My Heart Season 2](https://anilist.co/anime/166216) (21:26 30 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
