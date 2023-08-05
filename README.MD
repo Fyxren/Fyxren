@@ -104,7 +104,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 89 - 90 of [365 Days to the Wedding](https://anilist.co/manga/116401) (08:48 05 August 2023)
+-   📖 Read chapter 89 - 93 of [365 Days to the Wedding](https://anilist.co/manga/116401) (11:38 05 August 2023)
 -   📺 Watched episode 6 of [March comes in like a lion](https://anilist.co/anime/21366) (21:31 03 August 2023)
 -   📺 Watched episode 3 - 5 of [March comes in like a lion](https://anilist.co/anime/21366) (22:17 01 August 2023)
 -   📺 Watched episode 1 - 2 of [March comes in like a lion](https://anilist.co/anime/21366) (21:26 31 July 2023)
