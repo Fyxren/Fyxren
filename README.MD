@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 18 of [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (08:44 12 August 2023)
+-   📖 Completed [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (11:27 12 August 2023)
+-   📖 Read chapter 16 - 27 of [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (11:27 12 August 2023)
 -   📺 Plans to watch [TenPuru](https://anilist.co/anime/160447) (05:30 12 August 2023)
 -   📺 Plans to watch [Adachi and Shimamura](https://anilist.co/anime/109287) (21:08 11 August 2023)
 -   📖 Read chapter 15 of [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (22:08 09 August 2023)
--   📺 Watched episode 1 of [ReLIFE](https://anilist.co/anime/21049) (22:03 09 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
