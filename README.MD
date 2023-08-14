@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Okuru Kotoba](https://anilist.co/manga/99982) (13:54 14 August 2023)
 -   📺 Plans to watch [Is the Order a Rabbit?](https://anilist.co/anime/20517) (23:53 12 August 2023)
 -   📖 Completed [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (11:27 12 August 2023)
 -   📖 Read chapter 16 - 27 of [Sakurai-san Wants to Be Noticed](https://anilist.co/manga/113801) (11:27 12 August 2023)
 -   📺 Plans to watch [TenPuru](https://anilist.co/anime/160447) (05:30 12 August 2023)
--   📺 Plans to watch [Adachi and Shimamura](https://anilist.co/anime/109287) (21:08 11 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
