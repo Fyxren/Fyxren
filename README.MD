@@ -104,11 +104,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Finder Goshi no Ano Ko](https://anilist.co/manga/130799) (15:32 15 August 2023)
+-   📖 Read chapter 1 - 8 of [Finder Goshi no Ano Ko](https://anilist.co/manga/130799) (15:32 15 August 2023)
 -   📖 Dropped [Wotakoi: Love is Hard for Otaku](https://anilist.co/manga/86717) (07:57 15 August 2023)
 -   📖 Dropped [2DK, G Pen, Mezamashi Tokei.](https://anilist.co/manga/87449) (07:57 15 August 2023)
 -   📖 Dropped [Haven't You Heard? I'm Sakamoto](https://anilist.co/manga/78649) (07:57 15 August 2023)
--   📖 Dropped [orange](https://anilist.co/manga/65573) (07:56 15 August 2023)
--   📖 Dropped [The Two of Them Are Pretty Much Like This](https://anilist.co/manga/114475) (07:56 15 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
