@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 of [Adachi and Shimamura](https://anilist.co/anime/109287) (18:31 17 August 2023)
+-   📺 Watched episode 5 - 6 of [Adachi and Shimamura](https://anilist.co/anime/109287) (20:17 17 August 2023)
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (22:32 16 August 2023)
 -   📖 Completed [Finder Goshi no Ano Ko](https://anilist.co/manga/130799) (15:32 15 August 2023)
 -   📖 Read chapter 1 - 8 of [Finder Goshi no Ano Ko](https://anilist.co/manga/130799) (15:32 15 August 2023)
