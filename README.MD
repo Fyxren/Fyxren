@@ -123,4 +123,4 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 </details>
 
-<a href="https://fyxren.site"><img src="https://komarev.com/ghpvc/?username=fyxren&color=000000&style=for-the-badge"></a>
+<a href="https://fyxren.com"><img src="https://komarev.com/ghpvc/?username=fyxren&color=000000&style=for-the-badge"></a>
