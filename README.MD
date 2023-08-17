@@ -7,11 +7,14 @@ _404 • Life not found_
 <details>
     <summary>✨ About</summary>
 
-Greetings, I'm **Ben // Fyxren**. I'm a guy, **18** years old, and still go to highschool. I **code** a bit, **game** a bit, **play the piano**, watch **anime** and read **manga**.
+Greetings, I'm **Ben // Fyxren**, **19** years old. I **code** a bit, **game** a bit, **try to play the [piano](https://www.youtube.com/playlist?list=PLOT6alYbTjQQ-tlYPUODnaKjDrzT-Fy2C)**, watch **[anime](https://anilist.co/user/Fyxren/animelist)** and read **[manga](https://anilist.co/user/Fyxren/mangalist)**.
 
-I start whatever I want and rarely finish something 👍. Mostly **buggy websites**, like my website [fyxren.com ↗](https://fyxren.com).
+I start whatever I want and rarely finish something 👍. Mostly **buggy websites**.
 
-Currently also working on McData [`(github ↗)`](https://github.com/McData-Development) again, a Discord bot with the goal to provide Minecraft information to Discord. You can invite it [here ↗](https://go.fyxren.com/invite-mcdata). 
+A few of these websites include:
+- [fyxren.com ↗](https://fyxren.com) - _Personal website_
+- [E-SEVEN](https://e-seven.fyxren.com) - _Learning website with a real-life use-case_
+- [Studentenhub](https://studentenhub.fyxren.com/) - _A website I made for a Discord server of mine_
 
 _That's about it, my life isn't too interesting to be honest. Besides, if I've forgotten it, it wasn't too important..., right?_
 
@@ -22,15 +25,20 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
 ![MD](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
 #### Technologies
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-000?style=for-the-badge&logo=Svelte)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-000?style=for-the-badge&logo=DaisyUI)
+
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 
 ![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn)
@@ -43,16 +51,18 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAWlJREFUOE9jZCATMKLry9ns8B+bWVN8D6CohXOM+hj+m8s5MIhqYnfC6+sQ8ekhEAPgGnVbGP5LmzAwGAo54HT821sMDLNikDRqVDH8lzRgYGiwXAPW9P//fwZGRgxfMDQcD2F4foGB4UYbA0RWuYDhv7gWA0OryxoGR6UQhv33UGlxSTGGFUenMVTvCWF4eY2B4e4EqEb5VIb/omoMDJ1+axic1UMY9t7EpEEWlG8KYXh9i4Hh4WyoxiXrlv4PdA9gYGNjY2BlZWX4/fs3nAZpAInp6OgwnDx5kmH9zg0MMUHREKfOXzn/f4BbAAMXFxcDOzs7w8+fP+E0ExMTWOOPHz8Yvn//zrBh1waGxPBEiMbZS2b/93XxZeDn58cbOB8/fmTYvGczQ2pMKiLops2f9t/byRtvOtq6bytDVmIWajxOnDURnGI8HTyxat5+YDtYPD8tH1UjTHXvtF6sSa44qxh7kiM1rQMAlop/D632sN4AAAAASUVORK5CYII=)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-000?style=for-the-badge&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
 ![Spotify](https://img.shields.io/badge/-Spotify%20😊-000?style=for-the-badge&logo=spotify)
 
 #### Wanting to learn / try
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=Unity)
+![Unreal](https://img.shields.io/badge/-Unreal-000?style=for-the-badge&logo=UnrealEngine)
 ![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
 ![Siemens Logo](https://img.shields.io/badge/-Siemens%20Logo-000?style=for-the-badge&logo=siemens)
 ![Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=React)
@@ -60,7 +70,6 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 
 #### Learning / Tried / Stopped using
-![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitLab)
 ![Blender](https://img.shields.io/badge/-Blender-000?style=for-the-badge&logo=blender)
@@ -86,7 +95,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
     <a href="https://socials.fyxren.com/github"><img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github"></a>
     <a href="https://socials.fyxren.com/gitlab"><img src="https://img.shields.io/badge/-gitlab-000?style=for-the-badge&logo=gitlab"></a>
     <a href="https://socials.fyxren.com/medium"><img src="https://img.shields.io/badge/-medium-000?style=for-the-badge&logo=medium"></a>
-    <a href="https://socials.fyxren.com/notion"><img src="https://img.shields.io/badge/-notion-000?style=for-the-badge&logo=notion"></a>
+    <a href="https://socials.fyxren.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn"></a>
 </p>
 
 <p>
