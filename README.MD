@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:32 19 August 2023)
+-   📖 Read chapter 1 - 7 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (13:39 19 August 2023)
 -   📺 Watched episode 7 of [Adachi and Shimamura](https://anilist.co/anime/109287) (21:23 18 August 2023)
 -   📺 Watched episode 5 - 6 of [Adachi and Shimamura](https://anilist.co/anime/109287) (20:17 17 August 2023)
 -   📺 Watched episode 1 - 4 of [Adachi and Shimamura](https://anilist.co/anime/109287) (22:32 16 August 2023)
