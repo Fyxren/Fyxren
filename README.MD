@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 51 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (08:47 26 August 2023)
+-   📖 Completed [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:18 26 August 2023)
+-   📖 Read chapter 47 - 63 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:18 26 August 2023)
+-   📖 Read chapter 47 - 60 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:18 26 August 2023)
+-   📖 Read chapter 47 - 56 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:18 26 August 2023)
 -   📖 Read chapter 36 - 46 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (21:26 21 August 2023)
--   📺 Plans to watch [Oreimo](https://anilist.co/anime/8769) (05:45 21 August 2023)
--   📖 Read chapter 1 - 35 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (22:49 19 August 2023)
--   📺 Watched episode 7 of [Adachi and Shimamura](https://anilist.co/anime/109287) (21:23 18 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
