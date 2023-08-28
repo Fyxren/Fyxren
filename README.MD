@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Wasteful Days of High School Girls](https://anilist.co/anime/105081) (20:27 28 August 2023)
+-   📺 Plans to watch [Please tell me! Galko-chan](https://anilist.co/anime/21472) (20:24 28 August 2023)
 -   📖 Completed [Oreimo](https://anilist.co/manga/45317) (22:45 27 August 2023)
 -   📖 Read chapter 1 - 25 of [Oreimo](https://anilist.co/manga/45317) (22:45 27 August 2023)
 -   📖 Plans to read [Oreimo](https://anilist.co/manga/45317) (20:37 27 August 2023)
--   📖 Completed [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:18 26 August 2023)
--   📖 Read chapter 47 - 63 of [Sweet & Tart Boyfriend](https://anilist.co/manga/107789) (11:18 26 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
