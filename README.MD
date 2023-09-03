@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 - 48 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (22:03 03 September 2023)
 -   📖 Plans to read [Houkago no Cinderella-kun](https://anilist.co/manga/156902) (08:56 03 September 2023)
 -   📖 Read chapter 6 - 44 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (23:16 02 September 2023)
 -   📖 Read chapter 6 - 12 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (11:36 02 September 2023)
 -   📖 Read chapter 1 - 5 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (14:49 01 September 2023)
--   📖 Plans to read [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (09:41 01 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
