@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Initial D 1st Stage](https://anilist.co/anime/185) (17:03 04 September 2023)
+-   📺 Dropped [ReLIFE](https://anilist.co/anime/21049) (16:57 04 September 2023)
+-   📺 Dropped [March comes in like a lion](https://anilist.co/anime/21366) (16:57 04 September 2023)
 -   📖 Read chapter 45 - 50 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (06:14 04 September 2023)
 -   📖 Plans to read [Houkago no Cinderella-kun](https://anilist.co/manga/156902) (08:56 03 September 2023)
--   📖 Read chapter 6 - 44 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (23:16 02 September 2023)
--   📖 Read chapter 6 - 12 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (11:36 02 September 2023)
--   📖 Read chapter 1 - 5 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (14:49 01 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
