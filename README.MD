@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Wagnaria!!](https://anilist.co/anime/6956) (10:46 06 September 2023)
 -   📖 Read chapter 51 - 52 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (05:51 06 September 2023)
 -   📖 Plans to read [Takane no Hana](https://anilist.co/manga/44274) (19:45 05 September 2023)
 -   📺 Plans to watch [Initial D 1st Stage](https://anilist.co/anime/185) (17:03 04 September 2023)
 -   📺 Dropped [ReLIFE](https://anilist.co/anime/21049) (16:57 04 September 2023)
--   📺 Dropped [March comes in like a lion](https://anilist.co/anime/21366) (16:57 04 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
