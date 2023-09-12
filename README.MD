@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 87 - 90 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (15:28 12 September 2023)
 -   📺 Plans to watch [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (21:58 10 September 2023)
 -   📖 Read chapter 70 - 86 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (21:57 10 September 2023)
 -   📺 Plans to watch [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (15:52 09 September 2023)
 -   📖 Read chapter 60 - 69 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (13:54 09 September 2023)
--   📖 Read chapter 53 - 59 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (09:52 08 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
