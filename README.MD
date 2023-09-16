@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Initial D Legend 3: Dream](https://anilist.co/anime/21289) (22:03 16 September 2023)
+-   📺 Plans to watch [Initial D Legend 2: Racer](https://anilist.co/anime/20990) (22:02 16 September 2023)
+-   📺 Completed [Initial D Legend 1: Awakening](https://anilist.co/anime/20842) (22:02 16 September 2023)
 -   📺 Plans to watch [My New Boss is Goofy](https://anilist.co/anime/165070) (15:56 16 September 2023)
 -   📖 Read chapter 106 - 120 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (14:00 16 September 2023)
--   📖 Read chapter 97 - 105 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (17:28 15 September 2023)
--   📖 Plans to read [Suki dakedo Suki dakara Uketorenai](https://anilist.co/manga/126629) (13:09 13 September 2023)
--   📖 Read chapter 91 - 96 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (06:02 13 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
