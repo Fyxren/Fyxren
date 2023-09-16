@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 106 - 109 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (08:55 16 September 2023)
+-   📖 Read chapter 106 - 117 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (11:34 16 September 2023)
 -   📖 Read chapter 97 - 105 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (17:28 15 September 2023)
 -   📖 Plans to read [Suki dakedo Suki dakara Uketorenai](https://anilist.co/manga/126629) (13:09 13 September 2023)
 -   📖 Read chapter 91 - 96 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (06:02 13 September 2023)
