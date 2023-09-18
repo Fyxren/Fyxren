@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 121 - 126 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (05:51 18 September 2023)
 -   📺 Watched episode 1 - 4 of [Smile Down the Runway](https://anilist.co/anime/111501) (20:51 17 September 2023)
 -   📺 Plans to watch [Clean Freak! Aoyama kun](https://anilist.co/anime/98205) (08:28 17 September 2023)
 -   📺 Plans to watch [Initial D Legend 3: Dream](https://anilist.co/anime/21289) (22:03 16 September 2023)
 -   📺 Plans to watch [Initial D Legend 2: Racer](https://anilist.co/anime/20990) (22:02 16 September 2023)
--   📺 Completed [Initial D Legend 1: Awakening](https://anilist.co/anime/20842) (22:02 16 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
