@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 142 - 150 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (17:27 22 September 2023)
 -   📺 Plans to watch [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (19:58 20 September 2023)
 -   📺 Plans to watch [Plastic Memories](https://anilist.co/anime/20872) (19:57 20 September 2023)
 -   📺 Plans to watch [BEASTARS](https://anilist.co/anime/107660) (19:57 20 September 2023)
 -   📖 Read chapter 127 - 141 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (14:57 19 September 2023)
--   📖 Read chapter 121 - 126 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (05:51 18 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
