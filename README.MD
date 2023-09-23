@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [given](https://anilist.co/anime/108430) (22:57 23 September 2023)
 -   📖 Read chapter 151 - 166 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (13:52 23 September 2023)
 -   📺 Plans to watch [The Apothecary Diaries](https://anilist.co/anime/161645) (05:25 23 September 2023)
 -   📖 Read chapter 142 - 150 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (17:27 22 September 2023)
 -   📺 Plans to watch [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (19:58 20 September 2023)
--   📺 Plans to watch [Plastic Memories](https://anilist.co/anime/20872) (19:57 20 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
