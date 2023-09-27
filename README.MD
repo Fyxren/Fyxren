@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 173 - 178 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (05:51 27 September 2023)
 -   📺 Completed [Initial D Legend 2: Racer](https://anilist.co/anime/20990) (13:34 25 September 2023)
 -   📖 Read chapter 167 - 172 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (09:27 25 September 2023)
 -   📺 Plans to watch [given](https://anilist.co/anime/108430) (22:57 23 September 2023)
 -   📖 Read chapter 151 - 166 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (13:52 23 September 2023)
--   📺 Plans to watch [The Apothecary Diaries](https://anilist.co/anime/161645) (05:25 23 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
