@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 179 - 181 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (09:04 30 September 2023)
+-   📖 Read chapter 179 - 189 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (11:38 30 September 2023)
 -   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/anime/162804) (11:06 27 September 2023)
 -   📖 Read chapter 173 - 178 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (05:51 27 September 2023)
 -   📺 Completed [Initial D Legend 2: Racer](https://anilist.co/anime/20990) (13:34 25 September 2023)
