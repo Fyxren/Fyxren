@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 1 - 3 of [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (11:11 01 October 2023)
 -   📖 Read chapter 179 - 192 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (13:50 30 September 2023)
 -   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/anime/162804) (11:06 27 September 2023)
 -   📖 Read chapter 173 - 178 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (05:51 27 September 2023)
 -   📺 Completed [Initial D Legend 2: Racer](https://anilist.co/anime/20990) (13:34 25 September 2023)
--   📖 Read chapter 167 - 172 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (09:27 25 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
