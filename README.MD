@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Houkago no Cinderella-kun](https://anilist.co/manga/156902) (06:02 04 October 2023)
 -   📖 Completed [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (20:21 03 October 2023)
 -   📖 Read chapter 193 - 206 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (20:21 03 October 2023)
 -   📺 Plans to watch [MF GHOST](https://anilist.co/anime/143327) (13:32 03 October 2023)
 -   📺 Plans to watch [Lycoris Recoil](https://anilist.co/anime/143270) (19:13 01 October 2023)
--   📖 Reread chapter 1 - 3 of [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (11:11 01 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
