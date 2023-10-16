@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Ooya-san wa Shishunki!](https://anilist.co/anime/21359) (15:51 16 October 2023)
 -   📖 Read chapter 3 - 8 of [Okuru Kotoba](https://anilist.co/manga/99982) (11:37 14 October 2023)
 -   📖 Read chapter 1 - 2 of [Okuru Kotoba](https://anilist.co/manga/99982) (14:59 06 October 2023)
 -   📖 Plans to read [Keppeki Danshi! Aoyama-kun](https://anilist.co/manga/96128) (09:05 06 October 2023)
 -   📺 Plans to watch [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (06:52 06 October 2023)
--   📖 Completed [Houkago no Cinderella-kun](https://anilist.co/manga/156902) (06:02 04 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
