@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 12 of [Okuru Kotoba](https://anilist.co/manga/99982) (08:48 21 October 2023)
+-   📖 Read chapter 9 - 15 of [Okuru Kotoba](https://anilist.co/manga/99982) (11:35 21 October 2023)
 -   📺 Plans to watch [Listen to Me, Girls. I Am Your Father!](https://anilist.co/anime/11179) (08:12 18 October 2023)
 -   📺 Plans to watch [Ooya-san wa Shishunki!](https://anilist.co/anime/21359) (15:51 16 October 2023)
 -   📖 Read chapter 3 - 8 of [Okuru Kotoba](https://anilist.co/manga/99982) (11:37 14 October 2023)
