@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Smile Down the Runway](https://anilist.co/manga/99757) (08:49 25 October 2023)
 -   📖 Plans to read [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (05:22 24 October 2023)
 -   📖 Plans to read [Insomniacs After School](https://anilist.co/manga/110473) (13:53 21 October 2023)
 -   📖 Completed [Okuru Kotoba](https://anilist.co/manga/99982) (13:50 21 October 2023)
 -   📖 Read chapter 9 - 15 of [Okuru Kotoba](https://anilist.co/manga/99982) (11:35 21 October 2023)
--   📺 Plans to watch [Listen to Me, Girls. I Am Your Father!](https://anilist.co/anime/11179) (08:12 18 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
