@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 26 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (11:54 30 October 2023)
 -   📺 Plans to watch [Undead Unluck](https://anilist.co/anime/154116) (15:45 28 October 2023)
 -   📖 Read chapter 1 - 19 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:00 28 October 2023)
 -   📖 Plans to read [Smile Down the Runway](https://anilist.co/manga/99757) (08:49 25 October 2023)
 -   📖 Plans to read [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (05:22 24 October 2023)
--   📖 Plans to read [Insomniacs After School](https://anilist.co/manga/110473) (13:53 21 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
