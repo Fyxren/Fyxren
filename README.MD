@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Hiyokoi](https://anilist.co/manga/47394) (07:48 02 November 2023)
 -   📖 Read chapter 57 - 72 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (12:59 01 November 2023)
 -   📖 Read chapter 20 - 56 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (10:51 31 October 2023)
 -   📺 Plans to watch [Hinako Note](https://anilist.co/anime/87517) (07:30 31 October 2023)
 -   📺 Plans to watch [Undead Unluck](https://anilist.co/anime/154116) (15:45 28 October 2023)
--   📖 Read chapter 1 - 19 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:00 28 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
