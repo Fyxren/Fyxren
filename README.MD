@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 - 97 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (12:15 04 November 2023)
+-   📖 Read chapter 76 - 100 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:36 04 November 2023)
 -   📖 Completed [YOU IF](https://anilist.co/manga/167445) (15:04 02 November 2023)
 -   📖 Read chapter 73 - 75 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:51 02 November 2023)
 -   📖 Plans to read [Hiyokoi](https://anilist.co/manga/47394) (07:48 02 November 2023)
