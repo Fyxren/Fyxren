@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 108 - 121 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (16:28 08 November 2023)
+-   📖 Completed [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (19:01 08 November 2023)
+-   📖 Read chapter 108 - 143 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (19:01 08 November 2023)
 -   📖 Read chapter 103 - 107 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (16:29 06 November 2023)
 -   📖 Read chapter 101 - 102 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (20:56 05 November 2023)
 -   📖 Read chapter 76 - 100 of [Girlfriend, Girlfriend](https://anilist.co/manga/116266) (14:36 04 November 2023)
--   📖 Completed [YOU IF](https://anilist.co/manga/167445) (15:04 02 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
