@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 21 of [Hiyokoi](https://anilist.co/manga/47394) (22:14 14 November 2023)
 -   📖 Read chapter 11 - 13 of [Hiyokoi](https://anilist.co/manga/47394) (16:28 13 November 2023)
 -   📖 Read chapter 6 - 10 of [Hiyokoi](https://anilist.co/manga/47394) (12:25 11 November 2023)
 -   📖 Read chapter 4 - 5 of [Hiyokoi](https://anilist.co/manga/47394) (16:29 10 November 2023)
 -   📖 Read chapter 1 - 3 of [Hiyokoi](https://anilist.co/manga/47394) (18:32 09 November 2023)
--   📺 Plans to watch [My Tiny Senpai](https://anilist.co/anime/155730) (19:13 08 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
