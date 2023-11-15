@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 22 of [Hiyokoi](https://anilist.co/manga/47394) (07:41 15 November 2023)
+-   📖 Read chapter 14 - 24 of [Hiyokoi](https://anilist.co/manga/47394) (16:27 15 November 2023)
 -   📖 Read chapter 11 - 13 of [Hiyokoi](https://anilist.co/manga/47394) (16:28 13 November 2023)
 -   📖 Read chapter 6 - 10 of [Hiyokoi](https://anilist.co/manga/47394) (12:25 11 November 2023)
 -   📖 Read chapter 4 - 5 of [Hiyokoi](https://anilist.co/manga/47394) (16:29 10 November 2023)
