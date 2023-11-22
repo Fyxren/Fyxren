@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 3 of [Insomniacs After School](https://anilist.co/manga/110473) (16:31 22 November 2023)
 -   📖 Read chapter 1 of [Insomniacs After School](https://anilist.co/manga/110473) (07:18 21 November 2023)
 -   📖 Plans to read [Hinako Note](https://anilist.co/manga/86163) (16:26 20 November 2023)
 -   📖 Plans to read [Spoil Me Plzzz, Hinamori-san!](https://anilist.co/manga/139399) (16:19 20 November 2023)
 -   📖 Plans to read [Blue Box](https://anilist.co/manga/132182) (06:43 20 November 2023)
--   📖 Read chapter 26 - 28 of [Hiyokoi](https://anilist.co/manga/47394) (12:32 18 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
