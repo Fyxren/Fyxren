@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 11 of [Insomniacs After School](https://anilist.co/manga/110473) (10:36 23 November 2023)
+-   📖 Read chapter 4 - 22 of [Insomniacs After School](https://anilist.co/manga/110473) (16:29 23 November 2023)
 -   📖 Read chapter 2 - 3 of [Insomniacs After School](https://anilist.co/manga/110473) (16:31 22 November 2023)
 -   📖 Read chapter 1 of [Insomniacs After School](https://anilist.co/manga/110473) (07:18 21 November 2023)
 -   📖 Plans to read [Hinako Note](https://anilist.co/manga/86163) (16:26 20 November 2023)
