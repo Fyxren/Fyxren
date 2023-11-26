@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [My Tiny Senpai](https://anilist.co/anime/155730) (23:19 25 November 2023)
 -   📖 Read chapter 38 - 39 of [Insomniacs After School](https://anilist.co/manga/110473) (12:18 25 November 2023)
 -   📖 Read chapter 23 - 37 of [Insomniacs After School](https://anilist.co/manga/110473) (16:59 24 November 2023)
 -   📺 Plans to watch [Hiyokoi](https://anilist.co/anime/8768) (08:39 24 November 2023)
 -   📺 Dropped [I Can't Understand What My Husband Is Saying](https://anilist.co/anime/20735) (07:30 24 November 2023)
--   📺 Watched episode 1 of [I Can't Understand What My Husband Is Saying](https://anilist.co/anime/20735) (07:30 24 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
