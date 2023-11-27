@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 - 43 of [Insomniacs After School](https://anilist.co/manga/110473) (16:26 27 November 2023)
 -   📺 Watched episode 4 of [My Tiny Senpai](https://anilist.co/anime/155730) (18:35 26 November 2023)
 -   📺 Watched episode 1 - 3 of [My Tiny Senpai](https://anilist.co/anime/155730) (23:19 25 November 2023)
 -   📖 Read chapter 38 - 39 of [Insomniacs After School](https://anilist.co/manga/110473) (12:18 25 November 2023)
 -   📖 Read chapter 23 - 37 of [Insomniacs After School](https://anilist.co/manga/110473) (16:59 24 November 2023)
--   📺 Plans to watch [Hiyokoi](https://anilist.co/anime/8768) (08:39 24 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
