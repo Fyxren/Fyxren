@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 of [Insomniacs After School](https://anilist.co/manga/110473) (11:52 30 November 2023)
+-   📖 Read chapter 68 - 70 of [Insomniacs After School](https://anilist.co/manga/110473) (16:29 30 November 2023)
 -   📺 Completed [My Tiny Senpai](https://anilist.co/anime/155730) (22:35 29 November 2023)
 -   📺 Watched episode 10 - 11 of [My Tiny Senpai](https://anilist.co/anime/155730) (22:35 29 November 2023)
 -   📖 Read chapter 57 - 67 of [Insomniacs After School](https://anilist.co/manga/110473) (12:03 29 November 2023)
