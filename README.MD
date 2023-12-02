@@ -113,7 +113,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 - 80 of [Insomniacs After School](https://anilist.co/manga/110473) (12:58 02 December 2023)
+-   📖 Read chapter 74 - 83 of [Insomniacs After School](https://anilist.co/manga/110473) (14:58 02 December 2023)
 -   📖 Read chapter 71 - 73 of [Insomniacs After School](https://anilist.co/manga/110473) (11:55 01 December 2023)
 -   📖 Read chapter 72 of [Insomniacs After School](https://anilist.co/manga/110473) (11:55 01 December 2023)
 -   📺 Watched episode 1 - 3 of [My Happy Marriage](https://anilist.co/anime/147103) (22:27 30 November 2023)
