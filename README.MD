@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:27 03 December 2023)
 -   📺 Plans to watch [My Love Story!!](https://anilist.co/anime/20946) (10:06 03 December 2023)
 -   📺 Completed [My Happy Marriage](https://anilist.co/anime/147103) (00:47 03 December 2023)
 -   📺 Watched episode 4 - 11 of [My Happy Marriage](https://anilist.co/anime/147103) (00:47 03 December 2023)
 -   📖 Read chapter 74 - 83 of [Insomniacs After School](https://anilist.co/manga/110473) (14:58 02 December 2023)
--   📖 Read chapter 71 - 73 of [Insomniacs After School](https://anilist.co/manga/110473) (11:55 01 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
