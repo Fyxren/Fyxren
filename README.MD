@@ -113,11 +113,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 86 - 89 of [Insomniacs After School](https://anilist.co/manga/110473) (09:53 09 December 2023)
 -   📺 Watched episode 6 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:12 08 December 2023)
 -   📺 Watched episode 5 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:02 06 December 2023)
 -   📖 Read chapter 84 - 85 of [Insomniacs After School](https://anilist.co/manga/110473) (07:11 05 December 2023)
 -   📺 Watched episode 2 - 4 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:40 04 December 2023)
--   📺 Watched episode 1 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:27 03 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
