@@ -92,6 +92,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 </p>
 
 <p>
+    <a href="https://socials.fyxren.com/keybase"><img src="https://img.shields.io/badge/-keybase-000?style=for-the-badge&logo=keybase"></a>
     <a href="https://socials.fyxren.com/github"><img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github"></a>
     <a href="https://socials.fyxren.com/gitlab"><img src="https://img.shields.io/badge/-gitlab-000?style=for-the-badge&logo=gitlab"></a>
     <a href="https://socials.fyxren.com/medium"><img src="https://img.shields.io/badge/-medium-000?style=for-the-badge&logo=medium"></a>
