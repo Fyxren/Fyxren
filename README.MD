@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Baron: The Cat Returns](https://anilist.co/manga/31372) (19:05 18 December 2023)
+-   📺 Plans to watch [The Cat Returns](https://anilist.co/anime/597) (19:04 18 December 2023)
 -   📖 Plans to read [Kamisama Kiss](https://anilist.co/manga/38157) (11:21 17 December 2023)
 -   📖 Read chapter 86 - 89 of [Insomniacs After School](https://anilist.co/manga/110473) (09:53 09 December 2023)
 -   📺 Watched episode 6 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:12 08 December 2023)
--   📺 Watched episode 5 of [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:02 06 December 2023)
--   📖 Read chapter 84 - 85 of [Insomniacs After School](https://anilist.co/manga/110473) (07:11 05 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
