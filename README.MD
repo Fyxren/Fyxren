@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:27 27 December 2023)
 -   📺 Watched episode 5 - 6 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:24 26 December 2023)
 -   📺 Watched episode 1 - 4 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:37 25 December 2023)
 -   📺 Dropped [Smile Down the Runway](https://anilist.co/anime/111501) (22:04 25 December 2023)
 -   📺 Dropped [Adachi and Shimamura](https://anilist.co/anime/109287) (22:04 25 December 2023)
--   📖 Plans to read [Baron: The Cat Returns](https://anilist.co/manga/31372) (19:05 18 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
