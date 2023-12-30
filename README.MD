@@ -114,7 +114,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (12:18 30 December 2023)
+-   📖 Read chapter 1 - 6 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (14:44 30 December 2023)
 -   📺 Watched episode 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:27 27 December 2023)
 -   📺 Watched episode 5 - 6 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:24 26 December 2023)
 -   📺 Watched episode 1 - 4 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:37 25 December 2023)
