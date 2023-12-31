@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (00:32 31 December 2023)
+-   📺 Watched episode 8 - 12 of [Lycoris Recoil](https://anilist.co/anime/143270) (00:32 31 December 2023)
 -   📺 Plans to watch [School Babysitters](https://anilist.co/anime/98503) (17:01 30 December 2023)
 -   📖 Read chapter 1 - 6 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (14:44 30 December 2023)
 -   📺 Watched episode 7 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:27 27 December 2023)
--   📺 Watched episode 5 - 6 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:24 26 December 2023)
--   📺 Watched episode 1 - 4 of [Lycoris Recoil](https://anilist.co/anime/143270) (23:37 25 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
