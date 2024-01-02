@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:43 02 January 2024)
 -   📺 Dropped [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:17 02 January 2024)
 -   📺 Completed [Lycoris Recoil](https://anilist.co/anime/143270) (00:32 31 December 2023)
 -   📺 Watched episode 8 - 12 of [Lycoris Recoil](https://anilist.co/anime/143270) (00:32 31 December 2023)
 -   📺 Plans to watch [School Babysitters](https://anilist.co/anime/98503) (17:01 30 December 2023)
--   📖 Read chapter 1 - 6 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (14:44 30 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
