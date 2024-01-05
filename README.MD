@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:25 05 January 2024)
 -   📺 Completed [Sing a Bit of Harmony](https://anilist.co/anime/123899) (22:47 04 January 2024)
 -   📺 Plans to watch [Lonely Castle in the Mirror](https://anilist.co/anime/145739) (08:10 04 January 2024)
 -   📺 Watched episode 3 - 4 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:24 03 January 2024)
 -   📺 Watched episode 1 - 2 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:43 02 January 2024)
--   📺 Dropped [The Masterful Cat is Depressed Again Today](https://anilist.co/anime/149883) (21:17 02 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
