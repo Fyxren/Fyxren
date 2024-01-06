@@ -114,7 +114,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 9 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (12:22 06 January 2024)
+-   📖 Read chapter 7 - 11 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (14:52 06 January 2024)
 -   📺 Watched episode 5 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:25 05 January 2024)
 -   📺 Completed [Sing a Bit of Harmony](https://anilist.co/anime/123899) (22:47 04 January 2024)
 -   📺 Plans to watch [Lonely Castle in the Mirror](https://anilist.co/anime/145739) (08:10 04 January 2024)
