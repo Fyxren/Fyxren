@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Please tell me! Galko-chan](https://anilist.co/anime/21472) (17:31 09 January 2024)
 -   📺 Completed [Komori-san Can't Decline!](https://anilist.co/anime/21243) (06:41 09 January 2024)
 -   📺 Watched episode 1 - 11 of [Komori-san Can't Decline!](https://anilist.co/anime/21243) (06:41 09 January 2024)
 -   📺 Plans to watch [The Helpful Fox Senko-san](https://anilist.co/anime/105914) (22:31 08 January 2024)
 -   📺 Completed [Ooya-san wa Shishunki!](https://anilist.co/anime/21359) (22:29 08 January 2024)
--   📺 Watched episode 1 - 11 of [Ooya-san wa Shishunki!](https://anilist.co/anime/21359) (22:29 08 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
