@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Komori-san Can't Decline!](https://anilist.co/anime/21243) (06:41 09 January 2024)
+-   📺 Watched episode 1 - 11 of [Komori-san Can't Decline!](https://anilist.co/anime/21243) (06:41 09 January 2024)
 -   📺 Plans to watch [The Helpful Fox Senko-san](https://anilist.co/anime/105914) (22:31 08 January 2024)
 -   📺 Completed [Ooya-san wa Shishunki!](https://anilist.co/anime/21359) (22:29 08 January 2024)
 -   📺 Watched episode 1 - 11 of [Ooya-san wa Shishunki!](https://anilist.co/anime/21359) (22:29 08 January 2024)
--   📺 Watched episode 6 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:01 08 January 2024)
--   📖 Read chapter 7 - 11 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (14:52 06 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
