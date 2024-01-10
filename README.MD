@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Fluffy Paradise](https://anilist.co/anime/152072) (19:18 09 January 2024)
--   📺 Watched episode 1 - 6 of [Please tell me! Galko-chan](https://anilist.co/anime/21472) (17:31 09 January 2024)
--   📺 Completed [Komori-san Can't Decline!](https://anilist.co/anime/21243) (06:41 09 January 2024)
--   📺 Watched episode 1 - 11 of [Komori-san Can't Decline!](https://anilist.co/anime/21243) (06:41 09 January 2024)
--   📺 Plans to watch [The Helpful Fox Senko-san](https://anilist.co/anime/105914) (22:31 08 January 2024)
+-   📺 Completed [Please tell me! Galko-chan](https://anilist.co/anime/21472) (23:12 10 January 2024)
+-   📺 Watched episode 7 - 11 of [Please tell me! Galko-chan](https://anilist.co/anime/21472) (23:12 10 January 2024)
+-   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (22:23 10 January 2024)
+-   📺 Plans to watch [Mysteria Friends](https://anilist.co/anime/21322) (22:19 10 January 2024)
+-   📖 Plans to read [Himegoto](https://anilist.co/manga/62833) (22:18 10 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
