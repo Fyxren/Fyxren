@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (11:50 11 January 2024)
 -   📺 Watched episode 1 - 5 of [Danchigai](https://anilist.co/anime/21059) (06:43 11 January 2024)
 -   📺 Completed [Please tell me! Galko-chan](https://anilist.co/anime/21472) (23:12 10 January 2024)
 -   📺 Watched episode 7 - 11 of [Please tell me! Galko-chan](https://anilist.co/anime/21472) (23:12 10 January 2024)
 -   📖 Plans to read [Girls' Last Tour](https://anilist.co/manga/85412) (22:23 10 January 2024)
--   📺 Plans to watch [Mysteria Friends](https://anilist.co/anime/21322) (22:19 10 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
