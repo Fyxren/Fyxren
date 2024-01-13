@@ -114,7 +114,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Girls' Last Tour](https://anilist.co/manga/85412) (12:55 13 January 2024)
+-   📖 Read chapter 1 - 7 of [Girls' Last Tour](https://anilist.co/manga/85412) (14:58 13 January 2024)
 -   📖 Completed [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (12:48 13 January 2024)
 -   📖 Read chapter 15 - 21 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (12:48 13 January 2024)
 -   📺 Watched episode 1 - 4 of [Mysteria Friends](https://anilist.co/anime/21322) (07:25 13 January 2024)
