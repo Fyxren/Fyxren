@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 - 16 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (09:49 13 January 2024)
 -   📺 Watched episode 1 - 4 of [Mysteria Friends](https://anilist.co/anime/21322) (07:25 13 January 2024)
 -   📺 Completed [Danchigai](https://anilist.co/anime/21059) (22:53 12 January 2024)
 -   📺 Watched episode 6 - 11 of [Danchigai](https://anilist.co/anime/21059) (22:52 12 January 2024)
 -   📖 Read chapter 13 - 14 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (06:12 12 January 2024)
--   📖 Read chapter 12 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (11:50 11 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
