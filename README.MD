@@ -114,7 +114,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Mysteria Friends](https://anilist.co/anime/21322) (23:44 12 January 2024)
+-   📺 Watched episode 1 - 4 of [Mysteria Friends](https://anilist.co/anime/21322) (07:25 13 January 2024)
 -   📺 Completed [Danchigai](https://anilist.co/anime/21059) (22:53 12 January 2024)
 -   📺 Watched episode 6 - 11 of [Danchigai](https://anilist.co/anime/21059) (22:52 12 January 2024)
 -   📖 Read chapter 13 - 14 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (06:12 12 January 2024)
