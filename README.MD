@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mysteria Friends](https://anilist.co/anime/21322) (22:24 17 January 2024)
+-   📺 Watched episode 7 - 9 of [Mysteria Friends](https://anilist.co/anime/21322) (22:24 17 January 2024)
 -   📺 Watched episode 5 - 6 of [Mysteria Friends](https://anilist.co/anime/21322) (22:10 15 January 2024)
 -   📺 Watched episode 7 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:43 15 January 2024)
 -   📖 Read chapter 1 - 7 of [Girls' Last Tour](https://anilist.co/manga/85412) (14:58 13 January 2024)
--   📖 Completed [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (12:48 13 January 2024)
--   📖 Read chapter 15 - 21 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (12:48 13 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
