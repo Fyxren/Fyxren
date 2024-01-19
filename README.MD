@@ -114,11 +114,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:24 19 January 2024)
 -   📺 Watched episode 8 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:07 18 January 2024)
 -   📺 Completed [Mysteria Friends](https://anilist.co/anime/21322) (22:24 17 January 2024)
 -   📺 Watched episode 7 - 9 of [Mysteria Friends](https://anilist.co/anime/21322) (22:24 17 January 2024)
 -   📺 Watched episode 5 - 6 of [Mysteria Friends](https://anilist.co/anime/21322) (22:10 15 January 2024)
--   📺 Watched episode 7 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:43 15 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
