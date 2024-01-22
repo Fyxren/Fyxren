@@ -41,28 +41,40 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000?style=for-the-badge)
+
+![Pnpm](https://img.shields.io/badge/-Pnpm-000?style=for-the-badge&logo=Pnpm)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn)
 ![Npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
+![Codesys](https://img.shields.io/badge/-Codesys-000?style=for-the-badge&logo=Codesys)
+
 #### Tools
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?style=for-the-badge&logo=intellijidea)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Termius](https://img.shields.io/badge/-Termius-000?style=for-the-badge&logo=Termius)
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAWlJREFUOE9jZCATMKLry9ns8B+bWVN8D6CohXOM+hj+m8s5MIhqYnfC6+sQ8ekhEAPgGnVbGP5LmzAwGAo54HT821sMDLNikDRqVDH8lzRgYGiwXAPW9P//fwZGRgxfMDQcD2F4foGB4UYbA0RWuYDhv7gWA0OryxoGR6UQhv33UGlxSTGGFUenMVTvCWF4eY2B4e4EqEb5VIb/omoMDJ1+axic1UMY9t7EpEEWlG8KYXh9i4Hh4WyoxiXrlv4PdA9gYGNjY2BlZWX4/fs3nAZpAInp6OgwnDx5kmH9zg0MMUHREKfOXzn/f4BbAAMXFxcDOzs7w8+fP+E0ExMTWOOPHz8Yvn//zrBh1waGxPBEiMbZS2b/93XxZeDn58cbOB8/fmTYvGczQ2pMKiLops2f9t/byRtvOtq6bytDVmIWajxOnDURnGI8HTyxat5+YDtYPD8tH1UjTHXvtF6sSa44qxh7kiM1rQMAlop/D632sN4AAAAASUVORK5CYII=)
+![Gitkraken](https://img.shields.io/badge/-Gitkraken-000?style=for-the-badge&logo=Gitkraken)
 
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?style=for-the-badge&logo=Insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
 ![Spotify](https://img.shields.io/badge/-Spotify%20😊-000?style=for-the-badge&logo=spotify)
 
 #### Wanting to learn / try
+![Godot](https://img.shields.io/badge/-Godot-000?style=for-the-badge&logo=Godot)
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=Unity)
 ![Unreal](https://img.shields.io/badge/-Unreal-000?style=for-the-badge&logo=UnrealEngine)
 ![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
+![Tauri](https://img.shields.io/badge/-Tauri-000?style=for-the-badge&logo=Tauri)
 ![Siemens Logo](https://img.shields.io/badge/-Siemens%20Logo-000?style=for-the-badge&logo=siemens)
 ![Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=React)
@@ -71,6 +83,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 #### Learning / Tried / Stopped using
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=Supabase)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitLab)
 ![Blender](https://img.shields.io/badge/-Blender-000?style=for-the-badge&logo=blender)
 
