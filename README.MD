@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Rec](https://anilist.co/anime/710) (06:04 24 January 2024)
 -   📺 Completed [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:15 23 January 2024)
 -   📺 Watched episode 10 - 11 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (22:14 23 January 2024)
 -   📺 Plans to watch [Girls' Last Tour](https://anilist.co/anime/99420) (14:33 20 January 2024)
 -   📖 Read chapter 8 - 17 of [Girls' Last Tour](https://anilist.co/manga/85412) (14:32 20 January 2024)
--   📺 Watched episode 9 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:24 19 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
