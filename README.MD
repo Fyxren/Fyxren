@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 29 of [Girls' Last Tour](https://anilist.co/manga/85412) (07:15 25 January 2024)
 -   📺 Completed [Deiji Meets Girl](https://anilist.co/anime/137227) (22:39 24 January 2024)
 -   📺 Watched episode 1 - 11 of [Deiji Meets Girl](https://anilist.co/anime/137227) (22:39 24 January 2024)
 -   📺 Completed [Rec](https://anilist.co/anime/710) (21:58 24 January 2024)
 -   📺 Watched episode 5 - 8 of [Rec](https://anilist.co/anime/710) (21:58 24 January 2024)
--   📖 Read chapter 18 - 26 of [Girls' Last Tour](https://anilist.co/manga/85412) (16:49 24 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
