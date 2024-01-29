@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [School Babysitters OVA](https://anilist.co/anime/102969) (20:51 29 January 2024)
+-   📺 Completed [School Babysitters](https://anilist.co/anime/98503) (20:50 29 January 2024)
 -   📺 Watched episode 11 of [School Babysitters](https://anilist.co/anime/98503) (22:31 28 January 2024)
 -   📺 Watched episode 5 - 10 of [School Babysitters](https://anilist.co/anime/98503) (22:18 27 January 2024)
 -   📖 Read chapter 34 of [Hiyokoi](https://anilist.co/manga/47394) (18:14 26 January 2024)
--   📖 Dropped 69 of [Hiyokoi](https://anilist.co/manga/47394) (18:14 26 January 2024)
--   📖 Completed [Girls' Last Tour](https://anilist.co/manga/85412) (16:28 26 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
