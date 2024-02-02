@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Wagnaria!!2](https://anilist.co/anime/10521) (17:30 02 February 2024)
 -   📺 Plans to watch [Wagnaria!!2](https://anilist.co/anime/10521) (00:06 02 February 2024)
 -   📺 Completed [Wagnaria!!](https://anilist.co/anime/6956) (00:05 02 February 2024)
 -   📺 Watched episode 11 - 12 of [Wagnaria!!](https://anilist.co/anime/6956) (00:05 02 February 2024)
 -   📖 Read chapter 1 - 2 of [How to Raise a Boring Girlfriend](https://anilist.co/manga/81309) (09:17 01 February 2024)
--   📺 Watched episode 8 - 10 of [Wagnaria!!](https://anilist.co/anime/6956) (21:16 31 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
