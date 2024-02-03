@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Wagnaria!!2](https://anilist.co/anime/10521) (21:51 02 February 2024)
+-   📺 Watched episode 1 - 5 of [Wagnaria!!2](https://anilist.co/anime/10521) (06:53 03 February 2024)
 -   📺 Plans to watch [Wagnaria!!2](https://anilist.co/anime/10521) (00:06 02 February 2024)
 -   📺 Completed [Wagnaria!!](https://anilist.co/anime/6956) (00:05 02 February 2024)
 -   📺 Watched episode 11 - 12 of [Wagnaria!!](https://anilist.co/anime/6956) (00:05 02 February 2024)
