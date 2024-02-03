@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Kamisama Kiss](https://anilist.co/manga/38157) (12:52 03 February 2024)
+-   📖 Read chapter 3 - 4 of [How to Raise a Boring Girlfriend](https://anilist.co/manga/81309) (12:37 03 February 2024)
 -   📺 Watched episode 1 - 5 of [Wagnaria!!2](https://anilist.co/anime/10521) (06:53 03 February 2024)
 -   📺 Plans to watch [Wagnaria!!2](https://anilist.co/anime/10521) (00:06 02 February 2024)
 -   📺 Completed [Wagnaria!!](https://anilist.co/anime/6956) (00:05 02 February 2024)
--   📺 Watched episode 11 - 12 of [Wagnaria!!](https://anilist.co/anime/6956) (00:05 02 February 2024)
--   📖 Read chapter 1 - 2 of [How to Raise a Boring Girlfriend](https://anilist.co/manga/81309) (09:17 01 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
