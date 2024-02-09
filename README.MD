@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 - 10 of [Wagnaria!!3](https://anilist.co/anime/20819) (21:47 09 February 2024)
 -   📺 Watched episode 6 - 8 of [Wagnaria!!3](https://anilist.co/anime/20819) (23:36 08 February 2024)
 -   📺 Watched episode 3 - 5 of [Wagnaria!!3](https://anilist.co/anime/20819) (23:44 07 February 2024)
 -   📖 Read chapter 3 - 10 of [Kamisama Kiss](https://anilist.co/manga/38157) (12:01 07 February 2024)
 -   📺 Watched episode 1 - 2 of [Wagnaria!!3](https://anilist.co/anime/20819) (22:26 06 February 2024)
--   📺 Completed [Wagnaria!!2](https://anilist.co/anime/10521) (22:36 05 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
