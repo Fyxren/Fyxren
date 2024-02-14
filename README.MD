@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Wagnaria!!3: Lord of the Takanashi](https://anilist.co/anime/21384) (20:44 14 February 2024)
 -   📺 Plans to watch [WWW.WAGNARIA!!](https://anilist.co/anime/21764) (23:30 12 February 2024)
 -   📺 Plans to watch [Wagnaria!!3: Lord of the Takanashi](https://anilist.co/anime/21384) (23:27 12 February 2024)
 -   📺 Completed [Wagnaria!!3](https://anilist.co/anime/20819) (23:27 12 February 2024)
 -   📺 Watched episode 11 - 12 of [Wagnaria!!3](https://anilist.co/anime/20819) (23:27 12 February 2024)
--   📖 Read chapter 11 - 15 of [Kamisama Kiss](https://anilist.co/manga/38157) (12:25 10 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
