@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 17 of [Kamisama Kiss](https://anilist.co/manga/38157) (14:20 17 February 2024)
 -   📺 Completed [BLEND-S](https://anilist.co/anime/97994) (21:41 16 February 2024)
 -   📺 Watched episode 10 - 11 of [BLEND-S](https://anilist.co/anime/97994) (21:41 16 February 2024)
 -   📺 Watched episode 4 - 9 of [BLEND-S](https://anilist.co/anime/97994) (00:02 16 February 2024)
 -   📺 Watched episode 1 - 3 of [BLEND-S](https://anilist.co/anime/97994) (21:54 14 February 2024)
--   📺 Completed [Wagnaria!!3: Lord of the Takanashi](https://anilist.co/anime/21384) (20:44 14 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
