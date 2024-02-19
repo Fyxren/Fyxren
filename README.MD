@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (22:26 19 February 2024)
 -   📺 Plans to watch [Prison School](https://anilist.co/anime/20807) (22:22 18 February 2024)
 -   📺 Watched episode 1 - 6 of [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (22:12 18 February 2024)
 -   📺 Completed [Listen to Me, Girls. I Am Your Father!](https://anilist.co/anime/11179) (00:14 18 February 2024)
 -   📺 Watched episode 1 - 11 of [Listen to Me, Girls. I Am Your Father!](https://anilist.co/anime/11179) (00:13 18 February 2024)
--   📖 Read chapter 16 - 17 of [Kamisama Kiss](https://anilist.co/manga/38157) (14:20 17 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
