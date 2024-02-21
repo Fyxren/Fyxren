@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (22:22 21 February 2024)
+-   📺 Completed [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (22:17 21 February 2024)
+-   📺 Watched episode 10 - 11 of [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (22:17 21 February 2024)
 -   📺 Plans to watch [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (08:12 21 February 2024)
 -   📺 Plans to watch [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (06:58 21 February 2024)
--   📺 Watched episode 8 - 9 of [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (22:16 20 February 2024)
--   📺 Plans to watch [The Girl Downstairs](https://anilist.co/anime/156111) (23:24 19 February 2024)
--   📺 Watched episode 7 of [Deaimon: Recipe for Happiness](https://anilist.co/anime/132532) (22:26 19 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
