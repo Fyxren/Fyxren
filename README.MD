@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 18 of [Kamisama Kiss](https://anilist.co/manga/38157) (09:56 24 February 2024)
+-   📖 Read chapter 18 - 23 of [Kamisama Kiss](https://anilist.co/manga/38157) (12:46 24 February 2024)
 -   📺 Plans to watch [Beyond the Boundary](https://anilist.co/anime/18153) (06:43 24 February 2024)
 -   📺 Completed [The Dreaming Boy is a Realist](https://anilist.co/anime/157397) (22:45 23 February 2024)
 -   📺 Watched episode 8 - 11 of [The Dreaming Boy is a Realist](https://anilist.co/anime/157397) (22:45 23 February 2024)
