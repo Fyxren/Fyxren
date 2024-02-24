@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (21:08 24 February 2024)
 -   📖 Read chapter 18 - 26 of [Kamisama Kiss](https://anilist.co/manga/38157) (14:59 24 February 2024)
 -   📺 Plans to watch [Beyond the Boundary](https://anilist.co/anime/18153) (06:43 24 February 2024)
 -   📺 Completed [The Dreaming Boy is a Realist](https://anilist.co/anime/157397) (22:45 23 February 2024)
 -   📺 Watched episode 8 - 11 of [The Dreaming Boy is a Realist](https://anilist.co/anime/157397) (22:45 23 February 2024)
--   📺 Plans to watch [My Little Monster](https://anilist.co/anime/14227) (19:25 23 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
