@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:12 27 February 2024)
 -   📺 Completed [Danchigai Special](https://anilist.co/anime/21381) (22:11 26 February 2024)
 -   📺 Completed [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (21:57 26 February 2024)
 -   📺 Watched episode 9 - 11 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (21:57 26 February 2024)
 -   📺 Watched episode 1 - 8 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (21:08 24 February 2024)
--   📖 Read chapter 18 - 26 of [Kamisama Kiss](https://anilist.co/manga/38157) (14:59 24 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
