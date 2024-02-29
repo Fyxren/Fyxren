@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [My Little Monster](https://anilist.co/anime/14227) (23:04 28 February 2024)
+-   📺 Watched episode 1 - 5 of [My Little Monster](https://anilist.co/anime/14227) (08:31 29 February 2024)
 -   📺 Completed [TenPuru](https://anilist.co/anime/160447) (21:44 28 February 2024)
 -   📺 Watched episode 8 - 11 of [TenPuru](https://anilist.co/anime/160447) (21:44 28 February 2024)
 -   📖 Read chapter 27 - 29 of [Kamisama Kiss](https://anilist.co/manga/38157) (13:28 28 February 2024)
