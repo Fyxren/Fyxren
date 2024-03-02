@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 - 36 of [Kamisama Kiss](https://anilist.co/manga/38157) (14:44 02 March 2024)
 -   📺 Watched episode 1 - 6 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (09:16 02 March 2024)
 -   📺 Completed [My Little Monster](https://anilist.co/anime/14227) (21:32 01 March 2024)
 -   📺 Watched episode 12 of [My Little Monster](https://anilist.co/anime/14227) (21:32 01 March 2024)
 -   📺 Watched episode 6 - 11 of [My Little Monster](https://anilist.co/anime/14227) (22:45 29 February 2024)
--   📖 Read chapter 30 - 32 of [Kamisama Kiss](https://anilist.co/manga/38157) (09:22 29 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
