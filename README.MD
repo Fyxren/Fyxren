@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (23:05 01 March 2024)
+-   📺 Watched episode 1 - 6 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (09:16 02 March 2024)
 -   📺 Completed [My Little Monster](https://anilist.co/anime/14227) (21:32 01 March 2024)
 -   📺 Watched episode 12 of [My Little Monster](https://anilist.co/anime/14227) (21:32 01 March 2024)
 -   📺 Watched episode 6 - 11 of [My Little Monster](https://anilist.co/anime/14227) (22:45 29 February 2024)
