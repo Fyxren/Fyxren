@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (12:49 03 March 2024)
 -   📺 Plans to watch [Penguin Highway](https://anilist.co/anime/101249) (08:19 03 March 2024)
 -   📺 Watched episode 7 - 14 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (22:57 02 March 2024)
 -   📖 Read chapter 33 - 36 of [Kamisama Kiss](https://anilist.co/manga/38157) (14:44 02 March 2024)
 -   📺 Watched episode 1 - 6 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (09:16 02 March 2024)
--   📺 Completed [My Little Monster](https://anilist.co/anime/14227) (21:32 01 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
