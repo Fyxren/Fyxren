@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (11:28 04 March 2024)
 -   📺 Completed [A Certain Scientific Railgun](https://anilist.co/anime/6213) (08:51 04 March 2024)
 -   📺 Watched episode 21 - 23 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (08:51 04 March 2024)
 -   📺 Watched episode 15 - 20 of [A Certain Scientific Railgun](https://anilist.co/anime/6213) (20:20 03 March 2024)
 -   📺 Plans to watch [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (12:49 03 March 2024)
--   📺 Plans to watch [Penguin Highway](https://anilist.co/anime/101249) (08:19 03 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
