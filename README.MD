@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Girls' Last Tour](https://anilist.co/anime/99420) (17:03 06 March 2024)
+-   📺 Dropped [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (17:03 06 March 2024)
 -   📖 Read chapter 37 - 38 of [Kamisama Kiss](https://anilist.co/manga/38157) (13:29 06 March 2024)
 -   📺 Watched episode 17 - 20 of [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (22:01 05 March 2024)
 -   📺 Watched episode 7 - 16 of [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (00:41 05 March 2024)
--   📺 Watched episode 1 - 6 of [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (11:28 04 March 2024)
--   📺 Completed [A Certain Scientific Railgun](https://anilist.co/anime/6213) (08:51 04 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
