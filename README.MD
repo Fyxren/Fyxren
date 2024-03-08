@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 11 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (21:49 08 March 2024)
 -   📖 Read chapter 2 - 6 of [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (16:45 08 March 2024)
 -   📖 Dropped [Insomniacs After School](https://anilist.co/manga/110473) (08:32 08 March 2024)
 -   📺 Watched episode 1 - 6 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (22:26 07 March 2024)
 -   📖 Read chapter 1 of [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (15:57 07 March 2024)
--   📖 Dropped [How to Raise a Boring Girlfriend](https://anilist.co/manga/81309) (15:54 07 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
