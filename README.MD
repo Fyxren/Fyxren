@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 - 16 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (21:57 10 March 2024)
 -   📺 Plans to watch [Puella Magi Madoka Magica](https://anilist.co/anime/9756) (20:57 10 March 2024)
 -   📺 Watched episode 12 - 14 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (01:36 10 March 2024)
 -   📖 Read chapter 7 - 25 of [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (15:12 09 March 2024)
 -   📺 Watched episode 7 - 11 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (21:49 08 March 2024)
--   📖 Read chapter 2 - 6 of [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (16:45 08 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
