@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (20:29 13 March 2024)
+-   📺 Plans to watch [Sasaki and Peeps](https://anilist.co/anime/152682) (20:27 13 March 2024)
+-   📺 Plans to watch [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (20:18 13 March 2024)
 -   📖 Read chapter 1 - 2 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (14:58 13 March 2024)
 -   📺 Plans to watch [Kamisama Kiss](https://anilist.co/anime/14713) (14:45 13 March 2024)
--   📖 Read chapter 1 - 18 of [Inkya na Tsubame wa Kawaritai](https://anilist.co/manga/170972) (13:11 13 March 2024)
--   📖 Completed [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (07:10 13 March 2024)
--   📖 Read chapter 44 - 58 of [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (07:10 13 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
