@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [Inkya na Tsubame wa Kawaritai](https://anilist.co/manga/170972) (07:21 13 March 2024)
 -   📖 Completed [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (07:10 13 March 2024)
 -   📖 Read chapter 44 - 58 of [15 Minutes Before We Really Date](https://anilist.co/manga/116976) (07:10 13 March 2024)
 -   📺 Plans to watch [Durarara!!](https://anilist.co/anime/6746) (21:31 12 March 2024)
 -   📺 Completed [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (21:19 12 March 2024)
--   📺 Watched episode 21 - 24 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (21:19 12 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
