@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 - 9 of [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (21:59 16 March 2024)
 -   📖 Completed [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (13:00 16 March 2024)
 -   📖 Read chapter 6 - 17 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (13:00 16 March 2024)
 -   📖 Read chapter 5 - 7 of [Handsome Girl and Sheltered Girl](https://anilist.co/manga/111168) (10:33 16 March 2024)
 -   📺 Watched episode 4 - 7 of [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (21:23 15 March 2024)
--   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (21:20 14 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
