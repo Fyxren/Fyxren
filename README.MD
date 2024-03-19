@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Miageru to Kimi wa](https://anilist.co/manga/105304) (07:18 19 March 2024)
 -   📺 Watched episode 1 - 2 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (21:18 18 March 2024)
 -   📺 Completed [TONIKAWA: Over The Moon For You ~Uniform~](https://anilist.co/anime/141212) (20:32 18 March 2024)
 -   📺 Completed [TONIKAWA: Over The Moon For You ~SNS~](https://anilist.co/anime/127371) (20:10 18 March 2024)
 -   📖 Read chapter 1 - 7 of [Happy Sugar Life](https://anilist.co/manga/86655) (13:58 18 March 2024)
--   📺 Plans to watch [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (22:07 17 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
