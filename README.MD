@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (23:01 26 March 2024)
+-   📺 Watched episode 1 - 3 of [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (23:01 26 March 2024)
 -   📺 Completed [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (21:32 26 March 2024)
 -   📺 Watched episode 11 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (21:32 26 March 2024)
 -   📺 Watched episode 9 - 10 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (21:08 25 March 2024)
--   📺 Plans to watch [Great Pretender](https://anilist.co/anime/110349) (20:36 23 March 2024)
--   📺 Watched episode 7 - 8 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (21:34 22 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
