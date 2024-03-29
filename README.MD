@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 16 - 20 of [The Apothecary Diaries](https://anilist.co/anime/161645) (23:00 29 March 2024)
 -   📺 Watched episode 6 - 15 of [The Apothecary Diaries](https://anilist.co/anime/161645) (00:09 29 March 2024)
 -   📖 Completed [Miageru to Kimi wa](https://anilist.co/manga/105304) (15:49 28 March 2024)
 -   📖 Read chapter 26 - 32 of [Miageru to Kimi wa](https://anilist.co/manga/105304) (15:49 28 March 2024)
 -   📺 Watched episode 1 - 5 of [The Apothecary Diaries](https://anilist.co/anime/161645) (22:36 27 March 2024)
--   📖 Read chapter 24 - 25 of [Miageru to Kimi wa](https://anilist.co/manga/105304) (08:16 27 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
