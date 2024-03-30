@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Chihayafuru](https://anilist.co/manga/43245) (13:15 30 March 2024)
+-   📖 Read chapter 1 - 6 of [Chihayafuru](https://anilist.co/manga/43245) (15:39 30 March 2024)
 -   📖 Plans to read [I Have a Crush at Work](https://anilist.co/manga/116333) (06:11 30 March 2024)
 -   📖 Plans to read [Chihayafuru](https://anilist.co/manga/43245) (06:10 30 March 2024)
 -   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:09 30 March 2024)
