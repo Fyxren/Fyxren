@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Apothecary Diaries](https://anilist.co/anime/161645) (20:27 30 March 2024)
+-   📺 Watched episode 21 - 23 of [The Apothecary Diaries](https://anilist.co/anime/161645) (20:26 30 March 2024)
 -   📖 Read chapter 1 - 6 of [Chihayafuru](https://anilist.co/manga/43245) (15:39 30 March 2024)
 -   📖 Plans to read [I Have a Crush at Work](https://anilist.co/manga/116333) (06:11 30 March 2024)
 -   📖 Plans to read [Chihayafuru](https://anilist.co/manga/43245) (06:10 30 March 2024)
--   📖 Plans to read [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (06:09 30 March 2024)
--   📺 Watched episode 16 - 20 of [The Apothecary Diaries](https://anilist.co/anime/161645) (23:00 29 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
