@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (08:13 31 March 2024)
 -   📺 Watched episode 1 - 8 of [Clean Freak! Aoyama kun](https://anilist.co/anime/98205) (23:31 30 March 2024)
 -   📺 Completed [The Apothecary Diaries](https://anilist.co/anime/161645) (20:27 30 March 2024)
 -   📺 Watched episode 21 - 23 of [The Apothecary Diaries](https://anilist.co/anime/161645) (20:26 30 March 2024)
 -   📖 Read chapter 1 - 6 of [Chihayafuru](https://anilist.co/manga/43245) (15:39 30 March 2024)
--   📖 Plans to read [I Have a Crush at Work](https://anilist.co/manga/116333) (06:11 30 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
