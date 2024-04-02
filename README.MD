@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [Undead Unluck](https://anilist.co/anime/154116) (21:35 02 April 2024)
 -   📖 Read chapter 7 - 8 of [Chihayafuru](https://anilist.co/manga/43245) (13:57 02 April 2024)
 -   📺 Watched episode 1 - 2 of [Undead Unluck](https://anilist.co/anime/154116) (21:42 01 April 2024)
 -   📺 Completed [Clean Freak! Aoyama kun](https://anilist.co/anime/98205) (23:42 31 March 2024)
 -   📺 Watched episode 9 - 11 of [Clean Freak! Aoyama kun](https://anilist.co/anime/98205) (23:41 31 March 2024)
--   📺 Plans to watch [Grave of the Fireflies](https://anilist.co/anime/578) (20:49 31 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
