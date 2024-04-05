@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 of [Chihayafuru](https://anilist.co/manga/43245) (07:50 05 April 2024)
+-   📖 Read chapter 9 of [Chihayafuru](https://anilist.co/manga/43245) (07:50 05 April 2024)
 -   📺 Plans to watch [Spice and Wolf](https://anilist.co/anime/2966) (06:42 05 April 2024)
 -   📺 Plans to watch [The Vexations of a Shut-In Vampire Princess](https://anilist.co/anime/159808) (05:17 05 April 2024)
 -   📺 Watched episode 1 of [Sasaki and Peeps](https://anilist.co/anime/152682) (21:44 04 April 2024)
--   📺 Watched episode 3 - 4 of [Undead Unluck](https://anilist.co/anime/154116) (21:35 02 April 2024)
--   📖 Read chapter 7 - 8 of [Chihayafuru](https://anilist.co/manga/43245) (13:57 02 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
