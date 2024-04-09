@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 - 8 of [Fluffy Paradise](https://anilist.co/anime/152072) (21:00 09 April 2024)
 -   📺 Watched episode 3 of [Fluffy Paradise](https://anilist.co/anime/152072) (22:05 08 April 2024)
 -   📺 Watched episode 1 - 2 of [Fluffy Paradise](https://anilist.co/anime/152072) (20:21 07 April 2024)
 -   📖 Read chapter 14 - 23 of [Chihayafuru](https://anilist.co/manga/43245) (14:11 06 April 2024)
 -   📖 Read chapter 9 - 13 of [Chihayafuru](https://anilist.co/manga/43245) (13:25 05 April 2024)
--   📖 Read chapter 9 of [Chihayafuru](https://anilist.co/manga/43245) (07:50 05 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
