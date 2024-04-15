@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Absolute Duo](https://anilist.co/anime/20785) (21:22 15 April 2024)
 -   📺 Watched episode 1 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (20:09 15 April 2024)
 -   📺 Watched episode 3 - 5 of [Spice and Wolf](https://anilist.co/anime/2966) (20:45 13 April 2024)
 -   📺 Watched episode 1 - 2 of [Spice and Wolf](https://anilist.co/anime/2966) (19:27 12 April 2024)
 -   📖 Read chapter 24 of [Chihayafuru](https://anilist.co/manga/43245) (07:57 11 April 2024)
--   📺 Completed [Fluffy Paradise](https://anilist.co/anime/152072) (21:32 10 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
