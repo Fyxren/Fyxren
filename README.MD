@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (20:52 19 April 2024)
 -   📺 Completed [Absolute Duo](https://anilist.co/anime/20785) (19:42 18 April 2024)
 -   📺 Watched episode 9 - 11 of [Absolute Duo](https://anilist.co/anime/20785) (19:42 18 April 2024)
 -   📺 Watched episode 7 - 8 of [Absolute Duo](https://anilist.co/anime/20785) (21:06 17 April 2024)
 -   📺 Watched episode 4 - 6 of [Absolute Duo](https://anilist.co/anime/20785) (21:53 16 April 2024)
--   📺 Watched episode 1 - 3 of [Absolute Duo](https://anilist.co/anime/20785) (21:22 15 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
