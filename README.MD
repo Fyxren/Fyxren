@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 - 12 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (12:59 24 April 2024)
+-   📖 Read chapter 10 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (12:59 24 April 2024)
 -   📺 Watched episode 7 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (20:48 23 April 2024)
 -   📺 Watched episode 5 - 6 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (21:17 22 April 2024)
 -   📺 Watched episode 4 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (23:33 20 April 2024)
--   📖 Read chapter 1 - 9 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (14:14 20 April 2024)
--   📺 Watched episode 2 - 3 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (20:52 19 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
