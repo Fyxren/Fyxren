@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [HINAMATSURI](https://anilist.co/anime/100077) (17:30 01 May 2024)
+-   📖 Plans to read [Hinamatsuri](https://anilist.co/manga/66413) (17:29 01 May 2024)
 -   📺 Watched episode 9 - 10 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (21:05 27 April 2024)
 -   📖 Read chapter 20 - 27 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (14:00 27 April 2024)
 -   📖 Read chapter 13 - 19 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (13:27 26 April 2024)
--   📺 Plans to watch [Whisper Me a Love Song](https://anilist.co/anime/160181) (05:55 26 April 2024)
--   📺 Watched episode 8 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (20:31 25 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
