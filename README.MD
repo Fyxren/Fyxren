@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Sasaki and Peeps](https://anilist.co/anime/152682) (23:12 07 May 2024)
+-   📺 Dropped [Spice and Wolf](https://anilist.co/anime/2966) (23:11 07 May 2024)
+-   📺 Dropped [Undead Unluck](https://anilist.co/anime/154116) (23:11 07 May 2024)
 -   📖 Read chapter 28 - 37 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (14:06 04 May 2024)
 -   📺 Plans to watch [HINAMATSURI](https://anilist.co/anime/100077) (17:30 01 May 2024)
--   📖 Plans to read [Hinamatsuri](https://anilist.co/manga/66413) (17:29 01 May 2024)
--   📺 Watched episode 9 - 10 of [Is the Order a Rabbit?](https://anilist.co/anime/20517) (21:05 27 April 2024)
--   📖 Read chapter 20 - 27 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (14:00 27 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
