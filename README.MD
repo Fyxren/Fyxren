@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 5 of [Bunny Drop](https://anilist.co/anime/10162) (20:35 08 May 2024)
 -   📺 Watched episode 1 - 2 of [Bunny Drop](https://anilist.co/anime/10162) (00:00 08 May 2024)
 -   📺 Plans to watch [Bunny Drop](https://anilist.co/anime/10162) (23:16 07 May 2024)
 -   📺 Dropped [Sasaki and Peeps](https://anilist.co/anime/152682) (23:12 07 May 2024)
 -   📺 Dropped [Spice and Wolf](https://anilist.co/anime/2966) (23:11 07 May 2024)
--   📺 Dropped [Undead Unluck](https://anilist.co/anime/154116) (23:11 07 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
