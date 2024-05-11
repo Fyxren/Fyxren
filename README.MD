@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Bunny Drop](https://anilist.co/anime/10162) (22:25 11 May 2024)
 -   📖 Read chapter 2 - 11 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (14:19 11 May 2024)
 -   📖 Read chapter 1 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (13:12 09 May 2024)
 -   📖 Completed [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (11:14 09 May 2024)
 -   📖 Read chapter 38 - 47 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (11:14 09 May 2024)
--   📖 Read chapter 38 - 44 of [Neeko wa Tsurai yo](https://anilist.co/manga/100494) (11:14 09 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
