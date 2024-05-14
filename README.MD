@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Bunny Drop](https://anilist.co/anime/10162) (21:50 14 May 2024)
+-   📺 Watched episode 9 - 10 of [Bunny Drop](https://anilist.co/anime/10162) (21:50 14 May 2024)
 -   📺 Watched episode 7 - 8 of [Bunny Drop](https://anilist.co/anime/10162) (21:39 13 May 2024)
 -   📖 Plans to read [Daitoshokan no Hitsujikai](https://anilist.co/manga/92729) (05:55 13 May 2024)
 -   📺 Plans to watch [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (05:55 13 May 2024)
--   📺 Watched episode 6 of [Bunny Drop](https://anilist.co/anime/10162) (22:25 11 May 2024)
--   📖 Read chapter 2 - 11 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (14:19 11 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
