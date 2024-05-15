@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Grand Blue Dreaming](https://anilist.co/anime/100922) (20:02 15 May 2024)
+-   📺 Plans to watch [Miss Caretaker of Sunohara-sou](https://anilist.co/anime/100556) (19:47 15 May 2024)
+-   📖 Plans to read [I Married My Female Friend](https://anilist.co/manga/126292) (19:34 15 May 2024)
 -   📺 Completed [Bunny Drop](https://anilist.co/anime/10162) (21:50 14 May 2024)
 -   📺 Watched episode 9 - 10 of [Bunny Drop](https://anilist.co/anime/10162) (21:50 14 May 2024)
--   📺 Watched episode 7 - 8 of [Bunny Drop](https://anilist.co/anime/10162) (21:39 13 May 2024)
--   📖 Plans to read [Daitoshokan no Hitsujikai](https://anilist.co/manga/92729) (05:55 13 May 2024)
--   📺 Plans to watch [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (05:55 13 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
