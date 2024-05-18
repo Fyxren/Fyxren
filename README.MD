@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 12 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (08:59 18 May 2024)
+-   📖 Read chapter 12 - 19 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (11:18 18 May 2024)
 -   📺 Watched episode 3 - 4 of [HINAMATSURI](https://anilist.co/anime/100077) (21:04 16 May 2024)
 -   📺 Watched episode 1 - 2 of [HINAMATSURI](https://anilist.co/anime/100077) (20:58 15 May 2024)
 -   📺 Plans to watch [Grand Blue Dreaming](https://anilist.co/anime/100922) (20:02 15 May 2024)
