@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Sensei, Suki desu.](https://anilist.co/manga/102865) (14:11 22 May 2024)
+-   📖 Read chapter 20 - 22 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (14:11 22 May 2024)
 -   📺 Watched episode 7 - 8 of [AHO-GIRL](https://anilist.co/anime/98251) (20:26 21 May 2024)
 -   📺 Plans to watch [The Detective Is Already Dead](https://anilist.co/anime/128712) (08:46 21 May 2024)
 -   📺 Watched episode 1 - 6 of [AHO-GIRL](https://anilist.co/anime/98251) (22:03 20 May 2024)
--   📖 Read chapter 12 - 19 of [Sensei, Suki desu.](https://anilist.co/manga/102865) (11:18 18 May 2024)
--   📺 Watched episode 3 - 4 of [HINAMATSURI](https://anilist.co/anime/100077) (21:04 16 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
