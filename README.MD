@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Tanaka-kun is Always Listless](https://anilist.co/anime/21495) (09:49 26 May 2024)
 -   📖 Read chapter 4 - 14 of [I Married My Female Friend](https://anilist.co/manga/126292) (14:31 25 May 2024)
 -   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (20:58 24 May 2024)
 -   📺 Plans to watch [WIND BREAKER](https://anilist.co/anime/163270) (20:58 24 May 2024)
 -   📺 Watched episode 1 - 2 of [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (20:57 24 May 2024)
--   📺 Completed [AHO-GIRL](https://anilist.co/anime/98251) (23:16 23 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
