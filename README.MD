@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 19 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:27 01 June 2024)
 -   📖 Read chapter 2 - 7 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (12:58 31 May 2024)
 -   📖 Read chapter 2 - 5 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (12:58 31 May 2024)
 -   📖 Read chapter 2 - 4 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (12:58 31 May 2024)
 -   📖 Read chapter 1 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:52 29 May 2024)
--   📖 Completed [I Married My Female Friend](https://anilist.co/manga/126292) (15:46 29 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
