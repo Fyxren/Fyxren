@@ -127,11 +127,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Solo Leveling](https://anilist.co/manga/105398) (12:02 08 June 2024)
+-   📖 Dropped [Chihayafuru](https://anilist.co/manga/43245) (11:52 08 June 2024)
 -   📖 Read chapter 34 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:42 07 June 2024)
 -   📖 Read chapter 30 - 33 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:26 05 June 2024)
 -   📖 Read chapter 30 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:26 05 June 2024)
--   📖 Read chapter 30 - 31 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:26 05 June 2024)
--   📖 Read chapter 29 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (13:26 05 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
