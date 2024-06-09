@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 28 of [Solo Leveling](https://anilist.co/manga/105398) (07:52 09 June 2024)
+-   📖 Read chapter 8 - 34 of [Solo Leveling](https://anilist.co/manga/105398) (08:46 09 June 2024)
 -   📖 Read chapter 1 - 7 of [Solo Leveling](https://anilist.co/manga/105398) (14:08 08 June 2024)
 -   📖 Dropped [Chihayafuru](https://anilist.co/manga/43245) (11:52 08 June 2024)
 -   📖 Read chapter 34 - 44 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (11:42 07 June 2024)
