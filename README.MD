@@ -127,7 +127,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 46 - 58 of [Solo Leveling](https://anilist.co/manga/105398) (07:00 15 June 2024)
+-   📖 Read chapter 46 - 60 of [Solo Leveling](https://anilist.co/manga/105398) (09:00 15 June 2024)
 -   📖 Read chapter 45 of [Solo Leveling](https://anilist.co/manga/105398) (09:46 14 June 2024)
 -   📖 Read chapter 40 - 44 of [Solo Leveling](https://anilist.co/manga/105398) (13:59 13 June 2024)
 -   📖 Read chapter 40 - 43 of [Solo Leveling](https://anilist.co/manga/105398) (13:59 13 June 2024)
