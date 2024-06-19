@@ -12,7 +12,7 @@ Greetings, I'm **Ben // Fyxren**, **20** years old. I **code** a bit, **game** a
 I start whatever I want and rarely finish something 👍. Mostly **buggy websites**.
 
 A few of these websites include:
-- [`[ WIP ]` Pianissimo](https://imgur.com/a/pianissimo-preview-jfnZ1n2) - _A private, invite-only sheet music platform_
+- `[ WIP ]` [Pianissimo](https://imgur.com/a/pianissimo-preview-jfnZ1n2) - _A private, invite-only sheet music platform_
 - [fyxren.com ↗](https://fyxren.com) - _Personal website_
 - [E-SEVEN](https://e-seven.fyxren.com) - _A small website to get started with Svelte_
 - [Studentenhub](https://studentenhub.fyxren.com/) - _A website I made for a Discord server of mine_
