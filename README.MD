@@ -7,13 +7,14 @@ _404 • Life not found_
 <details>
     <summary>✨ About</summary>
 
-Greetings, I'm **Ben // Fyxren**, **19** years old. I **code** a bit, **game** a bit, **try to play the [piano](https://www.youtube.com/playlist?list=PLOT6alYbTjQQ-tlYPUODnaKjDrzT-Fy2C)**, watch **[anime](https://anilist.co/user/Fyxren/animelist)** and read **[manga](https://anilist.co/user/Fyxren/mangalist)**.
+Greetings, I'm **Ben // Fyxren**, **20** years old. I **code** a bit, **game** a bit, **try to play the [piano](https://www.youtube.com/playlist?list=PLOT6alYbTjQQ-tlYPUODnaKjDrzT-Fy2C)**, watch **[anime](https://anilist.co/user/Fyxren/animelist)** and read **[manga](https://anilist.co/user/Fyxren/mangalist)**.
 
 I start whatever I want and rarely finish something 👍. Mostly **buggy websites**.
 
 A few of these websites include:
+- [`[ WIP ]` Pianissimo](https://imgur.com/a/pianissimo-preview-jfnZ1n2) - _A private, invite-only sheet music platform_
 - [fyxren.com ↗](https://fyxren.com) - _Personal website_
-- [E-SEVEN](https://e-seven.fyxren.com) - _Learning website with a real-life use-case_
+- [E-SEVEN](https://e-seven.fyxren.com) - _A small website to get started with Svelte_
 - [Studentenhub](https://studentenhub.fyxren.com/) - _A website I made for a Discord server of mine_
 
 _That's about it, my life isn't too interesting to be honest. Besides, if I've forgotten it, it wasn't too important..., right?_
@@ -41,8 +42,8 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge)
-![JavaFX](https://img.shields.io/badge/-JavaFX-000?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=intellijidea)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000?style=for-the-badge&logo=intellijidea)
 
 ![Pnpm](https://img.shields.io/badge/-Pnpm-000?style=for-the-badge&logo=Pnpm)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn)
@@ -50,6 +51,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
+![Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 ![Codesys](https://img.shields.io/badge/-Codesys-000?style=for-the-badge&logo=Codesys)
 
@@ -74,7 +76,6 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 ![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
 ![Tauri](https://img.shields.io/badge/-Tauri-000?style=for-the-badge&logo=Tauri)
 ![Siemens Logo](https://img.shields.io/badge/-Siemens%20Logo-000?style=for-the-badge&logo=siemens)
-![Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=React)
@@ -114,7 +115,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <p>
     <a href="https://socials.fyxren.com/instagram"><img src="https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram"></a>
-    <a href="https://socials.fyxren.com/twitter"><img src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter"></a>
+    <a href="https://socials.fyxren.com/twitter"><img src="https://img.shields.io/badge/-x%20(twitter)-000?style=for-the-badge&logo=x"></a>
     <a href="https://socials.fyxren.com/youtube"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube"></a>
     <a href="https://socials.fyxren.com/spotify"><img src="https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify"></a>
     <a href="https://socials.fyxren.com/anilist"><img src="https://img.shields.io/badge/-anilist-000?style=for-the-badge&logo=anilist"></a>
