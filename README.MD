@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 86 - 103 of [Solo Leveling](https://anilist.co/manga/105398) (14:58 20 June 2024)
--   📖 Read chapter 86 - 97 of [Solo Leveling](https://anilist.co/manga/105398) (11:11 20 June 2024)
--   📖 Read chapter 68 - 85 of [Solo Leveling](https://anilist.co/manga/105398) (16:41 19 June 2024)
--   📖 Read chapter 46 - 67 of [Solo Leveling](https://anilist.co/manga/105398) (11:31 15 June 2024)
--   📖 Read chapter 46 - 66 of [Solo Leveling](https://anilist.co/manga/105398) (11:31 15 June 2024)
+-   📖 Read chapter 86 - 122 of [Solo Leveling](https://anilist.co/manga/105398) (20:38 20 June 2024)
+-   📖 Read chapter 86 - 120 of [Solo Leveling](https://anilist.co/manga/105398) (20:38 20 June 2024)
+-   📖 Read chapter 86 - 115 of [Solo Leveling](https://anilist.co/manga/105398) (20:38 20 June 2024)
+-   📖 Read chapter 86 - 113 of [Solo Leveling](https://anilist.co/manga/105398) (20:38 20 June 2024)
+-   📖 Read chapter 86 - 111 of [Solo Leveling](https://anilist.co/manga/105398) (20:38 20 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
