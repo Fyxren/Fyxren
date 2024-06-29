@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 172 - 174 of [Solo Leveling](https://anilist.co/manga/105398) (08:49 29 June 2024)
 -   📖 Read chapter 162 - 171 of [Solo Leveling](https://anilist.co/manga/105398) (12:30 26 June 2024)
 -   📖 Read chapter 162 - 166 of [Solo Leveling](https://anilist.co/manga/105398) (12:30 26 June 2024)
 -   📖 Read chapter 163 of [Solo Leveling](https://anilist.co/manga/105398) (12:30 26 June 2024)
 -   📖 Read chapter 164 of [Solo Leveling](https://anilist.co/manga/105398) (12:30 26 June 2024)
--   📖 Read chapter 156 - 161 of [Solo Leveling](https://anilist.co/manga/105398) (11:20 25 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
