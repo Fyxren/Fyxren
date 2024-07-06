@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 186 - 189 of [Solo Leveling](https://anilist.co/manga/105398) (09:16 06 July 2024)
 -   📺 Watched episode 2 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:44 30 June 2024)
 -   📺 Watched episode 1 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:44 30 June 2024)
 -   📺 Dropped [A Good Librarian Like a Good Shepherd](https://anilist.co/anime/17827) (19:58 30 June 2024)
 -   📺 Dropped [HINAMATSURI](https://anilist.co/anime/100077) (19:58 30 June 2024)
--   📺 Dropped [Is the Order a Rabbit?](https://anilist.co/anime/20517) (19:58 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
