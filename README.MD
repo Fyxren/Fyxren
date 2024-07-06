@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 186 - 195 of [Solo Leveling](https://anilist.co/manga/105398) (12:18 06 July 2024)
+-   📖 Completed [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
+-   📖 Read chapter 186 - 200 of [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
+-   📖 Read chapter 186 - 197 of [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
+-   📖 Read chapter 186 - 199 of [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
 -   📖 Read chapter 186 - 194 of [Solo Leveling](https://anilist.co/manga/105398) (12:18 06 July 2024)
--   📖 Read chapter 186 - 193 of [Solo Leveling](https://anilist.co/manga/105398) (12:18 06 July 2024)
--   📖 Read chapter 186 - 191 of [Solo Leveling](https://anilist.co/manga/105398) (12:18 06 July 2024)
--   📖 Read chapter 186 - 190 of [Solo Leveling](https://anilist.co/manga/105398) (12:18 06 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
