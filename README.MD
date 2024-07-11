@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Operation: True Love](https://anilist.co/manga/149483) (13:14 11 July 2024)
 -   📺 Watched episode 1 of [My New Boss is Goofy](https://anilist.co/anime/165070) (22:37 08 July 2024)
 -   📖 Plans to read [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (16:48 06 July 2024)
 -   📖 Completed [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
 -   📖 Read chapter 186 - 200 of [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
--   📖 Read chapter 186 - 197 of [Solo Leveling](https://anilist.co/manga/105398) (14:19 06 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
