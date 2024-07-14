@@ -128,7 +128,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 - 7 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (10:29 14 July 2024)
+-   📖 Read chapter 6 - 10 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (13:20 14 July 2024)
 -   📖 Read chapter 1 - 5 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (14:06 13 July 2024)
 -   📖 Plans to read [Operation: True Love](https://anilist.co/manga/149483) (13:14 11 July 2024)
 -   📺 Watched episode 1 of [My New Boss is Goofy](https://anilist.co/anime/165070) (22:37 08 July 2024)
