@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 18 - 20 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (09:14 19 July 2024)
 -   📖 Read chapter 11 - 17 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (14:32 18 July 2024)
 -   📺 Plans to watch [Bakemonogatari](https://anilist.co/anime/5081) (14:54 17 July 2024)
 -   📖 Read chapter 6 - 10 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (13:20 14 July 2024)
 -   📖 Read chapter 1 - 5 of [Mahouka Koukou no Rettousei: Nyuugaku-hen](https://anilist.co/manga/63699) (14:06 13 July 2024)
--   📖 Plans to read [Operation: True Love](https://anilist.co/manga/149483) (13:14 11 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
