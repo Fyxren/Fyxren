@@ -128,7 +128,7 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 21 - 26 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (11:53 16 August 2024)
+-   📖 Read chapter 21 - 28 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (14:16 16 August 2024)
 -   📖 Read chapter 21 - 25 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (11:53 16 August 2024)
 -   📖 Read chapter 21 - 24 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (11:53 16 August 2024)
 -   📖 Read chapter 15 - 20 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (13:54 14 August 2024)
