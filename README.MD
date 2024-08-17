@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Mahouka Koukou no Rettousei: Natsuyasumi-hen](https://anilist.co/manga/100196) (14:30 17 August 2024)
 -   📖 Completed [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (11:57 17 August 2024)
 -   📖 Read chapter 29 - 31 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (09:12 17 August 2024)
 -   📖 Read chapter 21 - 28 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (14:16 16 August 2024)
 -   📖 Read chapter 21 - 25 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (11:53 16 August 2024)
--   📖 Read chapter 21 - 24 of [Mahouka Koukou no Rettousei: Kyuukousen-hen](https://anilist.co/manga/85196) (11:53 16 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
