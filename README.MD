@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Inkya na Tsubame wa Kawaritai](https://anilist.co/manga/170972) (22:54 18 February 2025)
+-   📖 Dropped [You Talk Too Much, So Just Shut It Already!](https://anilist.co/manga/149337) (22:54 18 February 2025)
+-   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (22:17 18 February 2025)
 -   📖 Read chapter 4 - 11 of [Mahouka Koukou no Rettousei: Yokohama Souran-hen](https://anilist.co/manga/86053) (14:59 18 February 2025)
 -   📖 Read chapter 1 of [Mahouka Koukou no Rettousei: Yokohama Souran-hen](https://anilist.co/manga/86053) (12:08 26 August 2024)
--   📖 Completed [Mahouka Koukou no Rettousei: Kaichou Senkyo-hen](https://anilist.co/manga/107825) (11:58 26 August 2024)
--   📖 Read chapter 1 - 5 of [Mahouka Koukou no Rettousei: Kaichou Senkyo-hen](https://anilist.co/manga/107825) (11:58 26 August 2024)
--   📺 Plans to watch [Makeine: Too Many Losing Heroines!](https://anilist.co/anime/171457) (18:54 25 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
