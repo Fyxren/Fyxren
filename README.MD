@@ -128,11 +128,11 @@ _That's about it, my life isn't too interesting to be honest. Besides, if I've f
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 11 of [Mahouka Koukou no Rettousei: Yokohama Souran-hen](https://anilist.co/manga/86053) (14:59 18 February 2025)
 -   📖 Read chapter 1 of [Mahouka Koukou no Rettousei: Yokohama Souran-hen](https://anilist.co/manga/86053) (12:08 26 August 2024)
 -   📖 Completed [Mahouka Koukou no Rettousei: Kaichou Senkyo-hen](https://anilist.co/manga/107825) (11:58 26 August 2024)
 -   📖 Read chapter 1 - 5 of [Mahouka Koukou no Rettousei: Kaichou Senkyo-hen](https://anilist.co/manga/107825) (11:58 26 August 2024)
 -   📺 Plans to watch [Makeine: Too Many Losing Heroines!](https://anilist.co/anime/171457) (18:54 25 August 2024)
--   📖 Completed [Mahouka Koukou no Rettousei: Natsuyasumi-hen](https://anilist.co/manga/100196) (12:02 24 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
